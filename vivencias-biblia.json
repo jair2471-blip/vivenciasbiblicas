@@ -1,503 +1,494 @@
-PROYECTO: PERSONAJES BÍBLICOS POR VIVENCIAS
-FORMATO: JSON
-
-"david_miedo": {
-  "personaje": "David",
-  "vivencia": "Cuando David fue enviado al campo de batalla y vio a Goliat, sintió el peso del miedo que paralizaba a todo Israel. No era solo el tamaño del gigante, era la sensación de ser pequeño frente a un problema enorme.",
-  "versiculo": "Jehová es mi luz y mi salvación; ¿de quién temeré? Jehová es la fortaleza de mi vida; ¿de quién he de atemorizarme? (Salmo 27:1)",
-  "extra": "En el día que temo, yo en ti confío (Salmo 56:3)",
-  "oracion": "Señor, cuando el miedo me haga sentir pequeño, recuérdame que Tú eres más grande que cualquier gigante.",
-  "categoria": "miedo"
-},
-"david_culpa": {
-  "personaje": "David",
-  "vivencia": "Después de su pecado con Betsabé y la muerte de Urías, David quedó quebrantado por la culpa. No intentó justificarse ni huir; reconoció su pecado delante de Dios con un corazón arrepentido.",
-  "versiculo": "Contra ti, contra ti solo he pecado, y he hecho lo malo delante de tus ojos (Salmo 51:4)",
-  "extra": "El corazón contrito y humillado no despreciarás tú, oh Dios (Salmo 51:17)",
-  "oracion": "Señor, límpiame de toda culpa y crea en mí un corazón limpio, como hiciste con David.",
-  "categoria": "emociones"
-},
-"david_confianza": {
-  "personaje": "David",
-  "vivencia": "Aun perseguido por Saúl y viviendo como fugitivo, David decidió confiar en Dios en lugar de vengarse. Sabía que su destino no dependía de sus fuerzas, sino del tiempo perfecto de Dios.",
-  "versiculo": "En Dios solamente está acallada mi alma; de él viene mi salvación (Salmo 62:1)",
-  "extra": "Encomienda a Jehová tu camino, y confía en él; y él hará (Salmo 37:5)",
-  "oracion": "Señor, enséñame a confiar en ti cuando no entiendo lo que estás haciendo.",
-  "categoria": "virtudes"
-},
-"david_espera": {
-  "personaje": "David",
-  "vivencia": "Aunque fue ungido como rey siendo joven, David tuvo que esperar muchos años antes de ver cumplida la promesa. Aprendió que la espera no es pérdida de tiempo, sino formación del corazón.",
-  "versiculo": "Aguarda a Jehová; esfuérzate, y aliéntese tu corazón; sí, espera a Jehová (Salmo 27:14)",
-  "extra": "Bueno es Jehová a los que en él esperan (Lamentaciones 3:25)",
-  "oracion": "Señor, dame paciencia para esperar tus tiempos sin desesperarme.",
-  "categoria": "emociones"
-},
-"david_restauracion": {
-  "personaje": "David",
-  "vivencia": "A pesar de sus errores, Dios restauró a David y lo sostuvo hasta el final de su vida. No fue un rey perfecto, pero fue un hombre conforme al corazón de Dios.",
-  "versiculo": "Jehová sostiene a todos los que caen, y levanta a todos los oprimidos (Salmo 145:14)",
-  "extra": "El que comenzó en vosotros la buena obra, la perfeccionará (Filipenses 1:6)",
-  "oracion": "Señor, gracias porque tu gracia me restaura aun después de mis caídas.",
-  "categoria": "virtudes"
-},
-"david_soledad": {
-  "personaje": "David",
-  "vivencia": "En las cuevas, lejos del palacio y de la seguridad, David experimentó la soledad más profunda. Aprendió que aun cuando nadie más estaba cerca, Dios no lo había abandonado.",
-  "versiculo": "Aunque mi padre y mi madre me dejaran, con todo, Jehová me recogerá (Salmo 27:10)",
-  "extra": "Cercano está Jehová a los quebrantados de corazón (Salmo 34:18)",
-  "oracion": "Señor, acompáñame cuando la soledad pese más que las palabras.",
-  "categoria": "emociones"
-},
-"david_persecucion": {
-  "personaje": "David",
-  "vivencia": "Perseguido injustamente por Saúl, David tuvo que huir para salvar su vida. En medio del peligro constante, aprendió a confiar en Dios como su refugio.",
-  "versiculo": "Ten misericordia de mí, oh Dios, ten misericordia de mí; porque en ti ha confiado mi alma (Salmo 57:1)",
-  "extra": "Dios es nuestro amparo y fortaleza (Salmo 46:1)",
-  "oracion": "Señor, sé mi refugio cuando me sienta atacado o incomprendido.",
-  "categoria": "pruebas"
-},
-"david_humildad": {
-  "personaje": "David",
-  "vivencia": "A pesar de ser rey, David no se exaltó a sí mismo. Reconocía que todo lo que tenía provenía de Dios y se humillaba delante de Él con sinceridad.",
-  "versiculo": "Jehová exalta a los humildes (Salmo 147:6)",
-  "extra": "Antes del quebrantamiento es la soberbia, y antes de la caída la altivez de espíritu (Proverbios 16:18)",
-  "oracion": "Señor, guarda mi corazón de la soberbia y enséñame a caminar en humildad.",
-  "categoria": "virtudes"
-},
-"david_alabanza": {
-  "personaje": "David",
-  "vivencia": "David expresaba su fe a través de la alabanza, incluso en medio del dolor. Para él, adorar no era negar la realidad, sino confiar en Dios por encima de ella.",
-  "versiculo": "Bendeciré a Jehová en todo tiempo; su alabanza estará de continuo en mi boca (Salmo 34:1)",
-  "extra": "Cantad a Jehová cántico nuevo (Salmo 96:1)",
-  "oracion": "Señor, que mi alabanza no dependa de las circunstancias, sino de mi fe en ti.",
-  "categoria": "adoracion"
-},
-"david_obediencia": {
-  "personaje": "David",
-  "vivencia": "En momentos decisivos, David consultaba a Dios antes de actuar. Entendió que obedecer no era una carga, sino una forma de protección.",
-  "versiculo": "Reconócelo en todos tus caminos, y él enderezará tus veredas (Proverbios 3:6)",
-  "extra": "El obedecer es mejor que los sacrificios (1 Samuel 15:22)",
-  "oracion": "Señor, enséñame a buscar tu dirección antes de tomar decisiones.",
-  "categoria": "virtudes"
-},
-"david_arrepentimiento": {
-  "personaje": "David",
-  "vivencia": "Después de ser confrontado por el profeta Natán, David no endureció su corazón. Reconoció su pecado y se volvió a Dios con un arrepentimiento sincero, sin excusas ni justificaciones.",
-  "versiculo": "Crea en mí, oh Dios, un corazón limpio, y renueva un espíritu recto dentro de mí (Salmo 51:10)",
-  "extra": "El que encubre sus pecados no prosperará; mas el que los confiesa y se aparta alcanzará misericordia (Proverbios 28:13)",
-  "oracion": "Señor, dame un corazón sensible que se arrepienta cuando falle.",
-  "categoria": "arrepentimiento"
-},
-"david_liderazgo": {
-  "personaje": "David",
-  "vivencia": "David aprendió a liderar no desde el poder, sino desde la experiencia y la cercanía. Antes de ser rey, fue pastor, guerrero y fugitivo, y eso formó su carácter como líder.",
-  "versiculo": "Y los apacentó conforme a la integridad de su corazón, los pastoreó con la pericia de sus manos (Salmo 78:72)",
-  "extra": "El mayor entre vosotros sea vuestro servidor (Mateo 23:11)",
-  "oracion": "Señor, enséñame a liderar con integridad y servicio.",
-  "categoria": "liderazgo"
-},
-"david_gratitud": {
-  "personaje": "David",
-  "vivencia": "A lo largo de su vida, David reconoció constantemente la mano de Dios en cada victoria y en cada rescate. Su gratitud no dependía de la comodidad, sino del reconocimiento de la fidelidad divina.",
-  "versiculo": "Bendice, alma mía, a Jehová, y no olvides ninguno de sus beneficios (Salmo 103:2)",
-  "extra": "Dad gracias en todo, porque esta es la voluntad de Dios (1 Tesalonicenses 5:18)",
-  "oracion": "Señor, ayúdame a no olvidar todo lo bueno que has hecho por mí.",
-  "categoria": "gratitud"
-},
-"david_justicia": {
-  "personaje": "David",
-  "vivencia": "Aunque tuvo la oportunidad de vengarse de Saúl, David decidió actuar con justicia y respeto. Entendió que la justicia verdadera no se impone con violencia, sino con obediencia a Dios.",
-  "versiculo": "Apártate del mal y haz el bien; busca la paz y síguela (Salmo 34:14)",
-  "extra": "Bienaventurados los que tienen hambre y sed de justicia (Mateo 5:6)",
-  "oracion": "Señor, guíame para actuar con justicia aun cuando sea difícil.",
-  "categoria": "justicia"
-},
-"david_esperanza": {
-  "personaje": "David",
-  "vivencia": "En medio de la adversidad, David nunca perdió la esperanza en Dios. Aprendió que aun cuando las circunstancias no cambian de inmediato, la esperanza en Dios sostiene el alma.",
-  "versiculo": "Espera en Jehová, y guarda su camino, y él te exaltará (Salmo 37:34)",
-  "extra": "Porque yo sé los pensamientos que tengo acerca de vosotros, dice Jehová (Jeremías 29:11)",
-  "oracion": "Señor, fortalece mi esperanza cuando el futuro se vea incierto.",
-  "categoria": "esperanza"
-},
-
-"pedro_impulsividad": {
-  "personaje": "Pedro",
-  "vivencia": "Pedro hablaba y actuaba movido por el impulso de su corazón. Su deseo de agradar a Jesús era sincero, pero muchas veces reaccionaba sin comprender del todo la voluntad de Dios.",
-  "versiculo": "Entonces Pedro dijo: Señor, bueno es para nosotros que estemos aquí (Mateo 17:4)",
-  "extra": "El que guarda su boca guarda su alma (Proverbios 13:3)",
-  "oracion": "Señor, ayúdame a escuchar antes de hablar y a obedecer antes de actuar.",
-  "categoria": "caracter"
-},
-"pedro_fe_atreve": {
-  "personaje": "Pedro",
-  "vivencia": "Cuando vio a Jesús caminando sobre el agua, Pedro se atrevió a dar el paso. Su fe no fue perfecta, pero fue valiente: prefirió intentarlo antes que quedarse seguro en la barca.",
-  "versiculo": "Ven. Y descendiendo Pedro de la barca, andaba sobre las aguas para ir a Jesús (Mateo 14:29)",
-  "extra": "Porque por fe andamos, no por vista (2 Corintios 5:7)",
-  "oracion": "Señor, dame una fe que se atreva a salir de la comodidad.",
-  "categoria": "fe"
-},
-"pedro_duda": {
-  "personaje": "Pedro",
-  "vivencia": "Mientras caminaba sobre el agua, Pedro quitó la mirada de Jesús y comenzó a hundirse. La duda apareció cuando permitió que el miedo fuera más fuerte que su fe.",
-  "versiculo": "Hombre de poca fe, ¿por qué dudaste? (Mateo 14:31)",
-  "extra": "El que duda es semejante a la onda del mar (Santiago 1:6)",
-  "oracion": "Señor, cuando dude, ayúdame a volver a fijar mis ojos en ti.",
-  "categoria": "emociones"
-},
-"pedro_negacion": {
-  "personaje": "Pedro",
-  "vivencia": "A pesar de haber prometido fidelidad absoluta, Pedro negó a Jesús tres veces por miedo. La presión del momento fue más fuerte que su valentía.",
-  "versiculo": "Antes que cante el gallo, me negarás tres veces (Mateo 26:34)",
-  "extra": "El espíritu a la verdad está dispuesto, pero la carne es débil (Mateo 26:41)",
-  "oracion": "Señor, fortaléceme cuando el miedo quiera hacerme negar lo que creo.",
-  "categoria": "caida"
-},
-"pedro_quebranto": {
-  "personaje": "Pedro",
-  "vivencia": "Después de negar a Jesús, Pedro lloró amargamente. Su llanto no fue solo tristeza, fue el inicio de un arrepentimiento que preparó su restauración.",
-  "versiculo": "Y saliendo fuera, lloró amargamente (Lucas 22:62)",
-  "extra": "Cercano está Jehová a los quebrantados de corazón (Salmo 34:18)",
-  "oracion": "Señor, transforma mi dolor en arrepentimiento verdadero.",
-  "categoria": "arrepentimiento"
-},
-"pedro_mirada_jesus": {
-  "personaje": "Pedro",
-  "vivencia": "Después de negarlo, Jesús no le gritó ni lo expuso. Solo lo miró. Esa mirada atravesó el corazón de Pedro y marcó el comienzo de su restauración.",
-  "versiculo": "Y vuelto el Señor, miró a Pedro (Lucas 22:61)",
-  "extra": "Jehová mira el corazón (1 Samuel 16:7)",
-  "oracion": "Señor, permíteme sentir tu mirada que restaura y no condena.",
-  "categoria": "restauracion"
-},
-"pedro_obediencia": {
-  "personaje": "Pedro",
-  "vivencia": "Tras la resurrección, Pedro volvió a pescar. No predicaba, no lideraba, solo obedecía en silencio mientras esperaba dirección.",
-  "versiculo": "Voy a pescar. Ellos le dijeron: Vamos nosotros también contigo (Juan 21:3)",
-  "extra": "Mejor es esperar en Jehová que confiar en el hombre (Salmo 118:8)",
-  "oracion": "Señor, enséñame a obedecer aun cuando no entiendo lo que viene.",
-  "categoria": "espera"
-},
-"pedro_restaurado_amor": {
-  "personaje": "Pedro",
-  "vivencia": "Jesús no le preguntó a Pedro por su fracaso, sino por su amor. Tres preguntas, tres afirmaciones, tres oportunidades para sanar.",
-  "versiculo": "Simón, hijo de Jonás, ¿me amas? (Juan 21:15)",
-  "extra": "El amor cubre multitud de pecados (1 Pedro 4:8)",
-  "oracion": "Señor, restaura mi llamado a través de tu amor.",
-  "categoria": "restauracion"
-},
-"pedro_llamado_renovado": {
-  "personaje": "Pedro",
-  "vivencia": "Jesús no solo lo perdonó, lo volvió a llamar. El fracaso no canceló su propósito.",
-  "versiculo": "Apacienta mis ovejas (Juan 21:17)",
-  "extra": "Porque irrevocables son los dones y el llamamiento de Dios (Romanos 11:29)",
-  "oracion": "Señor, ayúdame a aceptar el llamado que Tú no me quitaste.",
-  "categoria": "llamado"
-},
-"pedro_valentia": {
-  "personaje": "Pedro",
-  "vivencia": "El mismo Pedro que negó a Jesús por miedo, ahora lo predica sin temor delante de multitudes.",
-  "versiculo": "Entonces Pedro, poniéndose en pie con los once, alzó la voz (Hechos 2:14)",
-  "extra": "Porque no nos ha dado Dios espíritu de cobardía (2 Timoteo 1:7)",
-  "oracion": "Señor, transforma mi temor en valentía por tu Espíritu.",
-  "categoria": "valentia"
-},
-"pedro_liderazgo": {
-  "personaje": "Pedro",
-  "vivencia": "El liderazgo de Pedro no nació de la perfección, sino del dolor transformado. Guiaba con autoridad porque había sido quebrado primero.",
-  "versiculo": "Apacentad la grey de Dios que está entre vosotros (1 Pedro 5:2)",
-  "extra": "El que quiera ser el primero, será el servidor de todos (Marcos 9:35)",
-  "oracion": "Señor, forma mi liderazgo desde la humildad y no desde el ego.",
-  "categoria": "liderazgo"
-},
-"pedro_humildad": {
-  "personaje": "Pedro",
-  "vivencia": "Aquel que quiso caminar sobre las aguas aprendió que la verdadera firmeza nace de la humildad delante de Dios.",
-  "versiculo": "Humillaos, pues, bajo la poderosa mano de Dios (1 Pedro 5:6)",
-  "extra": "Antes del quebrantamiento es la soberbia (Proverbios 16:18)",
-  "oracion": "Señor, enséñame a caminar firme sin dejar de ser humilde.",
-  "categoria": "humildad"
-},
-"pedro_perseverancia": {
-  "personaje": "Pedro",
-  "vivencia": "Fue encarcelado, amenazado y perseguido, pero nunca volvió atrás. Aprendió que seguir a Cristo también implica resistir.",
-  "versiculo": "Es necesario obedecer a Dios antes que a los hombres (Hechos 5:29)",
-  "extra": "El que persevere hasta el fin, este será salvo (Mateo 24:13)",
-  "oracion": "Señor, dame perseverancia para no rendirme cuando el camino se haga difícil.",
-  "categoria": "perseverancia"
-},
-"pedro_fidelidad_final": {
-  "personaje": "Pedro",
-  "vivencia": "Según la tradición, Pedro fue crucificado cabeza abajo, considerando indigno morir como su Maestro. Su fe llegó hasta el final.",
-  "versiculo": "Cuando seas viejo, otro te ceñirá, y te llevará a donde no quieras (Juan 21:18)",
-  "extra": "Sé fiel hasta la muerte, y yo te daré la corona de la vida (Apocalipsis 2:10)",
-  "oracion": "Señor, dame una fe que permanezca firme hasta el último día.",
-  "categoria": "fidelidad"
-},
-"pedro_legado": {
-  "personaje": "Pedro",
-  "vivencia": "Pedro pasó de ser un pescador impulsivo a un pilar de la iglesia. Su vida demuestra que Dios no llama a los capaces, sino que capacita a los llamados.",
-  "versiculo": "Para que anunciéis las virtudes de aquel que os llamó de las tinieblas a su luz admirable (1 Pedro 2:9)",
-  "extra": "El que comenzó en vosotros la buena obra, la perfeccionará (Filipenses 1:6)",
-  "oracion": "Señor, que mi vida deje un legado que apunte siempre a Ti.",
-  "categoria": "legado"
-}
-"pablo_celo": {
-  "personaje": "Pablo",
-  "vivencia": "Antes de conocer a Cristo, Pablo estaba convencido de que servía a Dios persiguiendo a los cristianos. Su celo era sincero, pero estaba mal dirigido.",
-  "versiculo": "Yo ciertamente había creído mi deber hacer muchas cosas contra el nombre de Jesús de Nazaret (Hechos 26:9)",
-  "extra": "Hay camino que al hombre le parece derecho, pero su fin es camino de muerte (Proverbios 14:12)",
-  "oracion": "Señor, líbrame de creer que estoy en lo correcto sin consultarte a Ti.",
-  "categoria": "error"
-},
-"pablo_violencia": {
-  "personaje": "Pablo",
-  "vivencia": "Respaldó la muerte de Esteban y persiguió con dureza a la iglesia, convencido de que hacía justicia.",
-  "versiculo": "Y Saulo consentía en su muerte (Hechos 8:1)",
-  "extra": "La ira del hombre no obra la justicia de Dios (Santiago 1:20)",
-  "oracion": "Señor, muéstrame cuando mi enojo se disfraza de justicia.",
-  "categoria": "violencia"
-},
-"pablo_encuentro": {
-  "personaje": "Pablo",
-  "vivencia": "En el camino a Damasco, Pablo fue derribado por una luz del cielo. No fue invitado, fue confrontado.",
-  "versiculo": "Saulo, Saulo, ¿por qué me persigues? (Hechos 9:4)",
-  "extra": "Dios resiste a los soberbios, y da gracia a los humildes (Santiago 4:6)",
-  "oracion": "Señor, si debo caer para verte, enséñame a rendirme.",
-  "categoria": "encuentro"
-},
-"pablo_ceguera": {
-  "personaje": "Pablo",
-  "vivencia": "Quedó ciego por tres días. Perdió la vista para comenzar a ver realmente.",
-  "versiculo": "Y estuvo tres días sin ver (Hechos 9:9)",
-  "extra": "Entonces les abrió el entendimiento (Lucas 24:45)",
-  "oracion": "Señor, quita de mí toda ceguera espiritual.",
-  "categoria": "quebrantamiento"
-},
-"pablo_humildad": {
-  "personaje": "Pablo",
-  "vivencia": "El gran fariseo tuvo que recibir instrucción de un discípulo sencillo llamado Ananías.",
-  "versiculo": "Hermano Saulo, el Señor Jesús me envió (Hechos 9:17)",
-  "extra": "Antes del honor es la humildad (Proverbios 18:12)",
-  "oracion": "Señor, dame un corazón enseñable aunque crea saber mucho.",
-  "categoria": "humildad"
-},
-"pablo_llamado": {
-  "personaje": "Pablo",
-  "vivencia": "Dios le reveló que su llamado no estaría lleno de aplausos, sino de sufrimiento por causa de Cristo.",
-  "versiculo": "Porque yo le mostraré cuánto le es necesario padecer por mi nombre (Hechos 9:16)",
-  "extra": "A vosotros os es concedido padecer por él (Filipenses 1:29)",
-  "oracion": "Señor, ayúdame a aceptar tu llamado aun cuando implique dolor.",
-  "categoria": "llamado"
-},
-"pablo_rechazo": {
-  "personaje": "Pablo",
-  "vivencia": "Los judíos, a quienes él había defendido, ahora querían matarlo. El rechazo vino de su propio mundo.",
-  "versiculo": "Los judíos resolvieron matarle (Hechos 9:23)",
-  "extra": "No hay profeta sin honra, sino en su propia tierra (Mateo 13:57)",
-  "oracion": "Señor, dame fortaleza cuando sea rechazado por aquellos que más esperaba.",
-  "categoria": "rechazo"
-},
-"pablo_soledad": {
-  "personaje": "Pablo",
-  "vivencia": "Pasó tiempo en silencio y soledad antes de ser reconocido. Dios lo formó lejos del escenario.",
-  "versiculo": "No subí a Jerusalén… sino que fui a Arabia (Gálatas 1:17)",
-  "extra": "Estad quietos, y conoced que yo soy Dios (Salmo 46:10)",
-  "oracion": "Señor, enséñame a valorar los tiempos de silencio y formación.",
-  "categoria": "soledad"
-},
-"pablo_golpes": {
-  "personaje": "Pablo",
-  "vivencia": "Fue perseguido, golpeado y expulsado, pero nunca retrocedió en su misión.",
-  "versiculo": "Cinco veces he recibido de los judíos cuarenta azotes menos uno (2 Corintios 11:24)",
-  "extra": "Muchas son las aflicciones del justo (Salmo 34:19)",
-  "oracion": "Señor, dame resistencia para seguir adelante cuando duela.",
-  "categoria": "persecucion"
-},
-"pablo_obediencia": {
-  "personaje": "Pablo",
-  "vivencia": "Predicó, viajó y enseñó durante años sin fama ni reconocimiento, confiando solo en la aprobación de Dios.",
-  "versiculo": "Si todavía agradara a los hombres, no sería siervo de Cristo (Gálatas 1:10)",
-  "extra": "El que es fiel en lo poco, también en lo mucho es fiel (Lucas 16:10)",
-  "oracion": "Señor, que mi obediencia no dependa de la aprobación de otros.",
-  "categoria": "obediencia"
-},
-"pablo_carcel": {
-  "personaje": "Pablo",
-  "vivencia": "Fue encarcelado varias veces, pero las cadenas nunca lograron encadenar su mensaje.",
-  "versiculo": "La palabra de Dios no está presa (2 Timoteo 2:9)",
-  "extra": "Bienaventurados los perseguidos por causa de la justicia (Mateo 5:10)",
-  "oracion": "Señor, que ninguna circunstancia silencie mi fe.",
-  "categoria": "perseverancia"
-},
-"pablo_gozo": {
-  "personaje": "Pablo",
-  "vivencia": "Aun preso, escribió cartas llenas de gozo y esperanza. La cárcel no apagó su espíritu.",
-  "versiculo": "Regocijaos en el Señor siempre (Filipenses 4:4)",
-  "extra": "El gozo de Jehová es vuestra fuerza (Nehemías 8:10)",
-  "oracion": "Señor, dame un gozo que no dependa de mis circunstancias.",
-  "categoria": "gozo"
-},
-"pablo_aguijon": {
-  "personaje": "Pablo",
-  "vivencia": "Dios no le quitó su debilidad, pero le enseñó que su gracia era suficiente.",
-  "versiculo": "Bástate mi gracia; porque mi poder se perfecciona en la debilidad (2 Corintios 12:9)",
-  "extra": "Cuando soy débil, entonces soy fuerte (2 Corintios 12:10)",
-  "oracion": "Señor, enséñame a depender de tu gracia en mis debilidades.",
-  "categoria": "debilidad"
-},
-"pablo_constancia": {
-  "personaje": "Pablo",
-  "vivencia": "Nunca se retiró, nunca se acomodó. Terminó su carrera con fidelidad.",
-  "versiculo": "He peleado la buena batalla, he acabado la carrera (2 Timoteo 4:7)",
-  "extra": "Sé fiel hasta la muerte (Apocalipsis 2:10)",
-  "oracion": "Señor, ayúdame a terminar bien la carrera que me encomendaste.",
-  "categoria": "fidelidad"
-},
-"pablo_legado": {
-  "personaje": "Pablo",
-  "vivencia": "De perseguidor a apóstol, su vida transformó generaciones enteras y sigue hablando hoy.",
-  "versiculo": "Sed imitadores de mí, así como yo de Cristo (1 Corintios 11:1)",
-  "extra": "El justo dejará bendición tras de sí (Proverbios 10:7)",
-  "oracion": "Señor, que mi vida deje un legado que glorifique tu nombre.",
-  "categoria": "legado"
-},
-
-  "moises_identidad": {
-    "personaje": "Moisés",
-    "vivencia": "Creció entre dos mundos: hebreo de nacimiento y egipcio por crianza. Su identidad estuvo marcada por la confusión.",
-    "versiculo": "Por la fe Moisés, hecho ya grande, rehusó llamarse hijo de la hija de Faraón (Hebreos 11:24)",
-    "extra": "El Señor conoce el camino de los justos (Salmo 1:6)",
-    "oracion": "Señor, ayúdame a entender quién soy en Ti, aun cuando mi pasado me confunda.",
-    "categoria": "identidad"
+{
+  "david": {
+    "david_miedo": {
+      "personaje": "David",
+      "vivencia": "Cuando David fue enviado al campo de batalla y vio a Goliat, sintió el peso del miedo que paralizaba a todo Israel. No era solo el tamaño del gigante, era la sensación de ser pequeño frente a un problema enorme.",
+      "versiculo": "Jehová es mi luz y mi salvación; ¿de quién temeré? Jehová es la fortaleza de mi vida; ¿de quién he de atemorizarme? (Salmo 27:1)",
+      "extra": "En el día que temo, yo en ti confío (Salmo 56:3)",
+      "oracion": "Señor, cuando el miedo me haga sentir pequeño, recuérdame que Tú eres más grande que cualquier gigante.",
+      "categoria": "miedo"
+    },
+    "david_culpa": {
+      "personaje": "David",
+      "vivencia": "Después de su pecado con Betsabé y la muerte de Urías, David quedó quebrantado por la culpa. No intentó justificarse ni huir; reconoció su pecado delante de Dios con un corazón arrepentido.",
+      "versiculo": "Contra ti, contra ti solo he pecado, y he hecho lo malo delante de tus ojos (Salmo 51:4)",
+      "extra": "El corazón contrito y humillado no despreciarás tú, oh Dios (Salmo 51:17)",
+      "oracion": "Señor, límpiame de toda culpa y crea en mí un corazón limpio, como hiciste con David.",
+      "categoria": "emociones"
+    },
+    "david_confianza": {
+      "personaje": "David",
+      "vivencia": "Aun perseguido por Saúl y viviendo como fugitivo, David decidió confiar en Dios en lugar de vengarse. Sabía que su destino no dependía de sus fuerzas, sino del tiempo perfecto de Dios.",
+      "versiculo": "En Dios solamente está acallada mi alma; de él viene mi salvación (Salmo 62:1)",
+      "extra": "Encomienda a Jehová tu camino, y confía en él; y él hará (Salmo 37:5)",
+      "oracion": "Señor, enséñame a confiar en ti cuando no entiendo lo que estás haciendo.",
+      "categoria": "virtudes"
+    },
+    "david_espera": {
+      "personaje": "David",
+      "vivencia": "Aunque fue ungido como rey siendo joven, David tuvo que esperar muchos años antes de ver cumplida la promesa. Aprendió que la espera no es pérdida de tiempo, sino formación del corazón.",
+      "versiculo": "Aguarda a Jehová; esfuérzate, y aliéntese tu corazón; sí, espera a Jehová (Salmo 27:14)",
+      "extra": "Bueno es Jehová a los que en él esperan (Lamentaciones 3:25)",
+      "oracion": "Señor, dame paciencia para esperar tus tiempos sin desesperarme.",
+      "categoria": "emociones"
+    },
+    "david_restauracion": {
+      "personaje": "David",
+      "vivencia": "A pesar de sus errores, Dios restauró a David y lo sostuvo hasta el final de su vida. No fue un rey perfecto, pero fue un hombre conforme al corazón de Dios.",
+      "versiculo": "Jehová sostiene a todos los que caen, y levanta a todos los oprimidos (Salmo 145:14)",
+      "extra": "El que comenzó en vosotros la buena obra, la perfeccionará (Filipenses 1:6)",
+      "oracion": "Señor, gracias porque tu gracia me restaura aun después de mis caídas.",
+      "categoria": "virtudes"
+    },
+    "david_soledad": {
+      "personaje": "David",
+      "vivencia": "En las cuevas, lejos del palacio y de la seguridad, David experimentó la soledad más profunda. Aprendió que aun cuando nadie más estaba cerca, Dios no lo había abandonado.",
+      "versiculo": "Aunque mi padre y mi madre me dejaran, con todo, Jehová me recogerá (Salmo 27:10)",
+      "extra": "Cercano está Jehová a los quebrantados de corazón (Salmo 34:18)",
+      "oracion": "Señor, acompáñame cuando la soledad pese más que las palabras.",
+      "categoria": "emociones"
+    },
+    "david_persecucion": {
+      "personaje": "David",
+      "vivencia": "Perseguido injustamente por Saúl, David tuvo que huir para salvar su vida. En medio del peligro constante, aprendió a confiar en Dios como su refugio.",
+      "versiculo": "Ten misericordia de mí, oh Dios, ten misericordia de mí; porque en ti ha confiado mi alma (Salmo 57:1)",
+      "extra": "Dios es nuestro amparo y fortaleza (Salmo 46:1)",
+      "oracion": "Señor, sé mi refugio cuando me sienta atacado o incomprendido.",
+      "categoria": "pruebas"
+    },
+    "david_humildad": {
+      "personaje": "David",
+      "vivencia": "A pesar de ser rey, David no se exaltó a sí mismo. Reconocía que todo lo que tenía provenía de Dios y se humillaba delante de Él con sinceridad.",
+      "versiculo": "Jehová exalta a los humildes (Salmo 147:6)",
+      "extra": "Antes del quebrantamiento es la soberbia, y antes de la caída la altivez de espíritu (Proverbios 16:18)",
+      "oracion": "Señor, guarda mi corazón de la soberbia y enséñame a caminar en humildad.",
+      "categoria": "virtudes"
+    },
+    "david_alabanza": {
+      "personaje": "David",
+      "vivencia": "David expresaba su fe a través de la alabanza, incluso en medio del dolor. Para él, adorar no era negar la realidad, sino confiar en Dios por encima de ella.",
+      "versiculo": "Bendeciré a Jehová en todo tiempo; su alabanza estará de continuo en mi boca (Salmo 34:1)",
+      "extra": "Cantad a Jehová cántico nuevo (Salmo 96:1)",
+      "oracion": "Señor, que mi alabanza no dependa de las circunstancias, sino de mi fe en ti.",
+      "categoria": "adoracion"
+    },
+    "david_obediencia": {
+      "personaje": "David",
+      "vivencia": "En momentos decisivos, David consultaba a Dios antes de actuar. Entendió que obedecer no era una carga, sino una forma de protección.",
+      "versiculo": "Reconócelo en todos tus caminos, y él enderezará tus veredas (Proverbios 3:6)",
+      "extra": "El obedecer es mejor que los sacrificios (1 Samuel 15:22)",
+      "oracion": "Señor, enséñame a buscar tu dirección antes de tomar decisiones.",
+      "categoria": "virtudes"
+    },
+    "david_arrepentimiento": {
+      "personaje": "David",
+      "vivencia": "Después de ser confrontado por el profeta Natán, David no endureció su corazón. Reconoció su pecado y se volvió a Dios con un arrepentimiento sincero, sin excusas ni justificaciones.",
+      "versiculo": "Crea en mí, oh Dios, un corazón limpio, y renueva un espíritu recto dentro de mí (Salmo 51:10)",
+      "extra": "El que encubre sus pecados no prosperará; mas el que los confiesa y se aparta alcanzará misericordia (Proverbios 28:13)",
+      "oracion": "Señor, dame un corazón sensible que se arrepienta cuando falle.",
+      "categoria": "arrepentimiento"
+    },
+    "david_liderazgo": {
+      "personaje": "David",
+      "vivencia": "David aprendió a liderar no desde el poder, sino desde la experiencia y la cercanía. Antes de ser rey, fue pastor, guerrero y fugitivo, y eso formó su carácter como líder.",
+      "versiculo": "Y los apacentó conforme a la integridad de su corazón, los pastoreó con la pericia de sus manos (Salmo 78:72)",
+      "extra": "El mayor entre vosotros sea vuestro servidor (Mateo 23:11)",
+      "oracion": "Señor, enséñame a liderar con integridad y servicio.",
+      "categoria": "liderazgo"
+    },
+    "david_gratitud": {
+      "personaje": "David",
+      "vivencia": "A lo largo de su vida, David reconoció constantemente la mano de Dios en cada victory y en cada rescate. Su gratitud no dependía de la comodidad, sino del reconocimiento de la fidelidad divina.",
+      "versiculo": "Bendice, alma mía, a Jehová, y no olvides ninguno de sus beneficios (Salmo 103:2)",
+      "extra": "Dad gracias en todo, porque esta es la voluntad de Dios (1 Tesalonicenses 5:18)",
+      "oracion": "Señor, ayúdame a no olvidar todo lo bueno que has hecho por mí.",
+      "categoria": "gratitud"
+    },
+    "david_justicia": {
+      "personaje": "David",
+      "vivencia": "Aunque tuvo la oportunidad de vengarse de Saúl, David decidió actuar con justicia y respeto. Entendió que la justicia verdadera no se impone con violencia, sino con obediencia a Dios.",
+      "versiculo": "Apártate del mal y haz el bien; busca la paz y síguela (Salmo 34:14)",
+      "extra": "Bienaventurados los que tienen hambre y sed de justicia (Mateo 5:6)",
+      "oracion": "Señor, guíame para actuar con justicia aun cuando sea difícil.",
+      "categoria": "justicia"
+    },
+    "david_esperanza": {
+      "personaje": "David",
+      "vivencia": "En medio de la adversidad, David nunca perdió la esperanza en Dios. Aprendió que aun cuando las circunstancias no cambian de inmediato, la esperanza en Dios sostiene el alma.",
+      "versiculo": "Espera en Jehová, y guarda su camino, y él te exaltará (Salmo 37:34)",
+      "extra": "Porque yo sé los pensamientos que tengo acerca de vosotros, dice Jehová (Jeremías 29:11)",
+      "oracion": "Señor, fortalece mi esperanza cuando el futuro se vea incierto.",
+      "categoria": "esperanza"
+    }
   },
-
-  "moises_impulsividad": {
-    "personaje": "Moisés",
-    "vivencia": "Actuó por impulso al matar a un egipcio, creyendo que podía adelantar el plan de Dios con sus propias manos.",
-    "versiculo": "Miró a uno y a otro lado, y mató al egipcio (Éxodo 2:12)",
-    "extra": "No con ejército, ni con fuerza, sino con mi Espíritu (Zacarías 4:6)",
-    "oracion": "Señor, líbrame de actuar sin esperar tu dirección.",
-    "categoria": "error"
+  "pedro": {
+    "pedro_impulsividad": {
+      "personaje": "Pedro",
+      "vivencia": "Pedro hablaba y actuaba movido por el impulso de su corazón. Su deseo de agradar a Jesús era sincero, pero muchas veces reaccionaba sin comprender del todo la voluntad de Dios.",
+      "versiculo": "Entonces Pedro dijo: Señor, bueno es para nosotros que estemos aquí (Mateo 17:4)",
+      "extra": "El que guarda su boca guarda su alma (Proverbios 13:3)",
+      "oracion": "Señor, ayúdame a escuchar antes de hablar y a obedecer antes de actuar.",
+      "categoria": "caracter"
+    },
+    "pedro_fe_atreve": {
+      "personaje": "Pedro",
+      "vivencia": "Cuando vio a Jesús caminando sobre el agua, Pedro se atrevió a dar el paso. Su fe no fue perfecta, pero fue valiente: prefirió intentarlo antes que quedarse seguro en la barca.",
+      "versiculo": "Ven. Y descendiendo Pedro de la barca, andaba sobre las aguas para ir a Jesús (Mateo 14:29)",
+      "extra": "Porque por fe andamos, no por vista (2 Corintios 5:7)",
+      "oracion": "Señor, dame una fe que se atreva a salir de la comodidad.",
+      "categoria": "fe"
+    },
+    "pedro_duda": {
+      "personaje": "Pedro",
+      "vivencia": "Mientras caminaba sobre el agua, Pedro quitó la mirada de Jesús y comenzó a hundirse. La duda apareció cuando permitió que el miedo fuera más fuerte que su fe.",
+      "versiculo": "Hombre de poca fe, ¿por qué dudaste? (Mateo 14:31)",
+      "extra": "El que duda es semejante a la onda del mar (Santiago 1:6)",
+      "oracion": "Señor, cuando dude, ayúdame a volver a fijar mis ojos en ti.",
+      "categoria": "emociones"
+    },
+    "pedro_negacion": {
+      "personaje": "Pedro",
+      "vivencia": "A pesar de haber prometido fidelidad absoluta, Pedro negó a Jesús tres veces por miedo. La presión del momento fue más fuerte que su valentía.",
+      "versiculo": "Antes que cante el gallo, me negarás tres veces (Mateo 26:34)",
+      "extra": "El espíritu a la verdad está dispuesto, pero la carne es débil (Mateo 26:41)",
+      "oracion": "Señor, fortaléceme cuando el miedo quiera hacerme negar lo que creo.",
+      "categoria": "caida"
+    },
+    "pedro_quebranto": {
+      "personaje": "Pedro",
+      "vivencia": "Después de negar a Jesús, Pedro lloró amargamente. Su llanto no fue solo tristeza, fue el inicio de un arrepentimiento que preparó su restauración.",
+      "versiculo": "Y saliendo fuera, lloró amargamente (Lucas 22:62)",
+      "extra": "Cercano está Jehová a los quebrantados de corazón (Salmo 34:18)",
+      "oracion": "Señor, transforma mi dolor en arrepentimiento verdadero.",
+      "categoria": "arrepentimiento"
+    },
+    "pedro_mirada_jesus": {
+      "personaje": "Pedro",
+      "vivencia": "Después de negarlo, Jesús no le gritó ni lo expuso. Solo lo miró. Esa mirada atravesó el corazón de Pedro y marcó el comienzo de su restauración.",
+      "versiculo": "Y vuelto el Señor, miró a Pedro (Lucas 22:61)",
+      "extra": "Jehová mira el corazón (1 Samuel 16:7)",
+      "oracion": "Señor, permíteme sentir tu mirada que restaura y no condena.",
+      "categoria": "restauracion"
+    },
+    "pedro_obediencia": {
+      "personaje": "Pedro",
+      "vivencia": "Tras la resurrección, Pedro volvió a pescar. No predicaba, no lideraba, solo obedecía en silencio mientras esperaba dirección.",
+      "versiculo": "Voy a pescar. Ellos le dijeron: Vamos nosotros también contigo (Juan 21:3)",
+      "extra": "Mejor es esperar en Jehová que confiar en el hombre (Salmo 118:8)",
+      "oracion": "Señor, enséñame a obedecer aun cuando no entiendo lo que viene.",
+      "categoria": "espera"
+    },
+    "pedro_restaurado_amor": {
+      "personaje": "Pedro",
+      "vivencia": "Jesús no le preguntó a Pedro por su fracaso, sino por su amor. Tres preguntas, tres afirmaciones, tres oportunidades para sanar.",
+      "versiculo": "Simón, hijo de Jonás, ¿me amas? (Juan 21:15)",
+      "extra": "El amor cubre multitud de pecados (1 Pedro 4:8)",
+      "oracion": "Señor, restaura mi llamado a través de tu amor.",
+      "categoria": "restauracion"
+    },
+    "pedro_llamado_renovado": {
+      "personaje": "Pedro",
+      "vivencia": "Jesús no solo lo perdonó, lo volvió a llamar. El fracaso no canceló su propósito.",
+      "versiculo": "Apacienta mis ovejas (Juan 21:17)",
+      "extra": "Porque irrevocables son los dones y el llamamiento de Dios (Romanos 11:29)",
+      "oracion": "Señor, ayúdame a aceptar el llamado que Tú no me quitaste.",
+      "categoria": "llamado"
+    },
+    "pedro_valentia": {
+      "personaje": "Pedro",
+      "vivencia": "El mismo Pedro que negó a Jesús por miedo, ahora lo predica sin temor delante de multitudes.",
+      "versiculo": "Entonces Pedro, poniéndose en pie con los once, alzó la voz (Hechos 2:14)",
+      "extra": "Porque no nos ha dado Dios espíritu de cobardía (2 Timoteo 1:7)",
+      "oracion": "Señor, transforma mi temor en valentía por tu Espíritu.",
+      "categoria": "valentia"
+    },
+    "pedro_liderazgo": {
+      "personaje": "Pedro",
+      "vivencia": "El liderazgo de Pedro no nació de la perfección, sino del dolor transformado. Guiaba con autoridad porque había sido quebrado primero.",
+      "versiculo": "Apacentad la grey de Dios que está entre vosotros (1 Pedro 5:2)",
+      "extra": "El que quiera ser el primero, será el servidor de todos (Marcos 9:35)",
+      "oracion": "Señor, forma mi liderazgo desde la humildad y no desde el ego.",
+      "categoria": "liderazgo"
+    },
+    "pedro_humildad": {
+      "personaje": "Pedro",
+      "vivencia": "Aquel que quiso caminar sobre las aguas aprendió que la verdadera firmeza nace de la humildad delante de Dios.",
+      "versiculo": "Humillaos, pues, bajo la poderosa mano de Dios (1 Pedro 5:6)",
+      "extra": "Antes del quebrantamiento es la soberbia (Proverbios 16:18)",
+      "oracion": "Señor, enséñame a caminar firme sin dejar de ser humilde.",
+      "categoria": "humildad"
+    },
+    "pedro_perseverancia": {
+      "personaje": "Pedro",
+      "vivencia": "Fue encarcelado, amenazado y perseguido, pero nunca volvió atrás. Aprendió que seguir a Cristo también implica resistir.",
+      "versiculo": "Es necesario obedecer a Dios antes que a los hombres (Hechos 5:29)",
+      "extra": "El que persevere hasta el fin, este será salvo (Mateo 24:13)",
+      "oracion": "Señor, dame perseverancia para no rendirme cuando el camino se haga difícil.",
+      "categoria": "perseverancia"
+    },
+    "pedro_fidelidad_final": {
+      "personaje": "Pedro",
+      "vivencia": "Según la tradición, Pedro fue crucificado cabeza abajo, considerando indigno morir como su Maestro. Su fe llegó hasta el final.",
+      "versiculo": "Cuando seas viejo, otro te ceñirá, y te llevará a donde no quieras (Juan 21:18)",
+      "extra": "Sé fiel hasta la muerte, y yo te daré la corona de la vida (Apocalipsis 2:10)",
+      "oracion": "Señor, dame una fe que permanezca firme hasta el último día.",
+      "categoria": "fidelidad"
+    },
+    "pedro_legado": {
+      "personaje": "Pedro",
+      "vivencia": "Pedro pasó de ser un pescador impulsivo a un pilar de la iglesia. Su vida demuestra que Dios no llama a los capaces, sino que capacita a los llamados.",
+      "versiculo": "Para que anunciéis las virtudes de aquel que os llamó de las tinieblas a su luz admirable (1 Pedro 2:9)",
+      "extra": "El que comenzó en vosotros la buena obra, la perfeccionará (Filipenses 1:6)",
+      "oracion": "Señor, que mi vida deje un legado que apunte siempre a Ti.",
+      "categoria": "legado"
+    }
   },
-
-  "moises_huida": {
-    "personaje": "Moisés",
-    "vivencia": "Huyó al desierto para salvar su vida. El líder fue formado lejos del palacio.",
-    "versiculo": "Entonces Moisés huyó de delante de Faraón, y habitó en la tierra de Madián (Éxodo 2:15)",
-    "extra": "Dios prepara en secreto a quienes usará en público (Salmo 105:19)",
-    "oracion": "Señor, enséñame a aprovechar los tiempos de silencio y espera.",
-    "categoria": "proceso"
+  "pablo": {
+    "pablo_celo": {
+      "personaje": "Pablo",
+      "vivencia": "Antes de conocer a Cristo, Pablo estaba convencido de que servía a Dios persiguiendo a los cristianos. Su celo era sincero, pero estaba mal dirigido.",
+      "versiculo": "Yo ciertamente había creído mi deber hacer muchas cosas contra el nombre de Jesús de Nazaret (Hechos 26:9)",
+      "extra": "Hay camino que al hombre le parece derecho, pero su fin es camino de muerte (Proverbios 14:12)",
+      "oracion": "Señor, líbrame de creer que estoy en lo correcto sin consultarte a Ti.",
+      "categoria": "error"
+    },
+    "pablo_violencia": {
+      "personaje": "Pablo",
+      "vivencia": "Respaldó la muerte de Esteban y persiguió con dureza a la iglesia, convencido de que hacía justicia.",
+      "versiculo": "Y Saulo consentía en su muerte (Hechos 8:1)",
+      "extra": "La ira del hombre no obra la justicia de Dios (Santiago 1:20)",
+      "oracion": "Señor, muéstrame cuando mi enojo se disfraza de justicia.",
+      "categoria": "violence"
+    },
+    "pablo_encuentro": {
+      "personaje": "Pablo",
+      "vivencia": "En el camino a Damasco, Pablo fue derribado por una luz del cielo. No fue invitado, fue confrontado.",
+      "versiculo": "Saulo, Saulo, ¿por qué me persigues? (Hechos 9:4)",
+      "extra": "Dios resiste a los soberbios, y da gracia a los humildes (Santiago 4:6)",
+      "oracion": "Señor, si debo caer para verte, enséñame a rendirme.",
+      "categoria": "encuentro"
+    },
+    "pablo_ceguera": {
+      "personaje": "Pablo",
+      "vivencia": "Quedó ciego por tres días. Perdió la vista para comenzar a ver realmente.",
+      "versiculo": "Y estuvo tres días sin ver (Hechos 9:9)",
+      "extra": "Entonces les abrió el entendimiento (Lucas 24:45)",
+      "oracion": "Señor, quita de mí toda ceguera espiritual.",
+      "categoria": "quebrantamiento"
+    },
+    "pablo_humildad": {
+      "personaje": "Pablo",
+      "vivencia": "El gran fariseo tuvo que recibir instrucción de un discípulo sencillo llamado Ananías.",
+      "versiculo": "Hermano Saulo, el Señor Jesús me envió (Hechos 9:17)",
+      "extra": "Antes del honor es la humildad (Proverbios 18:12)",
+      "oracion": "Señor, dame un corazón enseñable aunque crea saber mucho.",
+      "categoria": "humildad"
+    },
+    "pablo_llamado": {
+      "personaje": "Pablo",
+      "vivencia": "Dios le reveló que su llamado no estaría lleno de aplausos, sino de sufrimiento por causa de Cristo.",
+      "versiculo": "Porque yo le mostraré cuánto le es necesario padecer por mi nombre (Hechos 9:16)",
+      "extra": "A vosotros os es concedido padecer por él (Filipenses 1:29)",
+      "oracion": "Señor, ayúdame a aceptar tu llamado aun cuando implique dolor.",
+      "categoria": "llamado"
+    },
+    "pablo_rechazo": {
+      "personaje": "Pablo",
+      "vivencia": "Los judíos, a quienes él había defendido, ahora querían matarlo. El rechazo vino de su propio mundo.",
+      "versiculo": "Los judíos resolvieron matarle (Hechos 9:23)",
+      "extra": "No hay profeta sin honra, sino en su propia tierra (Mateo 13:57)",
+      "oracion": "Señor, dame fortaleza cuando sea rechazado por aquellos que más esperaba.",
+      "categoria": "rechazo"
+    },
+    "pablo_soledad": {
+      "personaje": "Pablo",
+      "vivencia": "Pasó tiempo en silencio y soledad antes de ser reconocido. Dios lo formó lejos del escenario.",
+      "versiculo": "No subí a Jerusalén… sino que fui a Arabia (Gálatas 1:17)",
+      "extra": "Estad quietos, y conoced que yo soy Dios (Salmo 46:10)",
+      "oracion": "Señor, enséñame a valorar los tiempos de silencio y formación.",
+      "categoria": "soledad"
+    },
+    "pablo_golpes": {
+      "personaje": "Pablo",
+      "vivencia": "Fue perseguido, golpeado y expulsado, pero nunca retrocedió en su misión.",
+      "versiculo": "Cinco veces he recibido de los judíos cuarenta azotes menos uno (2 Corintios 11:24)",
+      "extra": "Muchas son las aflicciones del justo (Salmo 34:19)",
+      "oracion": "Señor, dame resistencia para seguir adelante cuando duela.",
+      "categoria": "persecucion"
+    },
+    "pablo_obediencia": {
+      "personaje": "Pablo",
+      "vivencia": "Predicó, viajó y enseñó durante años sin fama ni reconocimiento, confiando solo en la aprobación de Dios.",
+      "versiculo": "Si todavía agradara a los hombres, no sería siervo de Cristo (Gálatas 1:10)",
+      "extra": "El que es fiel en lo poco, también en lo mucho es fiel (Lucas 16:10)",
+      "oracion": "Señor, que mi obediencia no dependa de la aprobación de otros.",
+      "categoria": "obediencia"
+    },
+    "pablo_carcel": {
+      "personaje": "Pablo",
+      "vivencia": "Fue encarcelado varias veces, pero las cadenas nunca lograron encadenar su mensaje.",
+      "versiculo": "La palabra de Dios no está presa (2 Timoteo 2:9)",
+      "extra": "Bienaventurados los perseguidos por causa de la justicia (Mateo 5:10)",
+      "oracion": "Señor, que ninguna circunstancia silencie mi fe.",
+      "categoria": "perseverancia"
+    },
+    "pablo_gozo": {
+      "personaje": "Pablo",
+      "vivencia": "Aun preso, escribió cartas llenas de gozo y esperanza. La cárcel no apagó su espíritu.",
+      "versiculo": "Regocijaos en el Señor siempre (Filipenses 4:4)",
+      "extra": "El gozo de Jehová es vuestra fuerza (Nehemías 8:10)",
+      "oracion": "Señor, dame un gozo que no dependa de mis circunstancias.",
+      "categoria": "gozo"
+    },
+    "pablo_aguijon": {
+      "personaje": "Pablo",
+      "vivencia": "Dios no le quitó su debilidad, pero le enseñó que su gracia era suficiente.",
+      "versiculo": "Bástate mi gracia; porque mi poder se perfecciona en la debilidad (2 Corintios 12:9)",
+      "extra": "Cuando soy débil, entonces soy fuerte (2 Corintios 12:10)",
+      "oracion": "Señor, enséñame a depender de tu gracia en mis debilidades.",
+      "categoria": "debilidad"
+    },
+    "pablo_constancia": {
+      "personaje": "Pablo",
+      "vivencia": "Nunca se retiró, nunca se acomodó. Terminó su carrera con fidelidad.",
+      "versiculo": "He peleado la buena batalla, he acabado la carrera (2 Timoteo 4:7)",
+      "extra": "Sé fiel hasta la muerte (Apocalipsis 2:10)",
+      "oracion": "Señor, ayúdame a terminar bien la carrera que me encomendaste.",
+      "categoria": "fidelidad"
+    },
+    "pablo_legado": {
+      "personaje": "Pablo",
+      "vivencia": "De perseguidor a apóstol, su vida transformó generaciones enteras y sigue hablando hoy.",
+      "versiculo": "Sed imitadores de mí, así como yo de Cristo (1 Corintios 11:1)",
+      "extra": "El justo dejará bendición tras de sí (Proverbios 10:7)",
+      "oracion": "Señor, que mi vida deje un legado que glorifique tu nombre.",
+      "categoria": "legado"
+    }
   },
-
-  "moises_desierto": {
-    "personaje": "Moisés",
-    "vivencia": "Pasó cuarenta años cuidando ovejas. El orgullo fue reemplazado por mansedumbre.",
-    "versiculo": "Y Moisés apacentaba el rebaño de Jetro (Éxodo 3:1)",
-    "extra": "Antes del quebrantamiento es la soberbia (Proverbios 16:18)",
-    "oracion": "Señor, forma mi carácter aunque el proceso sea largo.",
-    "categoria": "formacion"
-  },
-
-  "moises_llamado": {
-    "personaje": "Moisés",
-    "vivencia": "Dios lo llamó cuando ya no se sentía capaz. El fuego ardía, pero la zarza no se consumía.",
-    "versiculo": "Ve, porque yo estaré contigo (Éxodo 3:12)",
-    "extra": "Mi poder se perfecciona en la debilidad (2 Corintios 12:9)",
-    "oracion": "Señor, si Tú vas conmigo, me atrevo a obedecer.",
-    "categoria": "llamado"
-  },
-  {
-  "moises_excusa": {
-    "personaje": "Moisés",
-    "vivencia": "Cuando Dios lo llamó, Moisés respondió con excusas. Se sentía incapaz, inseguro y poco elocuente.",
-    "versiculo": "¡Ay, Señor! nunca he sido hombre de fácil palabra (Éxodo 4:10)",
-    "extra": "Dios escogió lo débil del mundo para avergonzar a lo fuerte (1 Corintios 1:27)",
-    "oracion": "Señor, no permitas que mis excusas me alejen de tu llamado.",
-    "categoria": "inseguridad"
-  },
-
-  "moises_temores": {
-    "personaje": "Moisés",
-    "vivencia": "Temía no ser escuchado ni creído. Dudaba del impacto de su mensaje.",
-    "versiculo": "Ellos no me creerán, ni oirán mi voz (Éxodo 4:1)",
-    "extra": "Mi palabra no volverá vacía (Isaías 55:11)",
-    "oracion": "Señor, ayúdame a confiar en el poder de tu palabra más que en mis capacidades.",
-    "categoria": "miedo"
-  },
-
-  "moises_ira": {
-    "personaje": "Moisés",
-    "vivencia": "La presión del liderazgo lo llevó a momentos de enojo y frustración, incluso delante de Dios.",
-    "versiculo": "Entonces Jehová se enojó contra Moisés (Éxodo 4:14)",
-    "extra": "El hombre iracundo levanta contiendas (Proverbios 29:22)",
-    "oracion": "Señor, dame dominio propio cuando el cansancio me supere.",
-    "categoria": "emociones"
-  },
-
-  "moises_liderazgo_agotado": {
-    "personaje": "Moisés",
-    "vivencia": "Cargó solo con el peso del pueblo hasta quedar exhausto, creyendo que debía hacerlo todo.",
-    "versiculo": "No puedo yo solo soportar a todo este pueblo (Números 11:14)",
-    "extra": "Sobrellevad los unos las cargas de los otros (Gálatas 6:2)",
-    "oracion": "Señor, enséñame a delegar y a no cargar solo lo que no me corresponde.",
-    "categoria": "liderazgo"
-  },
-
-  "moises_dependencia": {
-    "personaje": "Moisés",
-    "vivencia": "Aprendió que sin la presencia de Dios, ningún avance tenía sentido.",
-    "versiculo": "Si tu presencia no ha de ir conmigo, no nos saques de aquí (Éxodo 33:15)",
-    "extra": "En tu presencia hay plenitud de gozo (Salmo 16:11)",
-    "oracion": "Señor, no quiero avanzar sin Ti, aunque el camino parezca correcto.",
-    "categoria": "dependencia"
-  },
-  {
-  "moises_intercesor": {
-    "personaje": "Moisés",
-    "vivencia": "Intercedió por un pueblo rebelde que muchas veces quiso apedrear al mismo líder que los guiaba.",
-    "versiculo": "Y Moisés volvió a Jehová, y dijo: Te ruego que perdones ahora su pecado (Éxodo 32:31-32)",
-    "extra": "La oración eficaz del justo puede mucho (Santiago 5:16)",
-    "oracion": "Señor, dame un corazón que ore incluso por quienes me hieren.",
-    "categoria": "intercesion"
-  },
-
-  "moises_quebrantamiento": {
-    "personaje": "Moisés",
-    "vivencia": "Golpeó la roca por frustración y desobedeció una instrucción clara de Dios.",
-    "versiculo": "Por cuanto no creísteis en mí para santificarme delante de los hijos de Israel (Números 20:12)",
-    "extra": "Más vale obedecer que sacrificar (1 Samuel 15:22)",
-    "oracion": "Señor, enséñame a obedecer aun cuando esté cansado o herido.",
-    "categoria": "obediencia"
-  },
-
-  "moises_consecuencia": {
-    "personaje": "Moisés",
-    "vivencia": "No pudo entrar a la tierra prometida. La consecuencia fue dura, pero justa.",
-    "versiculo": "No pasarás este Jordán (Deuteronomio 31:2)",
-    "extra": "Todo lo que el hombre sembrare, eso también segará (Gálatas 6:7)",
-    "oracion": "Señor, ayúdame a aceptar tus decisiones aunque no las entienda.",
-    "categoria": "consecuencia"
-  },
-
-  "moises_legado": {
-    "personaje": "Moisés",
-    "vivencia": "Preparó a Josué para continuar la obra. Entendió que el llamado no siempre termina con reconocimiento.",
-    "versiculo": "Sé fuerte y valiente; porque tú introducirás a los hijos de Israel en la tierra (Deuteronomio 31:7)",
-    "extra": "Uno siembra, y otro siega (Juan 4:37)",
-    "oracion": "Señor, ayúdame a formar a otros aunque yo no vea el final.",
-    "categoria": "legado"
-  },
-
-  "moises_final": {
-    "personaje": "Moisés",
-    "vivencia": "Murió viendo la promesa desde lejos. Dios mismo lo sepultó.",
-    "versiculo": "Y murió allí Moisés siervo de Jehová... y ninguno conoce el lugar de su sepultura (Deuteronomio 34:5-6)",
-    "extra": "Preciosa es a los ojos de Jehová la muerte de sus santos (Salmo 116:15)",
-    "oracion": "Señor, que mi vida te honre hasta el último día.",
-    "categoria": "fidelidad"
+  "moises": {
+    "moises_identidad": {
+      "personaje": "Moisés",
+      "vivencia": "Creció entre dos mundos: hebreo de nacimiento y egipcio por crianza. Su identidad estuvo marcada por la confusión.",
+      "versiculo": "Por la fe Moisés, hecho ya grande, rehusó llamarse hijo de la hija de Faraón (Hebreos 11:24)",
+      "extra": "El Señor conoce el camino de los justos (Salmo 1:6)",
+      "oracion": "Señor, ayúdame a entender quién soy en Ti, aun cuando mi pasado me confunda.",
+      "categoria": "identidad"
+    },
+    "moises_impulsividad": {
+      "personaje": "Moisés",
+      "vivencia": "Actuó por impulso al matar a un egipcio, creyendo que podía adelantar el plan de Dios con sus propias manos.",
+      "versiculo": "Miró a uno y a otro lado, y mató al egipcio (Éxodo 2:12)",
+      "extra": "No con ejército, ni con fuerza, sino con mi Espíritu (Zacarías 4:6)",
+      "oracion": "Señor, líbrame de actuar sin esperar tu dirección.",
+      "categoria": "error"
+    },
+    "moises_huida": {
+      "personaje": "Moisés",
+      "vivencia": "Huyó al desierto para salvar su vida. El líder fue formado lejos del palacio.",
+      "versiculo": "Entonces Moisés huyó de delante de Faraón, y habitó en la tierra de Madián (Éxodo 2:15)",
+      "extra": "Dios prepara en secreto a quienes usará en público (Salmo 105:19)",
+      "oracion": "Señor, enséñame a aprovechar los tiempos de silencio y espera.",
+      "categoria": "proceso"
+    },
+    "moises_desierto": {
+      "personaje": "Moisés",
+      "vivencia": "Pasó cuarenta años cuidando ovejas. El orgullo fue reemplazado por mansedumbre.",
+      "versiculo": "Y Moisés apacentaba el rebaño de Jetro (Éxodo 3:1)",
+      "extra": "Antes del quebrantamiento es la soberbia (Proverbios 16:18)",
+      "oracion": "Señor, forma mi carácter aunque el proceso sea largo.",
+      "categoria": "formacion"
+    },
+    "moises_llamado": {
+      "personaje": "Moisés",
+      "vivencia": "Dios lo llamó cuando ya no se sentía capaz. El fuego ardía, pero la zarza no se consumía.",
+      "versiculo": "Ve, porque yo estaré contigo (Éxodo 3:12)",
+      "extra": "Mi poder se perfecciona en la debilidad (2 Corintios 12:9)",
+      "oracion": "Señor, si Tú vas conmigo, me atrevo a obedecer.",
+      "categoria": "llamado"
+    },
+    "moises_excusa": {
+      "personaje": "Moisés",
+      "vivencia": "Cuando Dios lo llamó, Moisés respondió con excusas. Se sentía incapaz, inseguro y poco elocuente.",
+      "versiculo": "¡Ay, Señor! nunca he sido hombre de fácil palabra (Éxodo 4:10)",
+      "extra": "Dios escogió lo débil del mundo para avergonzar a lo fuerte (1 Corintios 1:27)",
+      "oracion": "Señor, no permitas que mis excusas me alejen de tu llamado.",
+      "categoria": "inseguridad"
+    },
+    "moises_temores": {
+      "personaje": "Moisés",
+      "vivencia": "Temía no ser escuchado ni creído. Dudaba del impacto de su mensaje.",
+      "versiculo": "Ellos no me creerán, ni oirán mi voz (Éxodo 4:1)",
+      "extra": "Mi palabra no volverá vacía (Isaías 55:11)",
+      "oracion": "Señor, ayúdame a confiar en el poder de tu palabra más que en mis capacidades.",
+      "categoria": "miedo"
+    },
+    "moises_ira": {
+      "personaje": "Moisés",
+      "vivencia": "La presión del liderazgo lo llevó a momentos de enojo y frustración, incluso delante de Dios.",
+      "versiculo": "Entonces Jehová se enojó contra Moisés (Éxodo 4:14)",
+      "extra": "El hombre iracundo levanta contiendas (Proverbios 29:22)",
+      "oracion": "Señor, dame dominio propio cuando el cansancio me supere.",
+      "categoria": "emociones"
+    },
+    "moises_liderazgo_agotado": {
+      "personaje": "Moisés",
+      "vivencia": "Cargó solo con el peso del pueblo hasta quedar exhausto, creyendo que debía hacerlo todo.",
+      "versiculo": "No puedo yo solo soportar a todo este pueblo (Números 11:14)",
+      "extra": "Sobrellevad los unos las cargas de los otros (Gálatas 6:2)",
+      "oracion": "Señor, enséñame a delegar y a no cargar solo lo que no me corresponde.",
+      "categoria": "liderazgo"
+    },
+    "moises_dependencia": {
+      "personaje": "Moisés",
+      "vivencia": "Aprendió que sin la presencia de Dios, ningún avance tenía sentido.",
+      "versiculo": "Si tu presencia no ha de ir conmigo, no nos saques de aquí (Éxodo 33:15)",
+      "extra": "En tu presencia hay plenitud de gozo (Salmo 16:11)",
+      "oracion": "Señor, no quiero avanzar sin Ti, aunque el camino parezca correcto.",
+      "categoria": "dependencia"
+    },
+    "moises_intercesor": {
+      "personaje": "Moisés",
+      "vivencia": "Intercedió por un pueblo rebelde que muchas veces quiso apedrear al mismo líder que los guiaba.",
+      "versiculo": "Y Moisés volvió a Jehová, y dijo: Te ruego que perdones ahora su pecado (Éxodo 32:31-32)",
+      "extra": "La oración eficaz del justo puede mucho (Santiago 5:16)",
+      "oracion": "Señor, dame un corazón que ore incluso por quienes me hieren.",
+      "categoria": "intercesion"
+    },
+    "moises_quebrantamiento": {
+      "personaje": "Moisés",
+      "vivencia": "Golpeó la roca por frustración y desobedeció una instrucción clara de Dios.",
+      "versiculo": "Por cuanto no creísteis en mí para santificarme delante de los hijos de Israel (Números 20:12)",
+      "extra": "Más vale obedecer que sacrificar (1 Samuel 15:22)",
+      "oracion": "Señor, enséñame a obedecer aun cuando esté cansado o herido.",
+      "categoria": "obediencia"
+    },
+    "moises_consecuencia": {
+      "personaje": "Moisés",
+      "vivencia": "No pudo entrar a la tierra prometida. La consecuencia fue dura, pero justa.",
+      "versiculo": "No pasarás este Jordán (Deuteronomio 31:2)",
+      "extra": "Todo lo que el hombre sembrare, eso también segará (Gálatas 6:7)",
+      "oracion": "Señor, ayúdame a aceptar tus decisiones aunque no las entienda.",
+      "categoria": "consecuencia"
+    },
+    "moises_legado": {
+      "personaje": "Moisés",
+      "vivencia": "Preparó a Josué para continuar la obra. Entendió que el llamado no siempre termina con reconocimiento.",
+      "versiculo": "Sé fuerte y valiente; porque tú introducirás a los hijos de Israel en la tierra (Deuteronomio 31:7)",
+      "extra": "Uno siembra, y otro siega (Juan 4:37)",
+      "oracion": "Señor, ayúdame a formar a otros aunque yo no vea el final.",
+      "categoria": "legado"
+    },
+    "moises_final": {
+      "personaje": "Moisés",
+      "vivencia": "Murió viendo la promesa desde lejos. Dios mismo lo sepultó.",
+      "versiculo": "Y murió allí Moisés siervo de Jehová... y ninguno conoce el lugar de su sepultura (Deuteronomio 34:5-6)",
+      "extra": "Preciosa es a los ojos de Jehová la muerte de sus santos (Salmo 116:15)",
+      "oracion": "Señor, que mi vida te honre hasta el último día.",
+      "categoria": "fidelidad"
+    }
   }
 }
+
 
 
 
