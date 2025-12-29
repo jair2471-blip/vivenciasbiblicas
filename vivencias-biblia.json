@@ -268,21 +268,24 @@
       "extra": "Dad gracias en todo, porque esta es la voluntad de Dios. Bendice, alma mía, a Jehová, y no olvides ninguno de sus beneficios (1 Tesalonicenses 5:18; Salmo 103:2)",
       "oracion": "Dios mío, gracias por cada victoria que me has dado y por librarme de mis enemigos. Que nunca olvide celebrar tus maravillas en mi vida. Pon en mi boca un cántico nuevo de gratitud, incluso antes de ver la solución completa, confiando en que si Tú me abriste el camino en el pasado, lo harás de nuevo hoy.",
       "categoria": "virtudes"
-     }
+    }
     },
 
     "David": {
-    "valentia": {
-      "personaje": "David",
-      "texto": "Siendo apenas un joven pastor, David se enfrentó al gigante Goliat cuando todo el ejército de Israel temblaba de miedo. Su valentía no nacía de su fuerza física ni de su pericia con la honda, sino de una confianza absoluta en el nombre de Jehová. Entendió que el tamaño de su Dios era mucho mayor que el tamaño de cualquier problema que tuviera enfrente.",
-      "versiculo": "Tú vienes a mí con espada y lanza y jabalina; mas yo vengo a ti en el nombre de Jehová de los ejércitos (1 Samuel 17:45)",
-      "extra": "Jehová es la fortaleza de mi vida; ¿de quién he de atemorizarme? Mira que te mando que te esfuerces y seas valiente (Salmo 27:1; Josué 1:9)",
-      "oracion": "Señor, dame la valentía de David para enfrentar los gigantes que hoy me amenazan. Que mi confianza no esté puesta en mis propios recursos, sino en tu poder invencible. Ayúdame a recordar que la batalla es tuya y que, caminando de tu mano, no hay gigante que pueda prevalecer. Infunde denuedo en mi espíritu hoy.",
-      "categoria": "virtudes"
+      "valentia": {
+        "personaje": "David",
+        "vivencia": "Siendo apenas un joven pastor, David se enfrentó al gigante Goliat...",
+        "versiculo": "Tú vienes a mí con espada y lanza...",
+        "extra": "Jehová es la fortaleza de mi vida...",
+        "oracion": "Señor, dame la valentía de David...",
+        "categoria": "virtudes"
       }
     }
+
   }
 }
+}
+
 
 
 
