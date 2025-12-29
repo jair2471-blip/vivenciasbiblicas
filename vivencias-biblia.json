@@ -213,7 +213,7 @@
     },
     "fatiga": {
       "personaje": "Moisés",
-      "texto": "Hubo momentos en que Moisés sintió que la carga del pueblo era demasiado pesada para él solo. Sentado desde la mañana hasta la tarde juzgando casos, su cuerpo y mente se agotaban. Dios, a través de su suegro Jetro, le enseñó la importancia de delegar y de trabajar en equipo, recordándole que hasta los líderes más grandes necesitan ayuda para no desfallecer.",
+      "vivencia": "Hubo momentos en que Moisés sintió que la carga del pueblo era demasiado pesada para él solo. Sentado desde la mañana hasta la tarde juzgando casos, su cuerpo y mente se agotaban. Dios, a través de su suegro Jetro, le enseñó la importancia de delegar y de trabajar en equipo, recordándole que hasta los líderes más grandes necesitan ayuda para no desfallecer.",
       "versiculo": "Desfallecerás del todo, tú, y también este pueblo que está contigo; porque el trabajo es demasiado pesado para ti (Éxodo 18:18)",
       "extra": "Mejores son dos que uno; porque tienen mejor paga de su trabajo. Venid a mí todos los que estáis trabajados y cargados (Eclesiastés 4:9; Mateo 11:28)",
       "oracion": "Padre, reconozco que no puedo hacerlo todo solo y que mi cuerpo tiene límites que debo respetar. Dame la humildad para aceptar ayuda y la sabiduría para delegar responsabilidades en otros. Ayúdame a descansar en Ti cuando me sienta abrumado por el trabajo o las responsabilidades, recordando que la obra es tuya y no mía.",
@@ -280,6 +280,7 @@
 }
 
 	
+
 
 
 
