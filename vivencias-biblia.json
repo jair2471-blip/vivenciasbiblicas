@@ -9,7 +9,6 @@
         "oracion": "Señor, así como fortaleciste a Josué y estuviste con él en cada paso de su camino, te pido que me des el mismo valor y confianza...",
         "categoria": "emociones"
       },
-
       "obediencia": {
         "personaje": "Josué",
         "vivencia": "Ante la orden de conquistar Jericó, Josué no cuestionó la inusual estrategia de Dios...",
@@ -17,6 +16,9 @@
         "extra": "Por la fe cayeron los muros de Jericó...",
         "oracion": "Padre Celestial, enséñame a obedecer tus planes...",
         "categoria": "virtudes"
+      }
     }
   }
 }
+
+
