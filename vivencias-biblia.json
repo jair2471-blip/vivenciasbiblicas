@@ -156,19 +156,19 @@
         "extra": "Antes que te formase en el vientre te conocí, y antes que nacieses te santifiqué. No me elegisteis vosotros a mí, sino que yo os elegí a vosotros (Jeremías 1:5; Juan 15:16)",
         "oracion": "Señor, abre mis ojos espirituales para reconocer tu llamado en medio de mi rutina diaria. Quita de mí toda excusa y temor, y ayúdame a responder con un 'Heme aquí' sincero. Confío en que si Tú me envías, Tú también me darás las herramientas, la gracia y el poder para cumplir la tarea que has puesto en mis manos.",
         "categoria": "virtudes"
-	  }
     },
-		 inseguridad: {
-      personaje: "Moisés",
-      texto: "Ante la magnitud de la tarea, Moisés se sintió pequeño y argumentó que no sabía hablar bien. Su inseguridad lo llevó a enfocarse en sus limitaciones en lugar de enfocarse en el poder de quien lo enviaba. Dios, con paciencia, le recordó que Él es quien hizo la boca del hombre y prometió estar con él en cada palabra.",
-      versiculo: "Entonces dijo Moisés a Jehová: ¡Ay, Señor! nunca he sido hombre de fácil palabra. Y Jehová le respondió: ¿Quién dio la boca al hombre? (Éxodo 4:10-11)",
-      extra: "Todo lo puedo en Cristo que me fortalece. Diga el débil: Fuerte soy. Porque nada hay imposible para Dios (Filipenses 4:13; Joel 3:10; Lucas 1:37)",
-      oracion: "Padre, perdóname por las veces que mis inseguridades han sido más grandes que mi fe en Ti. Ayúdame a dejar de mirar mis debilidades y a empezar a mirar tu grandeza. Cuando me sienta incapaz o insuficiente, recuérdame que tu poder se perfecciona en mi debilidad y que Tú eres quien me habilita para toda buena obra.",
-      categoria: "emociones" 
+		 "inseguridad": {
+      "personaje": "Moisés",
+      "texto": "Ante la magnitud de la tarea, Moisés se sintió pequeño y argumentó que no sabía hablar bien. Su inseguridad lo llevó a enfocarse en sus limitaciones en lugar de enfocarse en el poder de quien lo enviaba. Dios, con paciencia, le recordó que Él es quien hizo la boca del hombre y prometió estar con él en cada palabra.",
+      "versiculo": "Entonces dijo Moisés a Jehová: ¡Ay, Señor! nunca he sido hombre de fácil palabra. Y Jehová le respondió: ¿Quién dio la boca al hombre? (Éxodo 4:10-11)",
+      "extra": "Todo lo puedo en Cristo que me fortalece. Diga el débil: Fuerte soy. Porque nada hay imposible para Dios (Filipenses 4:13; Joel 3:10; Lucas 1:37)",
+      "oracion": "Padre, perdóname por las veces que mis inseguridades han sido más grandes que mi fe en Ti. Ayúdame a dejar de mirar mis debilidades y a empezar a mirar tu grandeza. Cuando me sienta incapaz o insuficiente, recuérdame que tu poder se perfecciona en mi debilidad y que Tú eres quien me habilita para toda buena obra.",
+      "categoria": "emociones" 
       }
     }
   }
 }
+
 
 
 
