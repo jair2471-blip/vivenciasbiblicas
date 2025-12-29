@@ -151,7 +151,7 @@
     "Moises": {
       "llamado": {
         "personaje": "Moisés",
-        "vivencia": "Moisés pastoreaba ovejas en el desierto cuando Dios lo llamó desde una zarza que ardía sin consumirse. A pesar de su pasado y sus miedos, Dios lo eligió para una misión monumental: libertar a Israel. Este encuentro marcó el inicio de una vida de propósito, enseñándonos que Dios no llama a los capacitados, sino que capacita a los que llama.",
+        "texto": "Moisés pastoreaba ovejas en el desierto cuando Dios lo llamó desde una zarza que ardía sin consumirse. A pesar de su pasado y sus miedos, Dios lo eligió para una misión monumental: libertar a Israel. Este encuentro marcó el inicio de una vida de propósito, enseñándonos que Dios no llama a los capacitados, sino que capacita a los que llama.",
         "versiculo": "Viendo Jehová que él iba a ver, lo llamó Dios de en medio de la zarza, y dijo: ¡Moisés, Moisés! Y él respondió: Heme aquí (Éxodo 3:4)",
         "extra": "Antes que te formase en el vientre te conocí, y antes que nacieses te santifiqué. No me elegisteis vosotros a mí, sino que yo os elegí a vosotros (Jeremías 1:5; Juan 15:16)",
         "oracion": "Señor, abre mis ojos espirituales para reconocer tu llamado en medio de mi rutina diaria. Quita de mí toda excusa y temor, y ayúdame a responder con un 'Heme aquí' sincero. Confío en que si Tú me envías, Tú también me darás las herramientas, la gracia y el poder para cumplir la tarea que has puesto en mis manos.",
@@ -283,6 +283,7 @@
     }
   }
 }
+
 
 
 
