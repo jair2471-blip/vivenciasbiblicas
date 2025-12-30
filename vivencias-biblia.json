@@ -271,18 +271,6 @@
      }
     },
 
-    "David": {
-    "valentia": {
-      "personaje": "David",
-      "vivencia": "Siendo apenas un joven pastor, David se enfrentó al gigante Goliat cuando todo el ejército de Israel temblaba de miedo. Su valentía no nacía de su fuerza física ni de su pericia con la honda, sino de una confianza absoluta en el nombre de Jehová. Entendió que el tamaño de su Dios era mucho mayor que el tamaño de cualquier problema que tuviera enfrente.",
-      "versiculo": "Tú vienes a mí con espada y lanza y jabalina; mas yo vengo a ti en el nombre de Jehová de los ejércitos (1 Samuel 17:45)",
-      "extra": "Jehová es la fortaleza de mi vida; ¿de quién he de atemorizarme? Mira que te mando que te esfuerces y seas valiente (Salmo 27:1; Josué 1:9)",
-      "oracion": "Señor, dame la valentía de David para enfrentar los gigantes que hoy me amenazan. Que mi confianza no esté puesta en mis propios recursos, sino en tu poder invencible. Ayúdame a recordar que la batalla es tuya y que, caminando de tu mano, no hay gigante que pueda prevalecer. Infunde denuedo en mi espíritu hoy.",
-      "categoria": "virtudes"
-
-     }
-    },
-		
   "Marta": {
     "afanes": {
       "personaje": "Marta",
@@ -291,10 +279,133 @@
       "extra": "Por nada estéis afanosos, sino sean conocidas vuestras peticiones delante de Dios en toda oración. Echando toda vuestra ansiedad sobre él, porque él tiene cuidado de vosotros (Filipenses 4:6; 1 Pedro 5:7)",
       "oracion": "Señor Jesús, ayúdame a soltar mis afanes y preocupaciones. Enséñame a priorizar tu presencia sobre mi activismo. Dame paz en medio del caos, quietud en medio de las tormentas. Que aprenda como María a sentarme a tus pies y escucharte, confiando que Tú te encargas de todo lo demás.",
       "categoria": "emociones"
+	  }
+    },	
+	 
+ "David": {
+    "valentia": {
+      "personaje": "David",
+      "vivencia": "Siendo apenas un joven pastor, David se enfrentó al gigante Goliat cuando todo el ejército de Israel temblaba de miedo. Su valentía no nacía de su fuerza física ni de su pericia con la honda, sino de una confianza absoluta en el nombre de Jehová. Entendió que el tamaño de su Dios era mucho mayor que el tamaño de cualquier problema que tuviera enfrente.",
+      "versiculo": "Tú vienes a mí con espada y lanza y jabalina; mas yo vengo a ti en el nombre de Jehová de los ejércitos (1 Samuel 17:45)",
+      "extra": "Jehová es la fortaleza de mi vida; ¿de quién he de atemorizarme? Mira que te mando que te esfuerces y seas valiente (Salmo 27:1; Josué 1:9)",
+      "oracion": "Señor, dame la valentía de David para enfrentar los gigantes que hoy me amenazan. Que mi confianza no esté puesta en mis propios recursos, sino en tu poder invencible. Ayúdame a recordar que la batalla es tuya y que, caminando de tu mano, no hay gigante que pueda prevalecer. Infunde denuedo en mi espíritu hoy.",
+      "categoria": "virtudes"
+		 tristeza: {
+      personaje: "David",
+      texto: "David no escondía sus emociones; las derramaba ante Dios. Experimentó tristezas profundas por la traición de sus amigos, la persecución injusta y la pérdida de seres queridos. En sus momentos de mayor abatimiento, aprendió que la tristeza es el lugar donde Dios consuela con más ternura, convirtiendo el lamento en un baile de confianza.",
+      versiculo: "¿Por qué te abates, oh alma mía, y te turbas dentro de mí? Espera en Dios; porque aún he de alabarle (Salmo 42:5)",
+      extra: "Bienaventurados los que lloran, porque ellos recibirán consolación. Cercano está Jehová a los quebrantados de corazón (Mateo 5:4; Salmo 34:18)",
+      oracion: "Padre, cuando la tristeza nuble mi vista y mi alma se sienta abatida, enséñame a correr hacia Ti como David. Recibe mis lágrimas y consuela mi corazón con tu presencia. Ayúdame a esperar en Ti incluso cuando no sienta alegría, confiando en que tu gozo será mi fortaleza y que mañana saldrá el sol de tu justicia.",
+      categoria: "emociones"
+    },
+    arrepentimiento: {
+      personaje: "David",
+      texto: "David cometió errores graves, pero lo que lo hizo un hombre 'conforme al corazón de Dios' fue su capacidad de arrepentirse genuinamente. Cuando fue confrontado por su pecado con Betsabé, no puso excusas ni culpó a otros. Se humilló, reconoció su falta y clamó por un corazón limpio, entendiendo que Dios no desprecia un espíritu quebrantado.",
+      versiculo: "Crea en mí, oh Dios, un corazón limpio, y renueva un espíritu recto dentro de mí (Salmo 51:10)",
+      extra: "El que encubre sus pecados no prosperará; mas el que los confiesa y se aparta alcanzará misericordia (Proverbios 28:13)",
+      oracion: "Señor, dame un corazón sensible al pecado y pronto para el arrepentimiento. No permitas que mi orgullo me impida reconocer mis faltas. Límpiame de toda maldad y restáurame con tu gracia. Gracias porque tu misericordia es más grande que mi pecado y porque en Ti siempre hay una oportunidad para volver a empezar con un espíritu renovado.",
+      categoria: "virtudes"
+    },
+    amistad: {
+      personaje: "David",
+      texto: "La relación entre David y Jonatán es el estándar bíblico de la amistad leal. En medio de la persecución del rey Saúl, Jonatán protegió a David arriesgando su propia vida. David valoró este vínculo más que el oro, demostrando que la fe se fortalece cuando tenemos compañeros de camino que nos aman y nos impulsan hacia el propósito de Dios.",
+      versiculo: "E hicieron pacto Jonatán y David, porque él le amaba como a sí mismo (1 Samuel 18:3)",
+      extra: "En todo tiempo ama el amigo, y es como un hermano en tiempo de angustia. Hay amigo más unido que un hermano (Proverbios 17:17; 18:24)",
+      oracion: "Dios de amor, gracias por los amigos que has puesto en mi vida. Ayúdame a ser un amigo fiel, leal y protector como Jonatán, y a valorar los lazos que me sostienen en los tiempos difíciles. Bendice mis amistades y haz que sean vínculos que nos acerquen más a Ti y nos fortalezcan en nuestra fe común.",
+      categoria: "virtudes"
+    },
+    soledad: {
+      personaje: "David",
+      texto: "Durante años, David vivió huyendo en las cuevas del desierto, sintiéndose como una perdiz perseguida en los montes. A pesar de estar rodeado de hombres, su alma experimentó la soledad del líder rechazado. Fue en ese silencio del desierto donde David compuso sus salmos más profundos, descubriendo que Dios es el refugio más seguro cuando el mundo nos da la espalda.",
+      versiculo: "Mírame, y ten misericordia de mí, porque estoy solo y afligido (Salmo 25:16)",
+      extra: "Aunque mi padre y mi madre me dejaran, con todo, Jehová me recogerá. No temas, porque yo estoy contigo (Salmo 27:10; Isaías 41:10)",
+      oracion: "Señor, cuando me sienta solo o incomprendido, recuérdame que Tú eres mi compañía constante. Que en mis desiertos personales pueda escuchar tu voz con más claridad. Transforma mi soledad en un tiempo de intimidad contigo, donde aprenda a confiar solo en tu protección y a encontrar descanso en tu sombra omnipotente.",
+      categoria: "emociones"
+    },
+	gratitud: {
+      personaje: "David",
+      texto: "Cuando David finalmente se sentó en su trono y Dios le prometió que su linaje sería eterno, no se llenó de orgullo. Al contrario, entró a la presencia de Dios y se preguntó: '¿Quién soy yo para que me hayas traído hasta aquí?'. Su vida fue un testimonio de que el éxito no debe alejarnos de Dios, sino hacernos más conscientes de nuestra total dependencia de Su gracia.",
+      versiculo: "Y entró el rey David y se puso delante de Jehová, y dijo: Señor Jehová, ¿quién soy yo, y qué es mi casa, para que me hayas traído hasta aquí? (2 Samuel 7:18)",
+      extra: "Bendice, alma mía, a Jehová, y no olvides ninguno de sus beneficios. Den gracias a Dios en toda situación (Salmo 103:2; 1 Tesalonicenses 5:18)",
+      oracion: "Padre Celestial, ayúdame a mantener un corazón agradecido en medio de la bendición. Que nunca olvide de dónde me sacaste ni el precio que pagaste por mi libertad. Líbrame de la soberbia del éxito y permíteme siempre reconocer que todo lo que tengo y lo que soy es un regalo de tu infinita misericordia. Que mi vida sea un altar de gratitud continua.",
+      categoria: "virtudes"
+    },
+    alabanza: {
+      personaje: "David",
+      texto: "David entendía que la alabanza era un arma espiritual. No solo cantaba cuando estaba feliz; danzaba con todas sus fuerzas delante de Dios cuando el Arca regresó a Jerusalén, sin importarle las críticas o el qué dirán. Para David, adorar a Dios era más importante que mantener su dignidad real, pues sabía que Dios habita en medio de la alabanza de Su pueblo.",
+      versiculo: "Y David danzaba con toda su fuerza delante de Jehová; y estaba David vestido con un efod de lino (2 Samuel 6:14)",
+      extra: "Entrad por sus puertas con acción de gracias, por sus atrios con alabanza. Todo lo que respira alabe a Jehová (Salmo 100:4; 150:6)",
+      oracion: "Señor, pon en mi boca un cántico nuevo cada mañana. Que mi adoración no dependa de mis circunstancias, sino de quién eres Tú. Ayúdame a alabarte con libertad, sin temor al juicio de los hombres. Que a través de mi alabanza, las cadenas se rompan y tu presencia llene cada rincón de mi vida y de mi hogar.",
+      categoria: "virtudes"
+    },
+    paciencia: {
+      personaje: "David",
+      texto: "A pesar de haber sido ungido como rey siendo un adolescente, David tuvo que esperar muchos años antes de portar la corona. Pasó gran parte de ese tiempo huyendo por su vida en el desierto. No intentó forzar su camino al trono ni matar a Saúl cuando tuvo la oportunidad; decidió esperar el tiempo perfecto de Dios, confiando en que lo que Dios promete, Él mismo lo establece.",
+      versiculo: "Jehová me guarde de hacer tal cosa contra mi señor, el ungido de Jehová, que yo extienda mi mano contra él (1 Samuel 24:6)",
+      extra: "Espera en Jehová, y guarda su camino, y él te exaltará para heredar la tierra. La paciencia tenga su obra completa (Salmo 37:34; Santiago 1:4)",
+      oracion: "Dios de los tiempos, dame la paciencia para esperar tus promesas sin intentar tomar atajos. Ayúdame a no actuar por impulso ni por desesperación cuando las cosas tardan en llegar. Enséñame a confiar en que tu tiempo es perfecto y que no necesito forzar ninguna puerta, porque lo que Tú tienes para mí llegará en el momento exacto.",
+      categoria: "virtudes"
+    },
+    integridad: {
+      personaje: "David",
+      texto: "Incluso cuando nadie lo veía en las cuevas del desierto, David se mantuvo íntegro. Tuvo la oportunidad de terminar con su perseguidor y acabar con sus problemas de un solo golpe, pero su temor a Dios fue mayor que su deseo de alivio personal. David sabía que un corazón conforme al de Dios es aquel que prefiere sufrir antes que violar los principios divinos.",
+      versiculo: "Jehová juzgará a los pueblos; júzgame, oh Jehová, conforme a mi justicia, y conforme a mi integridad (Salmo 7:8)",
+      extra: "El que camina en integridad anda confiado; mas el que pervierte sus caminos será quebrantado. Crea en mí un corazón limpio (Proverbios 10:9; Salmo 51:10)",
+      oracion: "Señor, te pido que la integridad guarde mi vida. Que mis acciones en privado coincidan con lo que profeso en público. Ayúdame a tomar decisiones basadas en tu Palabra y no en mi conveniencia. Que mi carácter sea formado a imagen de Cristo, para que pueda caminar con la frente en alto y con una conciencia limpia ante Ti.",
+      categoria: "virtudes"
+    },
+    generosidad: {
+      personaje: "David",
+      texto: "Al final de su vida, David preparó todo para la construcción del Templo que su hijo Salomón levantaría. Aunque él no lo construiría, dio de sus propios tesoros personales con una alegría inmensa. Entendió que somos solo administradores de lo que Dios nos presta, y que la verdadera riqueza consiste en dar para que la obra de Dios prospere, incluso si nosotros no vemos el resultado final.",
+      versiculo: "Además de esto, por cuanto tengo mi afecto en la casa de mi Dios, yo entrego para la casa de mi Dios lo que tengo de mi propio tesoro de oro y de plata (1 Crónicas 29:3)",
+      extra: "El alma generosa será prosperada; y el que saciare, él también será saciado. Dios ama al dador alegre (Proverbios 11:25; 2 Corintios 9:7)",
+      oracion: "Padre, quita de mí todo egoísmo y avaricia. Enséñame a ser generoso con lo que me has dado, entendiendo que todo proviene de tu mano. Que mi alegría no esté en acumular, sino en sembrar en tu Reino y bendecir a otros. Dame un corazón desprendido que siempre busque poner tus intereses por encima de los míos.",
+      categoria: "virtudes"
+    },
+	justicia: {
+      personaje: "David",
+      texto: "David, como rey, se esforzó por administrar justicia y equidad a todo su pueblo. Incluso cuando cometió errores, aceptó las consecuencias legales y espirituales. Entendía que un trono se afirma en la justicia y que un líder debe proteger al débil y al huérfano, reflejando el carácter de Dios en su gobierno terrenal.",
+      versiculo: "Y reinó David sobre todo Israel; y David administraba justicia y equidad a todo su pueblo (2 Samuel 8:15)",
+      extra: "Hacer justicia y juicio es a Jehová más agradable que sacrificio. El trono se robustece con la justicia (Proverbios 21:3; 16:12)",
+      oracion: "Señor, Juez Justo, ayúdame a actuar con rectitud en todas mis relaciones. Que no muestre favoritismos ni actúe con parcialidad. Dame la sabiduría para defender lo que es correcto y el valor para oponerme a la injusticia. Que mis acciones reflejen que sirvo a un Dios que ama la verdad y la equidad.",
+      categoria: "virtudes"
+    },
+    angustia: {
+      personaje: "David",
+      texto: "En los momentos de persecución de Saúl y más tarde durante la rebelión de su propio hijo Absalón, David experimentó una angustia que le apretaba el alma. En lugar de hundirse en la desesperación, David usó su angustia como un motor para buscar a Dios con más intensidad, descubriendo que Dios es un refugio que nunca falla en el día de la prueba.",
+      versiculo: "En mi angustia llamé a Jehová, y clamé a mi Dios. Él oyó mi voz desde su templo (Salmo 18:6)",
+      extra: "Dios es nuestro amparo y fortaleza, nuestro pronto auxilio en las tribulaciones. No se turbe vuestro corazón (Salmo 46:1; Juan 14:1)",
+      oracion: "Padre, cuando la angustia toque a mi puerta y sienta que las fuerzas me fallan, ayúdame a clamar a Ti con fe. No permitas que el miedo me paralice. Recuérdame que Tú estás por encima de mis problemas y que tu paz, que sobrepasa todo entendimiento, guardará mi corazón y mis pensamientos en Cristo Jesús.",
+      categoria: "emociones"
+    },
+    esperanza: {
+      personaje: "David",
+      texto: "La esperanza de David no estaba puesta en sus ejércitos ni en su riqueza, sino en la bondad de Dios. Aun cuando se encontraba en cuevas o desiertos, declaraba con convicción que vería el favor de Dios en la tierra de los vivientes. Su esperanza era una ancla que mantenía su alma firme durante las tormentas más fuertes de su vida.",
+      versiculo: "Hubiera yo desmayado, si no creyese que veré la bondad de Jehová en la tierra de los vivientes (Salmo 27:13)",
+      extra: "Porque tú, oh Señor Jehová, eres mi esperanza, mi seguridad desde mi juventud. La esperanza no avergüenza (Salmo 71:5; Romanos 5:5)",
+      oracion: "Dios de esperanza, llena mi vida de gozo y paz al confiar en Ti. Cuando las circunstancias parezcan oscuras, ayúdame a mantener mi mirada puesta en tus promesas. Que mi esperanza sea contagiosa para los que me rodean, recordándoles que Tú siempre tienes el control y que tus planes para nosotros son de bien y no de mal.",
+      categoria: "virtudes"
+    },
+    confianza: {
+      personaje: "David",
+      texto: "Incluso cuando se enfrentaba a ejércitos enteros o a traiciones inesperadas, David dormía tranquilo. Su confianza radicaba en que Dios era su escudo y su protector. Aprendió que la verdadera paz no es la ausencia de conflictos, sino la presencia de Dios en medio de ellos, permitiéndole descansar mientras Dios peleaba sus batallas.",
+      versiculo: "En paz me acostaré, y asimismo dormiré; porque solo tú, Jehová, me haces vivir confiado (Salmo 4:8)",
+      extra: "Jehová es mi luz y mi salvación; ¿de quién temeré? El que confía en Jehová es como el monte de Sion, que no se mueve (Salmo 27:1; 125:1)",
+      oracion: "Señor, te entrego mis noches de insomnio y mis preocupaciones. Enséñame a descansar plenamente en tu cuidado, sabiendo que Tú no duermes ni te adormeces. Fortalece mi confianza para que, sin importar lo que pase a mi alrededor, mi corazón permanezca firme y sereno en la seguridad de tu protección divina.",
+      categoria: "virtudes"
+    },
+    humildad: {
+      personaje: "David",
+      texto: "Al final de sus días, David reconoció que todo lo que había logrado y acumulado para el templo no era suyo, sino de Dios. Se humilló ante toda la congregación, declarando que él y su pueblo eran solo extranjeros y peregrinos, y que de lo recibido de la mano de Dios, le daban a Dios. Murió con el corazón de un siervo, no de un dueño.",
+      versiculo: "Pues todo es tuyo, y de lo recibido de tu mano te damos (1 Crónicas 29:14)",
+      extra: "La recompensa de la humildad y del temor de Jehová son las riquezas, la honra y la vida. Vestíos de humildad (Proverbios 22:4; 1 Pedro 5:5)",
+      oracion: "Dios soberano, mantenme siempre humilde, recordándome que nada de lo que tengo es por mérito propio. Todo es por tu gracia. Ayúdame a vivir con manos abiertas, dispuesto a devolverte lo que me has prestado para tu gloria. Que mi vida sea un testimonio de que Tú eres el dueño de todo y yo solo tu humilde servidor.",
+      categoria: "virtudes"
      }
     }
   }
 }
+
 
 
 
