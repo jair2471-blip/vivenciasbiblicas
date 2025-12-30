@@ -403,9 +403,133 @@
       "oracion": "Dios soberano, mantenme siempre humilde, recordándome que nada de lo que tengo es por mérito propio. Todo es por tu gracia. Ayúdame a vivir con manos abiertas, dispuesto a devolverte lo que me has prestado para tu gloria. Que mi vida sea un testimonio de que Tú eres el dueño de todo y yo solo tu humilde servidor.",
       "categoria": "virtudes"
      }
+    },	
+		
+"Abraham": {
+    "obediencia": {
+      "personaje": "Abraham",
+      "vivencia": "A los 75 años, Abraham recibió una orden radical: dejar su tierra, su parentela y la casa de su padre para ir a un lugar que Dios le mostraría. Sin tener un mapa ni un destino final claro, Abraham empacó y salió. Su obediencia no fue negociada ni postergada; fue una respuesta inmediata basada únicamente en la voz de quien lo llamaba.",
+      "versiculo": "Y se fue Abram, como Jehová le dijo; y Lot fue con él. Y era Abram de edad de setenta y cinco años cuando salió de Harán (Génesis 12:4)",
+      "extra": "Por la fe Abraham, siendo llamado, obedeció para salir al lugar que había de recibir como herencia; y salió sin saber a dónde iba (Hebreos 11:8)",
+      "oracion": "Señor, dame un corazón dispuesto a obedecerte incluso cuando no entienda el destino final. Ayúdame a soltar mis seguridades terrenales para abrazar tus promesas. Que mi fe sea tan práctica que me mueva a actuar conforme a tu voluntad, confiando en que tus planes siempre son mejores que los míos, aunque el camino sea desconocido.",
+      "categoria": "virtudes"
+    },
+    "incertidumbre": {
+      "personaje": "Abraham",
+      "vivencia": "Vivir como extranjero en tiendas de campaña durante décadas trajo momentos de gran incertidumbre a la vida de Abraham. No tenía una ciudad propia ni un territorio fijo. Sin embargo, aprendió a manejar la duda mirando hacia arriba, entendiendo que su seguridad no dependía de la tierra que pisaba, sino del Dios que lo sostenía.",
+      "versiculo": "Por la fe habitó como extranjero en la tierra prometida como en tierra ajena, morando en tiendas (Hebreos 11:9)",
+      "extra": "Porque esperaba la ciudad que tiene fundamentos, cuyo arquitecto y constructor es Dios. No temas, Abram; yo soy tu escudo (Hebreos 11:10; Génesis 15:1)",
+      "oracion": "Padre, en los días de incertidumbre cuando no veo un futuro claro, ayúdame a encontrar mi refugio en Ti. Que no me desespere por no tener todas las respuestas ahora mismo. Enséñame a vivir un día a la vez, sabiendo que Tú eres el arquitecto de mi vida y que mi verdadera seguridad está en tu presencia y no en mis posesiones.",
+      "categoria": "emociones"
+    },
+    "paciencia": {
+      "personaje": "Abraham",
+      "vivencia": "Abraham tuvo que esperar 25 años desde que recibió la promesa de un hijo hasta que vio a Isaac nacer. Vio su cuerpo envejecer y las posibilidades naturales morir, pero tuvo que aprender la diferencia entre la urgencia humana y el tiempo divino. Su paciencia fue probada al máximo, enseñándonos que esperar en Dios nunca es tiempo perdido.",
+      "versiculo": "Y habiendo esperado con paciencia, alcanzó la promesa (Hebreos 6:15)",
+      "extra": "Pero los que esperan en Jehová tendrán nuevas fuerzas. Porque aún un poco, y el que ha de venir vendrá, y no tardará (Isaías 40:31; Hebreos 10:37)",
+      "oracion": "Señor, fortalece mi espíritu para esperar tus promesas sin desmayar. Quita de mí la ansiedad de querer controlar los tiempos. Ayúdame a confiar en que Tú no llegas tarde ni temprano, sino en el momento exacto en que tu nombre será más glorificado. Que mi fe crezca en la espera y no se debilite por el paso de los años.",
+      "categoria": "virtudes"
+    },
+    "generosidad": {
+      "personaje": "Abraham",
+      "vivencia": "Cuando hubo un conflicto entre sus pastores y los de su sobrino Lot, Abraham, siendo el mayor y el líder, permitió que Lot eligiera primero las mejores tierras. No peleó por sus derechos ni por la mejor tajada; su generosidad nacía de saber que su provisión no venía de la calidad de la tierra, sino de la bendición de Dios sobre su vida.",
+      "versiculo": "No haya ahora altercado entre nosotros... Si fueres a la mano izquierda, yo iré a la derecha; y si tú a la derecha, yo iré a la izquierda (Génesis 13:8-9)",
+      "extra": "El alma generosa será prosperada. No buscando cada cual lo suyo propio, sino cada cual también lo de los otros (Proverbios 11:25; Filipenses 2:4)",
+      "oracion": "Dios de abundancia, dame un corazón generoso y desprendido como el de Abraham. Ayúdame a no pelear por cosas materiales y a confiar en que Tú eres mi proveedor. Que prefiera la paz y la bendición de otros antes que mi propio beneficio, sabiendo que nunca me faltará nada si camino bajo tu favor y tu dirección.",
+      "categoria": "virtudes"
+    },
+    "hospitalidad": {
+      "personaje": "Abraham",
+      "vivencia": "Abraham estaba sentado a la puerta de su tienda cuando vio a tres viajeros. Sin saber que eran mensajeros divinos, corrió a recibirlos, les ofreció agua, descanso y preparó un banquete. Su actitud de servicio hacia los extraños abrió la puerta para recibir la noticia más esperada de su vida. La hospitalidad de Abraham nos recuerda que al servir a otros, a veces servimos a Dios mismo.",
+      "versiculo": "Señor, si ahora he hallado gracia en tus ojos, te ruego que no pases de tu siervo (Génesis 18:3)",
+      "extra": "No os olvidéis de la hospitalidad, porque por ella algunos, sin saberlo, hospedaron ángeles (Hebreos 13:2)",
+      "oracion": "Señor, hazme sensible a las necesidades de los que pasan por mi camino. Que mi hogar y mi vida sean lugares de descanso y bendición para otros. Ayúdame a servir con alegría y sin interés, recordando que cada vez que extiendo mi mano al necesitado o al extraño, estoy honrando tu nombre y reflejando tu amor.",
+      "categoria": "virtudes"
+    },
+	"fe": {
+      "personaje": "Abraham",
+      "vivencia": "La fe de Abraham no fue la ausencia de dudas, sino la decisión de creerle a Dios por encima de la realidad física. A pesar de que su cuerpo y el de Sara estaban 'como muertos' para la procreación, él no se debilitó en su fe. Miró a las estrellas y creyó que su descendencia sería igual de incontable, porque sabía que el que había prometido era fiel para cumplir.",
+      "versiculo": "Y creyó a Jehová, y le fue contado por justicia (Génesis 15:6)",
+      "extra": "Tampoco dudó, por incredulidad, de la promesa de Dios, sino que se fortaleció en fe, dando gloria a Dios. Es, pues, la fe la certeza de lo que se espera (Romanos 4:20; Hebreos 11:1)",
+      "oracion": "Dios de lo imposible, fortalece mi fe para que no se tambalee ante las circunstancias naturales. Cuando mis ojos vean imposibilidad, que mi espíritu vea tu promesa. Ayúdame a creer contra toda esperanza, sabiendo que tu poder no está limitado por mi edad, mi salud o mi economía. Que mi confianza en Ti sea mi mayor tesoro.",
+      "categoria": "virtudes"
+    },
+    "conflicto": {
+      "personaje": "Abraham",
+      "vivencia": "Abraham vivió momentos de tensión profunda en su hogar, especialmente entre Sara y Agar. Se vio atrapado entre su amor por su hijo Ismael y el propósito de Dios con Isaac. En medio del dolor de despedir a una parte de su familia, aprendió que a veces los conflictos requieren decisiones difíciles y que debemos confiar en que Dios cuidará incluso de aquello que tenemos que soltar.",
+      "versiculo": "Entonces dijo Dios a Abraham: No te parezca grave a causa del muchacho y de tu sierva; en todo lo que te dijere Sara, oye su voz (Génesis 21:12)",
+      "extra": "Echa tu carga sobre Jehová, y él te sustentará. Si es posible, en cuanto dependa de vosotros, estad en paz con todos los hombres (Salmo 55:22; Romanos 12:18)",
+      "oracion": "Señor, te entrego los conflictos familiares o personales que hoy me quitan la paz. Dame la sabiduría para tomar decisiones correctas aunque duelan, y la confianza para saber que Tú cuidas de mis seres queridos aun cuando yo no puedo estar presente. Trae orden y consuelo a mi hogar, y ayúdame a descansar en tu soberanía.",
+      "categoria": "emociones"
+    },
+    "intercesion": {
+      "personaje": "Abraham",
+      "vivencia": "Cuando Abraham supo que Sodoma sería destruida, no se alegró por el castigo de los pecadores. Al contrario, se acercó a Dios y regateó con humildad y audacia por la vida de los justos que pudieran estar allí. Su corazón intercesor nos enseña que los amigos de Dios tienen la confianza para pedir misericordia por un mundo que está bajo juicio.",
+      "versiculo": "Y se acercó Abraham y dijo: ¿Destruirás también al justo con el impío? (Génesis 18:23)",
+      "extra": "Pedid, y se os dará; buscad, y hallaréis. La oración eficaz del justo puede mucho (Mateo 7:7; Santiago 5:16)",
+      "oracion": "Padre, pon en mí una carga por los que están perdidos o en peligro. Que no sea indiferente al sufrimiento ajeno ni al destino de los que no te conocen. Dame el denuedo para interceder por mi ciudad y por mi familia, creyendo que tu misericordia siempre busca una oportunidad para salvar antes que destruir.",
+      "categoria": "virtudes"
+    },
+    "sacrificio": {
+      "personaje": "Abraham",
+      "vivencia": "La prueba más dura de Abraham fue el llamado a entregar a su hijo Isaac. Fue un momento de entrega total donde demostró que amaba al dador más que al regalo. En el monte Moriáh, cuando levantó el cuchillo, Dios lo detuvo y le proveyó un sustituto. Abraham aprendió que cuando estamos dispuestos a entregarlo todo, Dios se revela como nuestro Gran Proveedor.",
+      "versiculo": "Y llamó Abraham el nombre de aquel lugar, Jehová proveerá (Génesis 22:14)",
+      "extra": "Hijo mío, Dios se proveerá de cordero para el holocausto. El que no escatimó ni a su propio Hijo, sino que lo entregó por todos nosotros (Génesis 22:8; Romanos 8:32)",
+      "oracion": "Señor, ayúdame a amarte por encima de todas las cosas, incluso de tus propias bendiciones. Si hay algo en mi corazón que se ha convertido en un ídolo, ayúdame a ponerlo en tu altar con confianza. Gracias porque Tú eres mi proveedor y porque nunca me pides algo sin tener preparado algo mucho mayor para mi vida.",
+      "categoria": "virtudes"
+    },
+    "proteccion": {
+      "personaje": "Abraham",
+      "vivencia": "En sus viajes por tierras extrañas y peligrosas, Abraham experimentó el miedo a ser asesinado por causa de su esposa. Aunque cometió errores por ese temor, Dios intervino directamente para protegerlo incluso de sus propias malas decisiones. Abraham descubrió que Dios es un escudo protector que no solo cuida nuestro cuerpo, sino también nuestro destino y reputación.",
+      "versiculo": "No temas, Abram; yo soy tu escudo, y tu galardón será sobremanera grande (Génesis 15:1)",
+      "extra": "El ángel de Jehová acampa alrededor de los que le temen, y los defiende. Jehová te guardará de todo mal (Salmo 34:7; 121:7)",
+      "oracion": "Gracias, Padre, porque eres mi escudo y mi fortaleza. En un mundo lleno de peligros y amenazas, puedo caminar tranquilo porque Tú vas conmigo. Protégeme de mis propios errores y de las acechanzas de otros. Que mi seguridad no dependa de mis fuerzas, sino de tu fidelidad que me rodea como un muro inexpugnable.",
+      "categoria": "virtudes"
+    },
+	"sabiduria": {
+      "personaje": "Abraham",
+      "vivencia": "Abraham mostró una gran sabiduría al manejar sus relaciones y posesiones. Supo cuándo apartarse de Lot para evitar conflictos, cómo negociar con los hijos de Het para enterrar a su esposa Sara con dignidad, y cómo administrar sus riquezas sin permitir que estas gobernaran su corazón. Su sabiduría nacía de una perspectiva eterna: sabía que era un peregrino en camino a una patria mejor.",
+      "versiculo": "Y respondió Abraham: Oyeme, señor mío... y sepultó Abraham a Sara su mujer en la cueva de la heredad de Macpela (Génesis 23:15-19)",
+      "extra": "La sabiduría de lo alto es primeramente pura, después pacífica, amable, benigna. El principio de la sabiduría es el temor de Jehová (Santiago 3:17; Proverbios 1:7)",
+      "oracion": "Señor, dame la sabiduría de Abraham para manejar mis recursos y mis relaciones con inteligencia espiritual. Ayúdame a no apegarme a las cosas de este mundo y a tomar decisiones que honren tu nombre. Que mi vida refleje que mi prioridad es tu Reino y que todo lo demás es secundario frente a la patria celestial que me espera.",
+      "categoria": "virtudes"
+    },
+    "fidelidad": {
+      "personaje": "Abraham",
+      "vivencia": "La fidelidad de Abraham se manifestó en su constancia a lo largo de los años. A pesar de los errores y las esperas, nunca abandonó el altar de Dios. En cada lugar donde acampaba, levantaba un altar para invocar el nombre de Jehová. Su vida no fue perfecta, pero su dirección siempre fue hacia Dios, manteniendo su compromiso hasta el final de sus días.",
+      "versiculo": "Y edificó allí altar a Jehová, e invocó el nombre de Jehová (Génesis 12:8)",
+      "extra": "Sé fiel hasta la muerte, y yo te daré la corona de la vida. El que es fiel en lo muy poco, también en lo más es fiel (Apocalipsis 2:10; Lucas 16:10)",
+      "oracion": "Padre, te pido que pongas en mí un espíritu de fidelidad que no dependa de las emociones del momento. Que en cada etapa de mi vida, ya sea de abundancia o de escasez, yo pueda levantar un altar de adoración para Ti. Ayúdame a ser constante en mi caminar cristiano y a terminar mi carrera con honor y lealtad a tu Palabra.",
+      "categoria": "virtudes"
+    },
+    "esperanza": {
+      "personaje": "Abraham",
+      "vivencia": "Abraham es el ejemplo máximo de esperar contra toda esperanza. Cuando las circunstancias biológicas decían 'no', y el tiempo decía 'tarde', él decidió creer en la palabra de Dios. Su esperanza no era un deseo optimista, sino una ancla basada en el carácter de Dios. Murió sin haber visto todas las promesas cumplidas, pero las vio de lejos y las saludó con fe.",
+      "versiculo": "El creyó en esperanza contra esperanza, para llegar a ser padre de muchas gentes (Romanos 4:18)",
+      "extra": "Conforme a la fe murieron todos estos sin haber recibido lo prometido, sino mirándolo de lejos, y creyéndolo. La esperanza no avergüenza (Hebreos 11:13; Romanos 5:5)",
+      "oracion": "Dios de esperanza, llena mi corazón de una confianza que no dependa de lo que mis ojos ven. Cuando todo parezca perdido, ayúdame a creer en tu promesa 'contra esperanza'. Que mi fe se mantenga firme hasta el final, sabiendo que lo que Tú has dicho se cumplirá, ya sea en mi tiempo o en la herencia que deje a los que vienen detrás.",
+      "categoria": "virtudes"
+    },
+   "paz": {
+      "personaje": "Abraham",
+      "vivencia": "A pesar de vivir en tierras extrañas y rodearse de reyes poderosos y a veces hostiles, Abraham caminaba en una paz sobrenatural. No buscaba pleitos y prefería ceder antes que romper la armonía. Esa paz era el resultado de saber que Dios era su escudo y su galardón; no necesitaba defenderse ansiosamente porque su vida estaba escondida en la protección divina.",
+      "versiculo": "Vete en paz; y Abraham se volvió a su lugar (Génesis 18:33 / 26:31 - Contexto de paz con vecinos)",
+      "extra": "Tú guardarás en completa paz a aquel cuyo pensamiento en ti persevera. La paz de Dios, que sobrepasa todo entendimiento (Isaías 26:3; Filipenses 4:7)",
+      "oracion": "Señor, inunda mi mente y mi corazón con tu paz. Ayúdame a ser un pacificador en mi familia y en mi trabajo, evitando contiendas innecesarias. Que mi tranquilidad sea un testimonio para los demás de que confío plenamente en tu soberanía. Dame la calma de Abraham para dormir tranquilo en tierra extraña, sabiendo que Tú velas mi sueño.",
+      "categoria": "emociones"
+    },
+    "legado": {
+      "personaje": "Abraham",
+      "vivencia": "Abraham no solo vivió para sí mismo; vivió para dejar una bendición que alcanzaría a todas las familias de la tierra. Su mayor legado no fue la riqueza material, sino una familia instruida en el camino de Jehová. Dios dio testimonio de que Abraham mandaría a sus hijos y a su casa después de él para que guardasen el camino de la justicia.",
+      "versiculo": "Porque yo sé que mandará a sus hijos y a su casa después de sí, que guarden el camino de Jehová, haciendo justicia y juicio (Génesis 18:19)",
+      "extra": "La memoria del justo será bendita. Instruye al niño en su camino, y aun cuando fuere viejo no se apartará de él (Proverbios 10:7; 22:6)",
+      "oracion": "Padre, ayúdame a vivir con la conciencia de que mis acciones hoy afectan a las generaciones de mañana. Dame la gracia para instruir a mi familia en tus caminos y para dejar un legado de fe y justicia. Que mi descendencia te conozca y te sirva gracias al ejemplo que les doy cada día. Bendice mi casa para que sea luz en este mundo.",
+      "categoria": "virtudes"	
+     }
     }
   }
 }
+
 
 
 
