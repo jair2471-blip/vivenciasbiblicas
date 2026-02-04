@@ -1,534 +1,87 @@
-{
- "personajes": {
-  "Josue": {
-    "miedo": {
-      "personaje": "Josué",
-      "vivencia": "Tras la muerte de Moisés, Josué recibió la enorme responsabilidad de guiar al pueblo de Israel hacia la tierra prometida. El peso de suceder a un líder tan grande lo llenaba de temor e incertidumbre. Sin embargo, Dios mismo le habló y le aseguró su presencia constante.",
-      "versiculo": "Mira que te mando que te esfuerces y seas valiente; no temas ni desmayes, porque Jehová tu Dios estará contigo en dondequiera que vayas (Josué 1:9)",
-      "extra": "No temas, porque yo estoy contigo; no desmayes, porque yo soy tu Dios que te esfuerzo; siempre te ayudaré, siempre te sustentaré con la diestra de mi justicia (Isaías 41:10)",
-      "oracion": "Señor, así como fortaleciste a Josué y estuviste con él en cada paso de su camino, te pido que me des el mismo valor y confianza. Ayúdame a recordar que nunca camino solo, que Tú vas delante de mí preparando el camino. Dame la valentía para enfrentar los desafíos que me parecen imposibles, sabiendo que tu poder se perfecciona en mi debilidad.",
-      "categoria": "emociones"
-    },
-    "obediencia": {
-      "personaje": "Josué",
-      "vivencia": "Ante la orden de conquistar Jericó, Josué no cuestionó la inusual estrategia de Dios. Marchar alrededor de los muros en silencio durante siete días parecía ilógico militarmente, pero su obediencia fue absoluta. Su liderazgo se basaba en la premisa de que la victoria no dependía de las armas, sino de seguir fielmente las instrucciones divinas.",
-      "versiculo": "Y cuando los sacerdotes tocaron las bocinas la séptima vez, Josué dijo al pueblo: Gritad, porque Jehová os ha entregado la ciudad (Josué 6:16)",
-      "extra": "Por la fe cayeron los muros de Jericó después de rodearlos siete días. El obedecer es mejor que los sacrificios (Hebreos 11:30; 1 Samuel 15:22)",
-      "oracion": "Padre Celestial, enséñame a obedecer tus planes aunque a veces me parezcan extraños o difíciles de entender. Que mi fe sea mayor que mi lógica humana. Ayúdame a dar cada paso con la certeza de que, si Tú diste la orden, Tú también darás la victoria. Que mi mayor éxito sea simplemente ser hallado fiel a tu Palabra.",
-      "categoria": "virtudes"
-    },
-     "fidelidad": {
-      "personaje": "Josué",
-      "vivencia": "Al final de su vida, Josué convocó a todo el pueblo para hacer una declaración pública de principios. Recordó todas las bendiciones de Dios y retó a la nación a elegir a quién servir. Su compromiso no dependía de lo que los demás hicieran; él ya había decidido que su familia y él permanecerían fieles al único Dios verdadero.",
-     "versiculo": "Pero yo y mi casa serviremos a Jehová (Josué 24:15)",
-     "extra": "Sé fiel hasta la muerte, y yo te daré la corona de la vida. El que es fiel en lo muy poco, también en lo más es fiel (Apocalipsis 2:10; Lucas 16:10)",
-      "oracion": "Señor, te pido que pongas en mí un espíritu de fidelidad inquebrantable como el de Josué. Que en un mundo que cambia constantemente de parecer, yo me mantenga firme en mis convicciones cristianas. Bendice mi hogar y ayúdame a ser un ejemplo de servicio para mi familia, para que juntos podamos honrarte todos los días de nuestra vida.",
-      "categoria": "virtudes"
-    },
-
- "disciplina": {
-      "personaje": "Josué",
-      "vivencia": "Desde su juventud, Josué entendió que el éxito espiritual requería una disciplina constante en la Palabra. Dios le instruyó que para prosperar en su camino, el libro de la ley no debía apartarse de su boca, meditando en él de día y de noche para poner por obra todo lo escrito.",
-      "versiculo": "Nunca se apartará de tu boca este libro de la ley, sino que de día y de noche meditarás en él, para que guardes y hagas conforme a todo lo que en él está escrito (Josué 1:8)",
-      "extra": "Lámpara es a mis pies tu palabra, y lumbrera a mi camino. En mi corazón he guardado tus dichos, para no pecar contra ti (Salmo 119:105, 11)",
-     "oracion": "Dios eterno, crea en mí un hambre profunda por tu Palabra y la disciplina necesaria para estudiarla a diario. Que no sea solo una lectura superficial, sino una meditación que transforme mis pensamientos y acciones. Ayúdame a ser hacedor de tu voluntad y no solo oidor, para que mi camino sea prosperado bajo tu guía divina.",
-      "categoria": "virtudes"
-    },
-    "estrategia": {
-      "personaje": "Josué",
-      "vivencia": "Josué no solo era un hombre de oración, sino también un estratega que sabía cuándo buscar la dirección de Dios y cuándo actuar. En la batalla contra los amorreos, entendió que necesitaba más tiempo para completar la tarea y, con una audacia sin precedentes, le pidió a Dios que detuviera el sol, demostrando que la fe puede alterar hasta el orden natural para cumplir un propósito divino.",
-      "versiculo": "Y el sol se detuvo y la luna se paró, hasta que la gente se hubo vengado de sus enemigos (Josué 10:13)",
-      "extra": "Si vieren que les falta sabiduría, pídala a Dios, el cual da a todos abundantemente. Clama a mí, y yo te responderé (Santiago 1:5; Jeremías 33:3)",
-      "oracion": "Señor de los ejércitos, dame la sabiduría y la visión para enfrentar las batallas de mi vida con inteligencia espiritual. Ayúdame a creer que no hay obstáculos naturales ni gigantes que puedan detener el plan que tienes para mí. Dame el denuedo para pedir cosas grandes en oración, sabiendo que Tú eres el dueño del tiempo y de la creación.",
-      "categoria": "virtudes"
-    },
-"humildad": {
-      "personaje": "Josué",
-      "vivencia": "Antes de ser el gran líder de Israel, Josué fue el servidor fiel de Moisés durante décadas. No buscó el protagonismo ni se apresuró a tomar el poder; se contentó con estar en la retaguardia, aprendiendo y sirviendo. Su ascenso al liderazgo no fue fruto de la ambición personal, sino de una vida de servicio humilde que Dios decidió exaltar en el tiempo perfecto.",
-      "versiculo": "Y hablaba Jehová a Moisés cara a cara, como habla cualquiera a su compañero. Y él volvía al campamento; pero el joven Josué hijo de Nun, su servidor, nunca se apartaba de en medio del tabernáculo (Éxodo 33:11)",
-      "extra": "Humillaos, pues, bajo la poderosa mano de Dios, para que él os exalte cuando fuere tiempo. El que se humilla será enaltecido (1 Pedro 5:6; Mateo 23:12)",
-      "oracion": "Señor, enséñame a servir con la humildad de Josué, entendiendo que el verdadero liderazgo comienza con un corazón de siervo. Ayúdame a no buscar el reconocimiento humano ni a apresurarme por alcanzar posiciones de honor. Que mi mayor deseo sea permanecer en tu presencia, siendo fiel en lo poco, confiando en que Tú me guiarás a donde quieras usarme.",
-      "categoria": "virtudes"
-    },
-    "justicia": {
-      "personaje": "Josué",
-      "vivencia": "Cuando el pueblo pecó por la codicia de Acán en la batalla de Hai, Josué no ignoró la falta para mantener la paz aparente. Entendió que la bendición de Dios estaba ligada a la santidad del pueblo. Con dolor pero con firmeza, enfrentó el pecado y restauró el orden, enseñando que la justicia y la integridad son los pilares indispensables para cualquier victoria espiritual.",
-      "versiculo": "Josué dijo: ¿Por qué nos has turbado? Túrbete Jehová en este día. Y todos los israelitas los apedrearon, y los quemaron (Josué 7:25)",
-      "extra": "La justicia engrandece a la nación; mas el pecado es afrenta de las naciones. Seguid la paz con todos, y la santidad, sin la cual nadie verá al Señor (Proverbios 14:34; Hebreos 12:14)",
-      "oracion": "Dios justo y santo, dame el valor para vivir con integridad y para confrontar aquello que en mi vida me aleja de tu bendición. Ayúdame a no comprometer mis valores por comodidad o temor al qué dirán. Que mi vida sea un reflejo de tu justicia, buscando siempre caminar en pureza y verdad delante de tus ojos y de los hombres.",
-      "categoria": "virtudes"
-    },
-    "paciencia": {
-      "personaje": "Josué",
-      "vivencia": "Josué demostró una paciencia extraordinaria al esperar el tiempo de Dios. Siendo uno de los dos espías que trajeron un buen reporte, tuvo que esperar 40 años vagando en el desierto por la incredulidad de los demás. No se quejó ni se amargó contra el pueblo; simplemente esperó con fe hasta que la generación incrédula pasó, manteniendo su visión intacta a pesar de las décadas de espera.",
-      "versiculo": "Pero mi siervo Caleb, por cuanto hubo en él otro espíritu, y decidió ir tras de mí, yo le meteré en la tierra donde entró, y su descendencia la tendrá en posesión (Números 14:24 - Aplicable a Josué por su compañía)",
-      "extra": "Pero los que esperan en Jehová tendrán nuevas fuerzas; levantarán alas como las águilas. La paciencia tenga su obra completa, para que seáis perfectos y cabales (Isaías 40:31; Santiago 1:4)",
-      "oracion": "Padre Celestial, dame la paciencia de Josué para esperar tus promesas aunque el tiempo pase y las circunstancias parezcan no cambiar. Ayúdame a no amargarme por los retrasos o por las faltas de otros que afectan mi camino. Fortalece mi espíritu para mantenerme enfocado en la meta, confiando plenamente en que lo que has prometido, lo cumplirás en tu tiempo perfecto.",
-      "categoria": "virtudes"
-    },
-    "frustracion": {
-      "personaje": "Josué",
-      "vivencia": "Después de la milagrosa victoria en Jericó, Josué experimentó la amarga derrota en Hai. Se sintió frustrado y confundido, llegando a postrarse en tierra y cuestionar por qué Dios los había hecho pasar el Jordán para ser derrotados. En su momento de mayor desconcierto, buscó el rostro de Dios, aprendiendo que la derrota no era el fin, sino una señal de que algo debía ser corregido.",
-      "versiculo": "¡Ah, Señor Jehová! ¿por qué hiciste pasar a este pueblo el Jordán, para entregarnos en las manos de los amorreos, para que nos destruyan? (Josué 7:7)",
-      "extra": "Cuando el hombre cayere, no quedará postrado, porque Jehová sostiene su mano. Muchas son las aflicciones del justo, pero de todas ellas le librará Jehová (Salmo 37:24; 34:19)",
-     "oracion": "Señor, en mis momentos de fracaso y frustración, cuando las cosas no salen como esperaba, ayúdame a correr hacia Ti en lugar de alejarme. Dame la humildad para preguntar qué debo cambiar y la fortaleza para levantarme del polvo. Que aprenda que mis derrotas temporales son oportunidades para que Tú me enseñes lecciones profundas de dependencia y fe.",
-      "categoria": "emociones"
-    },
-    "perseverancia": {
-      "personaje": "Josué",
-     "vivencia": "La conquista de la tierra prometida no fue un evento de un solo día; fueron años de batallas agotadoras, una tras otra. Josué no se retiró después de las primeras victorias ni se desanimó ante la resistencia de los gigantes. Su perseverancia lo llevó a pelear hasta que cada tribu recibió su herencia, demostrando que la fe no solo es empezar con entusiasmo, sino terminar con honor.",
-      "versiculo": "De la manera que Jehová lo había mandado a Moisés su siervo, así Moisés lo mandó a Josué; y Josué lo hizo así, sin quitar palabra de todo lo que Jehová había mandado a Moisés (Josué 11:15)",
-      "extra": "Y no nos cansemos, pues, de hacer bien; porque a su tiempo segaremos, si no desmayamos. He peleado la buena batalla, he acabado la carrera, he guardado la fe (Gálatas 6:9; 2 Timoteo 4:7)",
-      "oracion": "Dios de constancia, infunde en mi corazón la perseverancia necesaria para terminar la obra que has comenzado en mí. No permitas que me rinda a mitad del camino por el cansancio o la monotonía de las batallas diarias. Dame fuerzas nuevas cada mañana para seguir conquistando las áreas de mi vida que aún no se han rendido a Ti, hasta ver cumplido tu propósito total.",
-      "categoria": "virtudes"
-    },
-	"intercesion": {
-      "personaje": "Josué",
-      "vivencia": "En los momentos de crisis nacional, Josué no solo actuaba como general, sino como un intercesor profundo. Cuando el pueblo fue derrotado en Hai, se postró sobre su rostro delante del arca de Jehová hasta caer la tarde, llorando y rogando por la gloria del nombre de Dios. Entendía que la reputación de Dios entre las naciones era más importante que su propia reputación como líder.",
-      "versiculo": "Entonces Josué rompió sus vestidos, y se postró en tierra sobre su rostro delante del arca de Jehová hasta caer la tarde, él y los ancianos de Israel (Josué 7:6)",
-      "extra": "La oración eficaz del justo puede mucho. Y busqué entre ellos hombre que hiciese vallado y que se pusiese en la brecha delante de mí, a favor de la tierra (Santiago 5:16; Ezequiel 22:30)",
-      "oracion": "Señor, pon en mí una carga genuina por la intercesión. Ayúdame a no solo preocuparme por mis problemas, sino a dolerme por las caídas de otros y por la condición de tu pueblo. Dame un corazón que se postre en tu presencia antes de tomar cualquier acción, buscando siempre que tu nombre sea glorificado en todo lo que hago y en todo lo que permites en mi vida.",
-      "categoria": "virtudes"
-    },
-    "vision": {
-      "personaje": "Josué",
-      "vivencia": "A diferencia de la mayoría que solo veía muros infranqueables y gigantes aterradores, Josué tenía una visión espiritual aguda. Él veía la tierra prometida a través de los ojos de la promesa de Dios. Su visión no ignoraba la realidad de los problemas, pero los veía como algo pequeño en comparación con el poder del Dios que había prometido entregárselos.",
-      "versiculo": "Si Jehová se agradare de nosotros, él nos llevará a esta tierra, y nos la entregará; tierra que fluye leche y miel (Números 14:8)",
-      "extra": "Porque por fe andamos, no por vista. Es, pues, la fe la certeza de lo que se espera, la convicción de lo que no se ve (2 Corintios 5:7; Hebreos 11:1)",
-      "oracion": "Dios de visión, limpia mis ojos espirituales para que pueda ver las oportunidades donde otros solo ven obstáculos. Ayúdame a no caminar por lo que mis sentidos perciben, sino por lo que tu Palabra declara. Dame la capacidad de visualizar el cumplimiento de tus promesas en mi vida, manteniendo una actitud positiva y llena de fe incluso frente a los muros más altos.",
-      "categoria": "virtudes"
-    },
-    "autoridad": {
-      "personaje": "Josué",
-      "vivencia": "La autoridad de Josué no provenía de su título o de su fuerza militar, sino de su obediencia a Dios. Cuando hablaba, el pueblo escuchaba porque veían que Dios lo respaldaba. Su autoridad fue confirmada milagrosamente en el paso del Jordán, donde Dios lo engrandeció ante los ojos de todo Israel para que supieran que, así como estuvo con Moisés, estaría con él.",
-      "versiculo": "En aquel día Jehová engrandeció a Josué ante los ojos de todo Israel; y le temieron, como habían temido a Moisés, todos los días de su vida (Josué 4:14)",
-      "extra": "Someteos, pues, a Dios; resistid al diablo, y huirá de vosotros. Porque no nos ha dado Dios espíritu de cobardía, sino de poder, de amor y de dominio propio (Santiago 4:7; 2 Timoteo 1:7)",
-      "oracion": "Padre, te pido que me concedas una autoridad espiritual que nazca de mi intimidad contigo. Que mis palabras y acciones tengan peso porque están respaldadas por una vida de obediencia. Ayúdame a ejercer el liderazgo que me has dado con humildad pero con firmeza, sabiendo que mi respaldo viene de Ti y que no necesito imponer mi voluntad, sino manifestar la tuya.",
-      "categoria": "virtudes"
-    },
-    "gratitud": {
-      "personaje": "Josué",
-      "vivencia": "Después de cruzar el Jordán milagrosamente, Josué no permitió que el pueblo simplemente siguiera su camino. Ordenó levantar un monumento de doce piedras tomadas del lecho del río para que sirvieran como memoria eterna. Para Josué, la gratitud era una disciplina necesaria para que las futuras generaciones no olvidaran las maravillas que Dios había hecho por ellos.",
-      "versiculo": "Cuando vuestros hijos preguntaren a sus padres mañana, diciendo: ¿Qué significan estas piedras? declararéis a vuestros hijos: Israel pasó este Jordán por lo seco (Josué 4:21-22)",
-     "extra": "Bendice, alma mía, a Jehová, y no olvides ninguno de sus beneficios. Dad gracias en todo, porque esta es la voluntad de Dios (Salmo 103:2; 1 Tesalonicenses 5:18)",
-      "oracion": "Señor, no permitas que la rutina o las nuevas batallas me hagan olvidar tus milagros pasados. Ayúdame a levantar 'piedras de memoria' en mi corazón por cada vez que me has librado y provisto. Que mi gratitud sea un testimonio vivo para mi familia y para los que me rodean, recordándoles siempre que Tú eres un Dios fiel que cumple sus promesas.",
-      "categoria": "virtudes"
-    },
-    "valentia": {
-      "personaje": "Josué",
-      "vivencia": "La valentía de Josué se puso a prueba no solo contra enemigos externos, sino contra la opinión popular. Cuando diez de los doce espías sembraron el pánico, Josué se mantuvo firme con valentía, desafiando el miedo colectivo y declarando que con Dios eran más que capaces. Su valentía era el resultado de confiar más en la presencia de Dios que en la apariencia de sus adversarios.",
-      "versiculo": "No seáis rebeldes contra Jehová, ni temáis al pueblo de esta tierra; porque nosotros los comeremos como pan; su amparo se ha apartado de ellos, y con nosotros está Jehová; no los temáis (Números 14:9)",
-      "extra": "El justo está confiado como un león. Porque no nos ha dado Dios espíritu de cobardía, sino de poder, de amor y de dominio propio (Proverbios 28:1; 2 Timoteo 1:7)",
-      "oracion": "Dios de valor, infunde en mi espíritu esa valentía santa que no retrocede ante los desafíos. Ayúdame a ser firme en mis convicciones incluso cuando la mayoría piense diferente. Que mi coraje no sea arrogancia, sino una confianza absoluta en que Tú estás conmigo como poderoso gigante. Dame la fuerza para conquistar cada terreno que me has asignado.",
-      "categoria": "virtudes"
-    },
-	"liderazgo": {
-     "personaje": "Josué",
-      "vivencia": "Josué entendió que el verdadero liderazgo no se trata de mandar, sino de guiar con el ejemplo y bajo la autoridad de Dios. Cuando se encontró con el Príncipe del ejército de Jehová antes de la batalla, se postró en señal de rendición, reconociendo que él no era el comandante supremo, sino un siervo ejecutando las órdenes del cielo. Su autoridad ante el pueblo nacía de su propia sumisión a Dios.",
-      "versiculo": "¿Qué dice mi Señor a su siervo? Y el Príncipe del ejército de Jehová respondió a Josué: Quita el calzado de tus pies, porque el lugar donde estás es santo (Josué 5:14-15)",
-      "extra": "El que quiera hacerse grande entre vosotros será vuestro servidor. Acordaos de vuestros pastores que os hablaron la palabra de Dios e imitad su fe (Mateo 20:26; Hebreos 13:7)",
-      "oracion": "Señor, enséñame a liderar mi propia vida y a los que me rodean con un corazón humilde y rendido a Ti. Ayúdame a recordar que antes de estar al mando, debo estar bajo tu mando. Dame la sabiduría para quitarme el calzado de mi orgullo y reconocer tu santidad en cada decisión que tome, para que mi liderazgo sea de bendición y no de imposición.",
-      "categoria": "virtudes"
-    },
-    "integridad": {
-      "personaje": "Josué",
-      "vivencia": "Aun cuando los gabaonitas lo engañaron para hacer un pacto de paz, Josué mantuvo su palabra. Aunque el pueblo quería atacarlos al descubrir el engaño, Josué decidió honrar el juramento hecho en el nombre de Jehová. Para él, su integridad y el valor de su palabra dada ante Dios eran más importantes que rectificar un error de juicio, demostrando que un hombre de Dios cumple lo que promete.",
-      "versiculo": "Y los hijos de Israel no los mataron, por cuanto los príncipes de la congregación les habían jurado por Jehová el Dios de Israel (Josué 9:18)",
-      "extra": "El que jura en daño suyo, y no por eso cambia; el que hace estas cosas, no resbalará jamás. Sea vuestro hablar: Sí, sí; No, no (Salmo 15:4-5; Mateo 5:37)",
-      "oracion": "Dios de verdad, ayúdame a ser una persona de palabra íntegra. Que mi 'sí' sea siempre 'sí' y mi 'no' sea siempre 'no', incluso cuando mantener mi palabra me cueste o sea incómodo. Dame la sabiduría para consultar siempre contigo antes de comprometerme, pero también la firmeza de carácter para cumplir mis promesas y honrar tu nombre a través de mi honestidad.",
-     "categoria": "virtudes"
-    },
-    "sabiduria": {
-      "personaje": "Josué",
-      "vivencia": "Al final de su camino, Josué fue reconocido como un hombre lleno de espíritu de sabiduría. Esta sabiduría no era simplemente astucia humana para la guerra, sino el resultado de haber sido formado bajo la mentoría de Moisés y la impartición directa de Dios. Su sabiduría se manifestó en cómo repartió la tierra y cómo exhortó al pueblo a no apartarse de la ley, dejando un legado que duró por generaciones.",
-      "versiculo": "Y Josué hijo de Nun fue lleno de espíritu de sabiduría, porque Moisés había puesto sus manos sobre él; y los hijos de Israel le obedecieron (Deuteronomio 34:9)",
-      "extra": "Si alguno de vosotros tiene falta de sabiduría, pídala a Dios, el cual da a todos abundantemente. El principio de la sabiduría es el temor de Jehová (Santiago 1:5; Proverbios 9:10)",
-      "oracion": "Dios de toda sabiduría, pon en mí un espíritu entendido como el de Josué para tomar decisiones que te honren. Ayúdame a aprender de los mentores que pones en mi vida y a ser un canal de tu verdad para los que vienen detrás de mí. Que mi sabiduría se traduzca en una vida ordenada, justa y profundamente arraigada en tus mandamientos.",
-      "categoria": "virtudes"  
-	  }
-    },
-
-    "Moises": {
-      "llamado": {
-        "personaje": "Moisés",
-        "vivencia": "Moisés pastoreaba ovejas en el desierto cuando Dios lo llamó desde una zarza que ardía sin consumirse. A pesar de su pasado y sus miedos, Dios lo eligió para una misión monumental: libertar a Israel. Este encuentro marcó el inicio de una vida de propósito, enseñándonos que Dios no llama a los capacitados, sino que capacita a los que llama.",
-        "versiculo": "Viendo Jehová que él iba a ver, lo llamó Dios de en medio de la zarza, y dijo: ¡Moisés, Moisés! Y él respondió: Heme aquí (Éxodo 3:4)",
-        "extra": "Antes que te formase en el vientre te conocí, y antes que nacieses te santifiqué. No me elegisteis vosotros a mí, sino que yo os elegí a vosotros (Jeremías 1:5; Juan 15:16)",
-        "oracion": "Señor, abre mis ojos espirituales para reconocer tu llamado en medio de mi rutina diaria. Quita de mí toda excusa y temor, y ayúdame a responder con un 'Heme aquí' sincero. Confío en que si Tú me envías, Tú también me darás las herramientas, la gracia y el poder para cumplir la tarea que has puesto en mis manos.",
-        "categoria": "virtudes"
-    },
-		 "inseguridad": {
-      "personaje": "Moisés",
-      "vivencia": "Ante la magnitud de la tarea, Moisés se sintió pequeño y argumentó que no sabía hablar bien. Su inseguridad lo llevó a enfocarse en sus limitaciones en lugar de enfocarse en el poder de quien lo enviaba. Dios, con paciencia, le recordó que Él es quien hizo la boca del hombre y prometió estar con él en cada palabra.",
-      "versiculo": "Entonces dijo Moisés a Jehová: ¡Ay, Señor! nunca he sido hombre de fácil palabra. Y Jehová le respondió: ¿Quién dio la boca al hombre? (Éxodo 4:10-11)",
-      "extra": "Todo lo puedo en Cristo que me fortalece. Diga el débil: Fuerte soy. Porque nada hay imposible para Dios (Filipenses 4:13; Joel 3:10; Lucas 1:37)",
-      "oracion": "Padre, perdóname por las veces que mis inseguridades han sido más grandes que mi fe en Ti. Ayúdame a dejar de mirar mis debilidades y a empezar a mirar tu grandeza. Cuando me sienta incapaz o insuficiente, recuérdame que tu poder se perfecciona en mi debilidad y que Tú eres quien me habilita para toda buena obra.",
-      "categoria": "emociones" 
-   },
-    "mansedumbre": {
-      "personaje": "Moisés",
-      "vivencia": "Moisés es descrito como el hombre más manso de la tierra. La mansedumbre no era falta de carácter, sino poder bajo control. Soportó la crítica de sus propios hermanos, Miriam y Aarón, sin defenderse a sí mismo, dejando que fuera Dios quien diera la cara por él. Aprendió que la verdadera fuerza está en confiar la justicia personal en manos del Señor.",
-      "versiculo": "Y aquel varón Moisés era muy manso, más que todos los hombres que había sobre la tierra (Números 12:3)",
-      "extra": "Bienaventurados los mansos, porque ellos recibirán la tierra por heredad. Llevad mi yugo sobre vosotros, y aprended de mí, que soy manso y humilde de corazón (Mateo 5:5; 11:29)",
-      "oracion": "Señor Jesús, cultiva en mí un espíritu manso y apacible. Ayúdame a no reaccionar impulsivamente ante las críticas o las injusticias, sino a guardar silencio y esperar en tu defensa. Dame el control de mis emociones para que, en lugar de buscar mi propia justicia, pueda reflejar tu carácter y tu paz en todo momento.",
-      "categoria": "virtudes"
-    },
-    "intercesion": {
-      "personaje": "Moisés",
-      "vivencia": "Cuando el pueblo de Israel pecó gravemente con el becerro de oro, Dios propuso destruirlos. Moisés, en lugar de alegrarse por su propia seguridad, se puso en la brecha por el pueblo. Rogó a Dios con tal pasión que incluso pidió que su propio nombre fuera borrado del libro de la vida si no perdonaba a los demás. Su amor por el prójimo detuvo el juicio divino.",
-      "versiculo": "Te ruego que perdones ahora su pecado, y si no, ráeme ahora de tu libro que has escrito (Éxodo 32:32)",
-      "extra": "La oración eficaz del justo puede mucho. Nadie tiene mayor amor que este, que uno ponga su vida por sus amigos (Santiago 5:16; Juan 15:13)",
-      "oracion": "Dios de misericordia, dame un corazón intercesor que se duela por los errores de los demás en lugar de juzgarlos. Ayúdame a orar con fervor por aquellos que se han alejado de Ti, buscando siempre su restauración. Que mi vida sea un puente para que otros encuentren tu perdón, recordándome que Tú siempre escuchas el clamor de los que aman.",
-      "categoria": "virtudes"
-    },
-    "soledad": {
-      "personaje": "Moisés",
-      "vivencia": "Liderar a millones en el desierto fue una tarea solitaria. Moisés a menudo se sentía abrumado por la carga del pueblo y las quejas constantes. En su momento de mayor fatiga, subía al monte a solas con Dios. Fue en esa soledad donde encontró la fuerza, la revelación y la paz necesaria para continuar, entendiendo que la soledad con Dios es en realidad plenitud.",
-      "versiculo": "Y subió Moisés al monte, y la nube cubrió el monte. Y la gloria de Jehová reposó sobre el monte Sinaí (Éxodo 24:15-16)",
-      "extra": "Jehová está conmigo; no temeré lo que me pueda hacer el hombre. Venid a mí todos los que estáis trabajados y cargados, y yo os haré descansar (Salmo 118:6; Mateo 11:28)",
-      "oracion": "Padre Celestial, cuando me sienta solo o incomprendido en mi camino, ayúdame a buscar tu presencia como lo hacía Moisés. Enséñame a disfrutar de los momentos a solas contigo, sabiendo que ahí es donde mi alma se renueva. Que mi soledad no sea motivo de tristeza, sino una oportunidad sagrada para escuchar tu voz y ser fortalecido por tu Espíritu.",
-      "categoria": "emociones"
-    },
-	"ira": {
-      "personaje": "Moisés",
-      "vivencia": "Moisés luchó con su temperamento en momentos críticos. Desde su juventud en Egipto hasta el desierto, la ira fue un desafío constante. En un momento de frustración por la rebeldía del pueblo, golpeó la peña en lugar de hablarle como Dios mandó. Esta falta de control le costó no entrar a la tierra prometida, enseñándonos que nuestras emociones mal gestionadas pueden frenar nuestras bendiciones.",
-      "versiculo": "Y alzó Moisés su mano y golpeó la peña con su vara dos veces; y salieron muchas aguas, y bebió la congregación (Números 20:11)",
-      "extra": "Airaos, pero no pequéis; no se ponga el sol sobre vuestro enojo. El hombre que no refrena su espíritu es como ciudad derribada y sin muro (Efesios 4:26; Proverbios 25:28)",
-      "oracion": "Señor, te entrego mis emociones y especialmente mi carácter. Ayúdame a no permitir que la frustración o la ira gobiernen mis acciones. Dame la paz para responder con sabiduría incluso bajo presión, y ayúdame a recordar que mi obediencia debe ser exacta a tu palabra, sin dejar que mis impulsos humanos manchen tu santidad.",
-      "categoria": "emociones"
-    },
-    "vision": {
-      "personaje": "Moisés",
-      "vivencia": "A pesar de no entrar físicamente a la tierra de Canaán, Dios le permitió a Moisés subir al monte Nebo para verla. Su visión fue más allá de lo geográfico; él vio el cumplimiento de la promesa de Dios para las futuras generaciones. Murió con los ojos puestos en la herencia divina, confiando en que lo que Dios empieza, siempre lo termina a través de su pueblo.",
-      "versiculo": "Subió Moisés de los campos de Moab al monte Nebo... y le mostró Jehová toda la tierra (Deuteronomio 34:1)",
-      "extra": "Puestos los ojos en Jesús, el autor y consumador de la fe. Porque la visión es para un tiempo definido, aunque tardare, espéralo (Hebreos 12:2; Habacuc 2:3)",
-      "oracion": "Dios de promesas, dame una visión que trascienda mi propia vida y mis intereses inmediatos. Ayúdame a trabajar para tu Reino sabiendo que los frutos de mi labor pueden bendecir a generaciones que aún no han nacido. Que mi satisfacción no esté solo en lo que mis manos toquen, sino en saber que he sido parte de tu gran plan eterno.",
-      "categoria": "virtudes"
-    },
-    "autoridad": {
-      "personaje": "Moisés",
-      "vivencia": "La autoridad de Moisés fue puesta a prueba por la rebelión de Coré y sus seguidores, quienes cuestionaron su derecho a liderar. Moisés no peleó por su puesto con palabras humanas, sino que dejó que Dios confirmara quién era su siervo. La tierra se abrió para dar testimonio de que la autoridad delegada por Dios no puede ser derribada por la envidia de los hombres.",
-      "versiculo": "Y aconteció que cuando terminó él de hablar todas estas palabras, se abrió la tierra que estaba debajo de ellos (Números 16:31)",
-      "extra": "No hay autoridad sino de parte de Dios, y las que hay, por Dios han sido establecidas. Ninguna arma forjada contra ti prosperará (Romanos 13:1; Isaías 54:17)",
-      "oracion": "Señor, gracias porque mi respaldo no viene de mi capacidad, sino de tu llamado. Ayúdame a caminar en la autoridad que me has dado con humildad y temor de Ti. Protégeme de las críticas injustas y de la envidia, y permíteme descansar en que Tú eres mi defensor y que nadie puede detener la obra que Tú me has encomendado.",
-      "categoria": "virtudes"
-    },
-    "fatiga": {
-      "personaje": "Moisés",
-      "vivencia": "Hubo momentos en que Moisés sintió que la carga del pueblo era demasiado pesada para él solo. Sentado desde la mañana hasta la tarde juzgando casos, su cuerpo y mente se agotaban. Dios, a través de su suegro Jetro, le enseñó la importancia de delegar y de trabajar en equipo, recordándole que hasta los líderes más grandes necesitan ayuda para no desfallecer.",
-      "versiculo": "Desfallecerás del todo, tú, y también este pueblo que está contigo; porque el trabajo es demasiado pesado para ti (Éxodo 18:18)",
-      "extra": "Mejores son dos que uno; porque tienen mejor paga de su trabajo. Venid a mí todos los que estáis trabajados y cargados (Eclesiastés 4:9; Mateo 11:28)",
-      "oracion": "Padre, reconozco que no puedo hacerlo todo solo y que mi cuerpo tiene límites que debo respetar. Dame la humildad para aceptar ayuda y la sabiduría para delegar responsabilidades en otros. Ayúdame a descansar en Ti cuando me sienta abrumado por el trabajo o las responsabilidades, recordando que la obra es tuya y no mía.",
-      "categoria": "emociones"
-    },
-    "intimidad": {
-      "personaje": "Moisés",
-      "vivencia": "Moisés no se conformaba con saber qué hacía Dios, él quería conocer quién era Dios. Su hambre espiritual lo llevó a pedir ver la gloria divina. Pasaba tanto tiempo en la presencia del Señor que su rostro resplandecía físicamente al bajar del monte. Esa intimidad era el secreto de su fuerza; no era un líder de lejos, sino un amigo de Dios de cerca.",
-      "versiculo": "Y cuando descendía Moisés del monte Sinaí... no sabía Moisés que la piel de su rostro resplandecía, después que hubo hablado con Dios (Éxodo 34:29)",
-      "extra": "La comunión íntima de Jehová es con los que le temen. Acercaos a Dios, y él se acercará a vosotros (Salmo 25:14; Santiago 4:8)",
-      "oracion": "Señor, mi alma tiene sed de Ti. No quiero solo conocer tus bendiciones, quiero conocer tu corazón. Permíteme habitar en tu presencia de tal manera que mi vida refleje tu luz a todos los que me rodean. Que mi tiempo a solas contigo sea mi prioridad absoluta, pues solo de Ti emana la verdadera vida y la transformación.",
-      "categoria": "virtudes"
-    },
-	"santidad": {
-      "personaje": "Moisés",
-      "vivencia": "Desde el primer encuentro en la zarza ardiente, Moisés aprendió que acercarse a Dios requiere una reverencia profunda. Dios le ordenó quitarse el calzado, simbolizando que debía despojarse de sus propias impurezas y caminos humanos para entrar en la presencia del Santo. Su vida fue un proceso de entender que la cercanía con Dios es inseparable de la pureza de corazón.",
-      "versiculo": "Y dijo: No te acerques; quita tu calzado de tus pies, porque el lugar en que tú estás, tierra santa es (Éxodo 3:5)",
-      "extra": "Seguid la paz con todos, y la santidad, sin la cual nadie verá al Señor. Porque escrito está: Sed santos, porque yo soy santo (Hebreos 12:14; 1 Pedro 1:16)",
-      "oracion": "Dios Santo, enséñame a caminar en temor reverente delante de Ti. Ayúdame a identificar y quitar de mi vida aquello que ensucia mi relación contigo. No permito que la rutina me haga olvidar cuán sagrada es tu presencia. Purifica mis pensamientos y mis motivos, para que mi vida sea un lugar donde Tú desees habitar constantemente.",
-      "categoria": "virtudes"
-    },
-    "perseverancia": {
-      "personaje": "Moisés",
-      "vivencia": "Moisés no se rindió ante los constantes rechazos del Faraón ni ante las amenazas de muerte. Volvió una y otra vez ante el trono del rey de Egipto, confiando en que la palabra de Dios se cumpliría a pesar de la terquedad humana. Su fe no dependía de resultados inmediatos, sino de la certeza de que Dios tiene la última palabra sobre cualquier opresor.",
-      "versiculo": "Por la fe dejó a Egipto, no temiendo la ira del rey; porque se sostuvo como viendo al Invisible (Hebreos 11:27)",
-      "extra": "Y no nos cansemos, pues, de hacer bien; porque a su tiempo segaremos, si no desmayamos. Estad firmes y constantes (Gálatas 6:9; 1 Corintios 15:58)",
-      "oracion": "Señor, dame la perseverancia de Moisés para no retroceder cuando encuentre puertas cerradas o corazones endurecidos. Ayúdame a mantenerme firme en mi fe, viendo al Invisible en medio de mis dificultades visibles. Que mi confianza no flaquee por la espera, sino que se fortalezca sabiendo que tu victoria llegará en el momento oportuno.",
-      "categoria": "virtudes"
-    },
-    "sacrificio": {
-      "personaje": "Moisés",
-      "vivencia": "Habiendo sido criado como un príncipe en los palacios de Egipto, Moisés tenía acceso a todas las riquezas y placeres del mundo. Sin embargo, decidió renunciar a su posición de privilegio para identificarse con el sufrimiento de su pueblo. Prefirió el maltrato junto a los esclavos que el goce temporal del pecado, entendiendo que el tesoro eterno vale más que cualquier trono terrenal.",
-      "versiculo": "Rehusó llamarse hijo de la hija de Faraón, escogiendo antes ser maltratado con el pueblo de Dios, que gozar de los deleites temporales del pecado (Hebreos 11:24-25)",
-      "extra": "Si alguno quiere venir en pos de mí, niéguese a sí mismo, tome su cruz, y sígame. Todo lo que para mí era ganancia, lo he estimado como pérdida por amor de Cristo (Mateo 16:24; Filipenses 3:7)",
-      "oracion": "Padre, ayúdame a priorizar los valores de tu Reino por encima de mis comodidades personales. Dame el coraje para renunciar a lo que me ofrece el mundo si eso me impide cumplir tu voluntad. Que mi corazón no se apegue a las riquezas ni al estatus, sino que encuentre su mayor riqueza en servirte y ser hallado fiel a tu lado.",
-      "categoria": "virtudes"
-    },
-    "humildad": {
-      "personaje": "Moisés",
-      "vivencia": "A pesar de ser el líder de toda una nación y el autor de la Ley, Moisés mantuvo un corazón enseñable. Cuando su suegro Jetro, un sacerdote de Madián, le dio un consejo sobre cómo organizar su liderazgo, Moisés no se ofendió por su posición. Escuchó con humildad y puso en práctica el consejo, demostrando que un verdadero líder nunca deja de aprender de los demás.",
-      "versiculo": "Oyó Moisés la voz de su suegro, e hizo todo lo que él dijo (Éxodo 18:24)",
-      "extra": "Dios resiste a los soberbios, y da gracia a los humildes. El que es sabio escucha el consejo (Santiago 4:6; Proverbios 12:15)",
-      "oracion": "Señor, líbrame de la soberbia que me impide escuchar a los demás. Dame un corazón humilde y enseñable que reconozca que no lo sé todo y que necesito de la sabiduría que Tú pones en otros. Ayúdame a valorar los consejos que me das a través de las personas que me rodean, para que mi vida y mi liderazgo sean más efectivos y equilibrados.",
-      "categoria": "virtudes"
-    },
-    "gratitud": {
-      "personaje": "Moisés",
-      "vivencia": "Tras cruzar el Mar Rojo y ver la derrota de sus enemigos, Moisés no se atribuyó la victoria. Lideró al pueblo en un canto de alabanza y gratitud, reconociendo que Jehová era su fortaleza y su cántico. Entendió que recordar y celebrar las victorias de Dios es vital para mantener la fe viva durante las pruebas que vendrían después en el desierto.",
-      "versiculo": "Entonces cantó Moisés y los hijos de Israel este cántico a Jehová, y dijeron: Cantaré yo a Jehová, porque se ha magnificado grandemente (Éxodo 15:1)",
-      "extra": "Dad gracias en todo, porque esta es la voluntad de Dios. Bendice, alma mía, a Jehová, y no olvides ninguno de sus beneficios (1 Tesalonicenses 5:18; Salmo 103:2)",
-      "oracion": "Dios mío, gracias por cada victoria que me has dado y por librarme de mis enemigos. Que nunca olvide celebrar tus maravillas en mi vida. Pon en mi boca un cántico nuevo de gratitud, incluso antes de ver la solución completa, confiando en que si Tú me abriste el camino en el pasado, lo harás de nuevo hoy.",
-      "categoria": "virtudes"
-     }
-    },
-
-  "Marta": {
-    "afanes": {
-      "personaje": "Marta",
-      "vivencia": "Marta se afanaba y preocupaba por muchas cosas, corriendo de un lado a otro para servir perfectamente. Mientras tanto, su hermana María escuchaba a Jesús. El Señor le enseñó que solo una cosa es necesaria: estar en su presencia y encontrar paz.",
-      "versiculo": "Marta, Marta, afanada y turbada estás con muchas cosas. Pero sólo una cosa es necesaria; y María ha escogido la buena parte, la cual no le será quitada (Lucas 10:41-42)",
-      "extra": "Por nada estéis afanosos, sino sean conocidas vuestras peticiones delante de Dios en toda oración. Echando toda vuestra ansiedad sobre él, porque él tiene cuidado de vosotros (Filipenses 4:6; 1 Pedro 5:7)",
-      "oracion": "Señor Jesús, ayúdame a soltar mis afanes y preocupaciones. Enséñame a priorizar tu presencia sobre mi activismo. Dame paz en medio del caos, quietud en medio de las tormentas. Que aprenda como María a sentarme a tus pies y escucharte, confiando que Tú te encargas de todo lo demás.",
-      "categoria": "emociones"
-	  }
-    },	
-	 
- "David": {
-    "valentia": {
-      "personaje": "David",
-      "vivencia": "Siendo apenas un joven pastor, David se enfrentó al gigante Goliat cuando todo el ejército de Israel temblaba de miedo. Su valentía no nacía de su fuerza física ni de su pericia con la honda, sino de una confianza absoluta en el nombre de Jehová. Entendió que el tamaño de su Dios era mucho mayor que el tamaño de cualquier problema que tuviera enfrente.",
-      "versiculo": "Tú vienes a mí con espada y lanza y jabalina; mas yo vengo a ti en el nombre de Jehová de los ejércitos (1 Samuel 17:45)",
-      "extra": "Jehová es la fortaleza de mi vida; ¿de quién he de atemorizarme? Mira que te mando que te esfuerces y seas valiente (Salmo 27:1; Josué 1:9)",
-      "oracion": "Señor, dame la valentía de David para enfrentar los gigantes que hoy me amenazan. Que mi confianza no esté puesta en mis propios recursos, sino en tu poder invencible. Ayúdame a recordar que la batalla es tuya y que, caminando de tu mano, no hay gigante que pueda prevalecer. Infunde denuedo en mi espíritu hoy.",
-      "categoria": "virtudes"
-	},		
-	"tristeza": {
-      "personaje": "David",
-      "vivencia": "David no escondía sus emociones; las derramaba ante Dios. Experimentó tristezas profundas por la traición de sus amigos, la persecución injusta y la pérdida de seres queridos. En sus momentos de mayor abatimiento, aprendió que la tristeza es el lugar donde Dios consuela con más ternura, convirtiendo el lamento en un baile de confianza.",
-      "versiculo": "¿Por qué te abates, oh alma mía, y te turbas dentro de mí? Espera en Dios; porque aún he de alabarle (Salmo 42:5)",
-      "extra": "Bienaventurados los que lloran, porque ellos recibirán consolación. Cercano está Jehová a los quebrantados de corazón (Mateo 5:4; Salmo 34:18)",
-      "oracion": "Padre, cuando la tristeza nuble mi vista y mi alma se sienta abatida, enséñame a correr hacia Ti como David. Recibe mis lágrimas y consuela mi corazón con tu presencia. Ayúdame a esperar en Ti incluso cuando no sienta alegría, confiando en que tu gozo será mi fortaleza y que mañana saldrá el sol de tu justicia.",
-      "categoria": "emociones"
-    },
-    "arrepentimiento": {
-      "personaje": "David",
-      "vivencia": "David cometió errores graves, pero lo que lo hizo un hombre 'conforme al corazón de Dios' fue su capacidad de arrepentirse genuinamente. Cuando fue confrontado por su pecado con Betsabé, no puso excusas ni culpó a otros. Se humilló, reconoció su falta y clamó por un corazón limpio, entendiendo que Dios no desprecia un espíritu quebrantado.",
-      "versiculo": "Crea en mí, oh Dios, un corazón limpio, y renueva un espíritu recto dentro de mí (Salmo 51:10)",
-      "extra": "El que encubre sus pecados no prosperará; mas el que los confiesa y se aparta alcanzará misericordia (Proverbios 28:13)",
-      "oracion": "Señor, dame un corazón sensible al pecado y pronto para el arrepentimiento. No permitas que mi orgullo me impida reconocer mis faltas. Límpiame de toda maldad y restáurame con tu gracia. Gracias porque tu misericordia es más grande que mi pecado y porque en Ti siempre hay una oportunidad para volver a empezar con un espíritu renovado.",
-      "categoria": "virtudes"
-    },
-    "amistad": {
-      "personaje": "David",
-      "vivencia": "La relación entre David y Jonatán es el estándar bíblico de la amistad leal. En medio de la persecución del rey Saúl, Jonatán protegió a David arriesgando su propia vida. David valoró este vínculo más que el oro, demostrando que la fe se fortalece cuando tenemos compañeros de camino que nos aman y nos impulsan hacia el propósito de Dios.",
-      "versiculo": "E hicieron pacto Jonatán y David, porque él le amaba como a sí mismo (1 Samuel 18:3)",
-      "extra": "En todo tiempo ama el amigo, y es como un hermano en tiempo de angustia. Hay amigo más unido que un hermano (Proverbios 17:17; 18:24)",
-      "oracion": "Dios de amor, gracias por los amigos que has puesto en mi vida. Ayúdame a ser un amigo fiel, leal y protector como Jonatán, y a valorar los lazos que me sostienen en los tiempos difíciles. Bendice mis amistades y haz que sean vínculos que nos acerquen más a Ti y nos fortalezcan en nuestra fe común.",
-      "categoria": "virtudes"
-    },
-    "soledad": {
-      "personaje": "David",
-      "vivencia": "Durante años, David vivió huyendo en las cuevas del desierto, sintiéndose como una perdiz perseguida en los montes. A pesar de estar rodeado de hombres, su alma experimentó la soledad del líder rechazado. Fue en ese silencio del desierto donde David compuso sus salmos más profundos, descubriendo que Dios es el refugio más seguro cuando el mundo nos da la espalda.",
-      "versiculo": "Mírame, y ten misericordia de mí, porque estoy solo y afligido (Salmo 25:16)",
-      "extra": "Aunque mi padre y mi madre me dejaran, con todo, Jehová me recogerá. No temas, porque yo estoy contigo (Salmo 27:10; Isaías 41:10)",
-      "oracion": "Señor, cuando me sienta solo o incomprendido, recuérdame que Tú eres mi compañía constante. Que en mis desiertos personales pueda escuchar tu voz con más claridad. Transforma mi soledad en un tiempo de intimidad contigo, donde aprenda a confiar solo en tu protección y a encontrar descanso en tu sombra omnipotente.",
-      "categoria": "emociones"
-    },
-	"gratitud": {
-      "personaje": "David",
-      "vivencia": "Cuando David finalmente se sentó en su trono y Dios le prometió que su linaje sería eterno, no se llenó de orgullo. Al contrario, entró a la presencia de Dios y se preguntó: '¿Quién soy yo para que me hayas traído hasta aquí?'. Su vida fue un testimonio de que el éxito no debe alejarnos de Dios, sino hacernos más conscientes de nuestra total dependencia de Su gracia.",
-      "versiculo": "Y entró el rey David y se puso delante de Jehová, y dijo: Señor Jehová, ¿quién soy yo, y qué es mi casa, para que me hayas traído hasta aquí? (2 Samuel 7:18)",
-      "extra": "Bendice, alma mía, a Jehová, y no olvides ninguno de sus beneficios. Den gracias a Dios en toda situación (Salmo 103:2; 1 Tesalonicenses 5:18)",
-      "oracion": "Padre Celestial, ayúdame a mantener un corazón agradecido en medio de la bendición. Que nunca olvide de dónde me sacaste ni el precio que pagaste por mi libertad. Líbrame de la soberbia del éxito y permíteme siempre reconocer que todo lo que tengo y lo que soy es un regalo de tu infinita misericordia. Que mi vida sea un altar de gratitud continua.",
-      "categoria": "virtudes"
-    },
-    "alabanza": {
-      "personaje": "David",
-      "vivencia": "David entendía que la alabanza era un arma espiritual. No solo cantaba cuando estaba feliz; danzaba con todas sus fuerzas delante de Dios cuando el Arca regresó a Jerusalén, sin importarle las críticas o el qué dirán. Para David, adorar a Dios era más importante que mantener su dignidad real, pues sabía que Dios habita en medio de la alabanza de Su pueblo.",
-      "versiculo": "Y David danzaba con toda su fuerza delante de Jehová; y estaba David vestido con un efod de lino (2 Samuel 6:14)",
-      "extra": "Entrad por sus puertas con acción de gracias, por sus atrios con alabanza. Todo lo que respira alabe a Jehová (Salmo 100:4; 150:6)",
-      "oracion": "Señor, pon en mi boca un cántico nuevo cada mañana. Que mi adoración no dependa de mis circunstancias, sino de quién eres Tú. Ayúdame a alabarte con libertad, sin temor al juicio de los hombres. Que a través de mi alabanza, las cadenas se rompan y tu presencia llene cada rincón de mi vida y de mi hogar.",
-      "categoria": "virtudes"
-    },
-    "paciencia": {
-      "personaje": "David",
-      "vivencia": "A pesar de haber sido ungido como rey siendo un adolescente, David tuvo que esperar muchos años antes de portar la corona. Pasó gran parte de ese tiempo huyendo por su vida en el desierto. No intentó forzar su camino al trono ni matar a Saúl cuando tuvo la oportunidad; decidió esperar el tiempo perfecto de Dios, confiando en que lo que Dios promete, Él mismo lo establece.",
-      "versiculo": "Jehová me guarde de hacer tal cosa contra mi señor, el ungido de Jehová, que yo extienda mi mano contra él (1 Samuel 24:6)",
-      "extra": "Espera en Jehová, y guarda su camino, y él te exaltará para heredar la tierra. La paciencia tenga su obra completa (Salmo 37:34; Santiago 1:4)",
-      "oracion": "Dios de los tiempos, dame la paciencia para esperar tus promesas sin intentar tomar atajos. Ayúdame a no actuar por impulso ni por desesperación cuando las cosas tardan en llegar. Enséñame a confiar en que tu tiempo es perfecto y que no necesito forzar ninguna puerta, porque lo que Tú tienes para mí llegará en el momento exacto.",
-      "categoria": "virtudes"
-    },
-    "integridad": {
-      "personaje": "David",
-      "vivencia": "Incluso cuando nadie lo veía en las cuevas del desierto, David se mantuvo íntegro. Tuvo la oportunidad de terminar con su perseguidor y acabar con sus problemas de un solo golpe, pero su temor a Dios fue mayor que su deseo de alivio personal. David sabía que un corazón conforme al de Dios es aquel que prefiere sufrir antes que violar los principios divinos.",
-      "versiculo": "Jehová juzgará a los pueblos; júzgame, oh Jehová, conforme a mi justicia, y conforme a mi integridad (Salmo 7:8)",
-      "extra": "El que camina en integridad anda confiado; mas el que pervierte sus caminos será quebrantado. Crea en mí un corazón limpio (Proverbios 10:9; Salmo 51:10)",
-      "oracion": "Señor, te pido que la integridad guarde mi vida. Que mis acciones en privado coincidan con lo que profeso en público. Ayúdame a tomar decisiones basadas en tu Palabra y no en mi conveniencia. Que mi carácter sea formado a imagen de Cristo, para que pueda caminar con la frente en alto y con una conciencia limpia ante Ti.",
-      "categoria": "virtudes"
-    },
-    "generosidad": {
-      "personaje": "David",
-      "vivencia": "Al final de su vida, David preparó todo para la construcción del Templo que su hijo Salomón levantaría. Aunque él no lo construiría, dio de sus propios tesoros personales con una alegría inmensa. Entendió que somos solo administradores de lo que Dios nos presta, y que la verdadera riqueza consiste en dar para que la obra de Dios prospere, incluso si nosotros no vemos el resultado final.",
-      "versiculo": "Además de esto, por cuanto tengo mi afecto en la casa de mi Dios, yo entrego para la casa de mi Dios lo que tengo de mi propio tesoro de oro y de plata (1 Crónicas 29:3)",
-      "extra": "El alma generosa será prosperada; y el que saciare, él también será saciado. Dios ama al dador alegre (Proverbios 11:25; 2 Corintios 9:7)",
-      "oracion": "Padre, quita de mí todo egoísmo y avaricia. Enséñame a ser generoso con lo que me has dado, entendiendo que todo proviene de tu mano. Que mi alegría no esté en acumular, sino en sembrar en tu Reino y bendecir a otros. Dame un corazón desprendido que siempre busque poner tus intereses por encima de los míos.",
-      "categoria": "virtudes"
-    },
-	"justicia": {
-      "personaje": "David",
-      "vivencia": "David, como rey, se esforzó por administrar justicia y equidad a todo su pueblo. Incluso cuando cometió errores, aceptó las consecuencias legales y espirituales. Entendía que un trono se afirma en la justicia y que un líder debe proteger al débil y al huérfano, reflejando el carácter de Dios en su gobierno terrenal.",
-      "versiculo": "Y reinó David sobre todo Israel; y David administraba justicia y equidad a todo su pueblo (2 Samuel 8:15)",
-      "extra": "Hacer justicia y juicio es a Jehová más agradable que sacrificio. El trono se robustece con la justicia (Proverbios 21:3; 16:12)",
-      "oracion": "Señor, Juez Justo, ayúdame a actuar con rectitud en todas mis relaciones. Que no muestre favoritismos ni actúe con parcialidad. Dame la sabiduría para defender lo que es correcto y el valor para oponerme a la injusticia. Que mis acciones reflejen que sirvo a un Dios que ama la verdad y la equidad.",
-      "categoria": "virtudes"
-    },
-    "angustia": {
-      "personaje": "David",
-      "vivencia": "En los momentos de persecución de Saúl y más tarde durante la rebelión de su propio hijo Absalón, David experimentó una angustia que le apretaba el alma. En lugar de hundirse en la desesperación, David usó su angustia como un motor para buscar a Dios con más intensidad, descubriendo que Dios es un refugio que nunca falla en el día de la prueba.",
-      "versiculo": "En mi angustia llamé a Jehová, y clamé a mi Dios. Él oyó mi voz desde su templo (Salmo 18:6)",
-      "extra": "Dios es nuestro amparo y fortaleza, nuestro pronto auxilio en las tribulaciones. No se turbe vuestro corazón (Salmo 46:1; Juan 14:1)",
-      "oracion": "Padre, cuando la angustia toque a mi puerta y sienta que las fuerzas me fallan, ayúdame a clamar a Ti con fe. No permitas que el miedo me paralice. Recuérdame que Tú estás por encima de mis problemas y que tu paz, que sobrepasa todo entendimiento, guardará mi corazón y mis pensamientos en Cristo Jesús.",
-      "categoria": "emociones"
-    },
-    "esperanza": {
-      "personaje": "David",
-      "vivencia": "La esperanza de David no estaba puesta en sus ejércitos ni en su riqueza, sino en la bondad de Dios. Aun cuando se encontraba en cuevas o desiertos, declaraba con convicción que vería el favor de Dios en la tierra de los vivientes. Su esperanza era una ancla que mantenía su alma firme durante las tormentas más fuertes de su vida.",
-      "versiculo": "Hubiera yo desmayado, si no creyese que veré la bondad de Jehová en la tierra de los vivientes (Salmo 27:13)",
-      "extra": "Porque tú, oh Señor Jehová, eres mi esperanza, mi seguridad desde mi juventud. La esperanza no avergüenza (Salmo 71:5; Romanos 5:5)",
-      "oracion": "Dios de esperanza, llena mi vida de gozo y paz al confiar en Ti. Cuando las circunstancias parezcan oscuras, ayúdame a mantener mi mirada puesta en tus promesas. Que mi esperanza sea contagiosa para los que me rodean, recordándoles que Tú siempre tienes el control y que tus planes para nosotros son de bien y no de mal.",
-      "categoria": "virtudes"
-    },
-    "confianza": {
-      "personaje": "David",
-      "vivencia": "Incluso cuando se enfrentaba a ejércitos enteros o a traiciones inesperadas, David dormía tranquilo. Su confianza radicaba en que Dios era su escudo y su protector. Aprendió que la verdadera paz no es la ausencia de conflictos, sino la presencia de Dios en medio de ellos, permitiéndole descansar mientras Dios peleaba sus batallas.",
-      "versiculo": "En paz me acostaré, y asimismo dormiré; porque solo tú, Jehová, me haces vivir confiado (Salmo 4:8)",
-      "extra": "Jehová es mi luz y mi salvación; ¿de quién temeré? El que confía en Jehová es como el monte de Sion, que no se mueve (Salmo 27:1; 125:1)",
-      "oracion": "Señor, te entrego mis noches de insomnio y mis preocupaciones. Enséñame a descansar plenamente en tu cuidado, sabiendo que Tú no duermes ni te adormeces. Fortalece mi confianza para que, sin importar lo que pase a mi alrededor, mi corazón permanezca firme y sereno en la seguridad de tu protección divina.",
-      "categoria": "virtudes"
-    },
-    "humildad": {
-      "personaje": "David",
-      "vivencia": "Al final de sus días, David reconoció que todo lo que había logrado y acumulado para el templo no era suyo, sino de Dios. Se humilló ante toda la congregación, declarando que él y su pueblo eran solo extranjeros y peregrinos, y que de lo recibido de la mano de Dios, le daban a Dios. Murió con el corazón de un siervo, no de un dueño.",
-      "versiculo": "Pues todo es tuyo, y de lo recibido de tu mano te damos (1 Crónicas 29:14)",
-      "extra": "La recompensa de la humildad y del temor de Jehová son las riquezas, la honra y la vida. Vestíos de humildad (Proverbios 22:4; 1 Pedro 5:5)",
-      "oracion": "Dios soberano, mantenme siempre humilde, recordándome que nada de lo que tengo es por mérito propio. Todo es por tu gracia. Ayúdame a vivir con manos abiertas, dispuesto a devolverte lo que me has prestado para tu gloria. Que mi vida sea un testimonio de que Tú eres el dueño de todo y yo solo tu humilde servidor.",
-      "categoria": "virtudes"
-     }
-    },	
-		
-"Abraham": {
-    "obediencia": {
-      "personaje": "Abraham",
-      "vivencia": "A los 75 años, Abraham recibió una orden radical: dejar su tierra, su parentela y la casa de su padre para ir a un lugar que Dios le mostraría. Sin tener un mapa ni un destino final claro, Abraham empacó y salió. Su obediencia no fue negociada ni postergada; fue una respuesta inmediata basada únicamente en la voz de quien lo llamaba.",
-      "versiculo": "Y se fue Abram, como Jehová le dijo; y Lot fue con él. Y era Abram de edad de setenta y cinco años cuando salió de Harán (Génesis 12:4)",
-      "extra": "Por la fe Abraham, siendo llamado, obedeció para salir al lugar que había de recibir como herencia; y salió sin saber a dónde iba (Hebreos 11:8)",
-      "oracion": "Señor, dame un corazón dispuesto a obedecerte incluso cuando no entienda el destino final. Ayúdame a soltar mis seguridades terrenales para abrazar tus promesas. Que mi fe sea tan práctica que me mueva a actuar conforme a tu voluntad, confiando en que tus planes siempre son mejores que los míos, aunque el camino sea desconocido.",
-      "categoria": "virtudes"
-    },
-    "incertidumbre": {
-      "personaje": "Abraham",
-      "vivencia": "Vivir como extranjero en tiendas de campaña durante décadas trajo momentos de gran incertidumbre a la vida de Abraham. No tenía una ciudad propia ni un territorio fijo. Sin embargo, aprendió a manejar la duda mirando hacia arriba, entendiendo que su seguridad no dependía de la tierra que pisaba, sino del Dios que lo sostenía.",
-      "versiculo": "Por la fe habitó como extranjero en la tierra prometida como en tierra ajena, morando en tiendas (Hebreos 11:9)",
-      "extra": "Porque esperaba la ciudad que tiene fundamentos, cuyo arquitecto y constructor es Dios. No temas, Abram; yo soy tu escudo (Hebreos 11:10; Génesis 15:1)",
-      "oracion": "Padre, en los días de incertidumbre cuando no veo un futuro claro, ayúdame a encontrar mi refugio en Ti. Que no me desespere por no tener todas las respuestas ahora mismo. Enséñame a vivir un día a la vez, sabiendo que Tú eres el arquitecto de mi vida y que mi verdadera seguridad está en tu presencia y no en mis posesiones.",
-      "categoria": "emociones"
-    },
-    "paciencia": {
-      "personaje": "Abraham",
-      "vivencia": "Abraham tuvo que esperar 25 años desde que recibió la promesa de un hijo hasta que vio a Isaac nacer. Vio su cuerpo envejecer y las posibilidades naturales morir, pero tuvo que aprender la diferencia entre la urgencia humana y el tiempo divino. Su paciencia fue probada al máximo, enseñándonos que esperar en Dios nunca es tiempo perdido.",
-      "versiculo": "Y habiendo esperado con paciencia, alcanzó la promesa (Hebreos 6:15)",
-      "extra": "Pero los que esperan en Jehová tendrán nuevas fuerzas. Porque aún un poco, y el que ha de venir vendrá, y no tardará (Isaías 40:31; Hebreos 10:37)",
-      "oracion": "Señor, fortalece mi espíritu para esperar tus promesas sin desmayar. Quita de mí la ansiedad de querer controlar los tiempos. Ayúdame a confiar en que Tú no llegas tarde ni temprano, sino en el momento exacto en que tu nombre será más glorificado. Que mi fe crezca en la espera y no se debilite por el paso de los años.",
-      "categoria": "virtudes"
-    },
-    "generosidad": {
-      "personaje": "Abraham",
-      "vivencia": "Cuando hubo un conflicto entre sus pastores y los de su sobrino Lot, Abraham, siendo el mayor y el líder, permitió que Lot eligiera primero las mejores tierras. No peleó por sus derechos ni por la mejor tajada; su generosidad nacía de saber que su provisión no venía de la calidad de la tierra, sino de la bendición de Dios sobre su vida.",
-      "versiculo": "No haya ahora altercado entre nosotros... Si fueres a la mano izquierda, yo iré a la derecha; y si tú a la derecha, yo iré a la izquierda (Génesis 13:8-9)",
-      "extra": "El alma generosa será prosperada. No buscando cada cual lo suyo propio, sino cada cual también lo de los otros (Proverbios 11:25; Filipenses 2:4)",
-      "oracion": "Dios de abundancia, dame un corazón generoso y desprendido como el de Abraham. Ayúdame a no pelear por cosas materiales y a confiar en que Tú eres mi proveedor. Que prefiera la paz y la bendición de otros antes que mi propio beneficio, sabiendo que nunca me faltará nada si camino bajo tu favor y tu dirección.",
-      "categoria": "virtudes"
-    },
-    "hospitalidad": {
-      "personaje": "Abraham",
-      "vivencia": "Abraham estaba sentado a la puerta de su tienda cuando vio a tres viajeros. Sin saber que eran mensajeros divinos, corrió a recibirlos, les ofreció agua, descanso y preparó un banquete. Su actitud de servicio hacia los extraños abrió la puerta para recibir la noticia más esperada de su vida. La hospitalidad de Abraham nos recuerda que al servir a otros, a veces servimos a Dios mismo.",
-      "versiculo": "Señor, si ahora he hallado gracia en tus ojos, te ruego que no pases de tu siervo (Génesis 18:3)",
-      "extra": "No os olvidéis de la hospitalidad, porque por ella algunos, sin saberlo, hospedaron ángeles (Hebreos 13:2)",
-      "oracion": "Señor, hazme sensible a las necesidades de los que pasan por mi camino. Que mi hogar y mi vida sean lugares de descanso y bendición para otros. Ayúdame a servir con alegría y sin interés, recordando que cada vez que extiendo mi mano al necesitado o al extraño, estoy honrando tu nombre y reflejando tu amor.",
-      "categoria": "virtudes"
-    },
-	"fe": {
-      "personaje": "Abraham",
-      "vivencia": "La fe de Abraham no fue la ausencia de dudas, sino la decisión de creerle a Dios por encima de la realidad física. A pesar de que su cuerpo y el de Sara estaban 'como muertos' para la procreación, él no se debilitó en su fe. Miró a las estrellas y creyó que su descendencia sería igual de incontable, porque sabía que el que había prometido era fiel para cumplir.",
-      "versiculo": "Y creyó a Jehová, y le fue contado por justicia (Génesis 15:6)",
-      "extra": "Tampoco dudó, por incredulidad, de la promesa de Dios, sino que se fortaleció en fe, dando gloria a Dios. Es, pues, la fe la certeza de lo que se espera (Romanos 4:20; Hebreos 11:1)",
-      "oracion": "Dios de lo imposible, fortalece mi fe para que no se tambalee ante las circunstancias naturales. Cuando mis ojos vean imposibilidad, que mi espíritu vea tu promesa. Ayúdame a creer contra toda esperanza, sabiendo que tu poder no está limitado por mi edad, mi salud o mi economía. Que mi confianza en Ti sea mi mayor tesoro.",
-      "categoria": "virtudes"
-    },
-    "conflicto": {
-      "personaje": "Abraham",
-      "vivencia": "Abraham vivió momentos de tensión profunda en su hogar, especialmente entre Sara y Agar. Se vio atrapado entre su amor por su hijo Ismael y el propósito de Dios con Isaac. En medio del dolor de despedir a una parte de su familia, aprendió que a veces los conflictos requieren decisiones difíciles y que debemos confiar en que Dios cuidará incluso de aquello que tenemos que soltar.",
-      "versiculo": "Entonces dijo Dios a Abraham: No te parezca grave a causa del muchacho y de tu sierva; en todo lo que te dijere Sara, oye su voz (Génesis 21:12)",
-      "extra": "Echa tu carga sobre Jehová, y él te sustentará. Si es posible, en cuanto dependa de vosotros, estad en paz con todos los hombres (Salmo 55:22; Romanos 12:18)",
-      "oracion": "Señor, te entrego los conflictos familiares o personales que hoy me quitan la paz. Dame la sabiduría para tomar decisiones correctas aunque duelan, y la confianza para saber que Tú cuidas de mis seres queridos aun cuando yo no puedo estar presente. Trae orden y consuelo a mi hogar, y ayúdame a descansar en tu soberanía.",
-      "categoria": "emociones"
-    },
-    "intercesion": {
-      "personaje": "Abraham",
-      "vivencia": "Cuando Abraham supo que Sodoma sería destruida, no se alegró por el castigo de los pecadores. Al contrario, se acercó a Dios y regateó con humildad y audacia por la vida de los justos que pudieran estar allí. Su corazón intercesor nos enseña que los amigos de Dios tienen la confianza para pedir misericordia por un mundo que está bajo juicio.",
-      "versiculo": "Y se acercó Abraham y dijo: ¿Destruirás también al justo con el impío? (Génesis 18:23)",
-      "extra": "Pedid, y se os dará; buscad, y hallaréis. La oración eficaz del justo puede mucho (Mateo 7:7; Santiago 5:16)",
-      "oracion": "Padre, pon en mí una carga por los que están perdidos o en peligro. Que no sea indiferente al sufrimiento ajeno ni al destino de los que no te conocen. Dame el denuedo para interceder por mi ciudad y por mi familia, creyendo que tu misericordia siempre busca una oportunidad para salvar antes que destruir.",
-      "categoria": "virtudes"
-    },
-    "sacrificio": {
-      "personaje": "Abraham",
-      "vivencia": "La prueba más dura de Abraham fue el llamado a entregar a su hijo Isaac. Fue un momento de entrega total donde demostró que amaba al dador más que al regalo. En el monte Moriáh, cuando levantó el cuchillo, Dios lo detuvo y le proveyó un sustituto. Abraham aprendió que cuando estamos dispuestos a entregarlo todo, Dios se revela como nuestro Gran Proveedor.",
-      "versiculo": "Y llamó Abraham el nombre de aquel lugar, Jehová proveerá (Génesis 22:14)",
-      "extra": "Hijo mío, Dios se proveerá de cordero para el holocausto. El que no escatimó ni a su propio Hijo, sino que lo entregó por todos nosotros (Génesis 22:8; Romanos 8:32)",
-      "oracion": "Señor, ayúdame a amarte por encima de todas las cosas, incluso de tus propias bendiciones. Si hay algo en mi corazón que se ha convertido en un ídolo, ayúdame a ponerlo en tu altar con confianza. Gracias porque Tú eres mi proveedor y porque nunca me pides algo sin tener preparado algo mucho mayor para mi vida.",
-      "categoria": "virtudes"
-    },
-    "proteccion": {
-      "personaje": "Abraham",
-      "vivencia": "En sus viajes por tierras extrañas y peligrosas, Abraham experimentó el miedo a ser asesinado por causa de su esposa. Aunque cometió errores por ese temor, Dios intervino directamente para protegerlo incluso de sus propias malas decisiones. Abraham descubrió que Dios es un escudo protector que no solo cuida nuestro cuerpo, sino también nuestro destino y reputación.",
-      "versiculo": "No temas, Abram; yo soy tu escudo, y tu galardón será sobremanera grande (Génesis 15:1)",
-      "extra": "El ángel de Jehová acampa alrededor de los que le temen, y los defiende. Jehová te guardará de todo mal (Salmo 34:7; 121:7)",
-      "oracion": "Gracias, Padre, porque eres mi escudo y mi fortaleza. En un mundo lleno de peligros y amenazas, puedo caminar tranquilo porque Tú vas conmigo. Protégeme de mis propios errores y de las acechanzas de otros. Que mi seguridad no dependa de mis fuerzas, sino de tu fidelidad que me rodea como un muro inexpugnable.",
-      "categoria": "virtudes"
-    },
-	"sabiduria": {
-      "personaje": "Abraham",
-      "vivencia": "Abraham mostró una gran sabiduría al manejar sus relaciones y posesiones. Supo cuándo apartarse de Lot para evitar conflictos, cómo negociar con los hijos de Het para enterrar a su esposa Sara con dignidad, y cómo administrar sus riquezas sin permitir que estas gobernaran su corazón. Su sabiduría nacía de una perspectiva eterna: sabía que era un peregrino en camino a una patria mejor.",
-      "versiculo": "Y respondió Abraham: Oyeme, señor mío... y sepultó Abraham a Sara su mujer en la cueva de la heredad de Macpela (Génesis 23:15-19)",
-      "extra": "La sabiduría de lo alto es primeramente pura, después pacífica, amable, benigna. El principio de la sabiduría es el temor de Jehová (Santiago 3:17; Proverbios 1:7)",
-      "oracion": "Señor, dame la sabiduría de Abraham para manejar mis recursos y mis relaciones con inteligencia espiritual. Ayúdame a no apegarme a las cosas de este mundo y a tomar decisiones que honren tu nombre. Que mi vida refleje que mi prioridad es tu Reino y que todo lo demás es secundario frente a la patria celestial que me espera.",
-      "categoria": "virtudes"
-    },
-    "fidelidad": {
-      "personaje": "Abraham",
-      "vivencia": "La fidelidad de Abraham se manifestó en su constancia a lo largo de los años. A pesar de los errores y las esperas, nunca abandonó el altar de Dios. En cada lugar donde acampaba, levantaba un altar para invocar el nombre de Jehová. Su vida no fue perfecta, pero su dirección siempre fue hacia Dios, manteniendo su compromiso hasta el final de sus días.",
-      "versiculo": "Y edificó allí altar a Jehová, e invocó el nombre de Jehová (Génesis 12:8)",
-      "extra": "Sé fiel hasta la muerte, y yo te daré la corona de la vida. El que es fiel en lo muy poco, también en lo más es fiel (Apocalipsis 2:10; Lucas 16:10)",
-      "oracion": "Padre, te pido que pongas en mí un espíritu de fidelidad que no dependa de las emociones del momento. Que en cada etapa de mi vida, ya sea de abundancia o de escasez, yo pueda levantar un altar de adoración para Ti. Ayúdame a ser constante en mi caminar cristiano y a terminar mi carrera con honor y lealtad a tu Palabra.",
-      "categoria": "virtudes"
-    },
-    "esperanza": {
-      "personaje": "Abraham",
-      "vivencia": "Abraham es el ejemplo máximo de esperar contra toda esperanza. Cuando las circunstancias biológicas decían 'no', y el tiempo decía 'tarde', él decidió creer en la palabra de Dios. Su esperanza no era un deseo optimista, sino una ancla basada en el carácter de Dios. Murió sin haber visto todas las promesas cumplidas, pero las vio de lejos y las saludó con fe.",
-      "versiculo": "El creyó en esperanza contra esperanza, para llegar a ser padre de muchas gentes (Romanos 4:18)",
-      "extra": "Conforme a la fe murieron todos estos sin haber recibido lo prometido, sino mirándolo de lejos, y creyéndolo. La esperanza no avergüenza (Hebreos 11:13; Romanos 5:5)",
-      "oracion": "Dios de esperanza, llena mi corazón de una confianza que no dependa de lo que mis ojos ven. Cuando todo parezca perdido, ayúdame a creer en tu promesa 'contra esperanza'. Que mi fe se mantenga firme hasta el final, sabiendo que lo que Tú has dicho se cumplirá, ya sea en mi tiempo o en la herencia que deje a los que vienen detrás.",
-      "categoria": "virtudes"
-    },
-   "paz": {
-      "personaje": "Abraham",
-      "vivencia": "A pesar de vivir en tierras extrañas y rodearse de reyes poderosos y a veces hostiles, Abraham caminaba en una paz sobrenatural. No buscaba pleitos y prefería ceder antes que romper la armonía. Esa paz era el resultado de saber que Dios era su escudo y su galardón; no necesitaba defenderse ansiosamente porque su vida estaba escondida en la protección divina.",
-      "versiculo": "Vete en paz; y Abraham se volvió a su lugar (Génesis 18:33 / 26:31 - Contexto de paz con vecinos)",
-      "extra": "Tú guardarás en completa paz a aquel cuyo pensamiento en ti persevera. La paz de Dios, que sobrepasa todo entendimiento (Isaías 26:3; Filipenses 4:7)",
-      "oracion": "Señor, inunda mi mente y mi corazón con tu paz. Ayúdame a ser un pacificador en mi familia y en mi trabajo, evitando contiendas innecesarias. Que mi tranquilidad sea un testimonio para los demás de que confío plenamente en tu soberanía. Dame la calma de Abraham para dormir tranquilo en tierra extraña, sabiendo que Tú velas mi sueño.",
-      "categoria": "emociones"
-    },
-    "legado": {
-      "personaje": "Abraham",
-      "vivencia": "Abraham no solo vivió para sí mismo; vivió para dejar una bendición que alcanzaría a todas las familias de la tierra. Su mayor legado no fue la riqueza material, sino una familia instruida en el camino de Jehová. Dios dio testimonio de que Abraham mandaría a sus hijos y a su casa después de él para que guardasen el camino de la justicia.",
-      "versiculo": "Porque yo sé que mandará a sus hijos y a su casa después de sí, que guarden el camino de Jehová, haciendo justicia y juicio (Génesis 18:19)",
-      "extra": "La memoria del justo será bendita. Instruye al niño en su camino, y aun cuando fuere viejo no se apartará de él (Proverbios 10:7; 22:6)",
-      "oracion": "Padre, ayúdame a vivir con la conciencia de que mis acciones hoy afectan a las generaciones de mañana. Dame la gracia para instruir a mi familia en tus caminos y para dejar un legado de fe y justicia. Que mi descendencia te conozca y te sirva gracias al ejemplo que les doy cada día. Bendice mi casa para que sea luz en este mundo.",
-      "categoria": "virtudes"	
-     }
-    }
+[
+  {
+    "personaje": "Abraham",
+    "tema": "Fe",
+    "historia": "Abraham obedeció el llamado de Dios sin saber a dónde iba. Dejó su tierra, su seguridad y confió plenamente en la promesa divina. Su fe no dependió de lo visible, sino de la fidelidad de Dios.",
+    "palabra": [
+      {
+        "texto": "Y creyó a Jehová, y le fue contado por justicia",
+        "referencia": "Génesis 15:6"
+      },
+      {
+        "texto": "Por la fe Abraham obedeció para salir al lugar que había de recibir como herencia",
+        "referencia": "Hebreos 11:8"
+      }
+    ],
+    "oracion": "Señor, dame una fe como la de Abraham, capaz de confiar en ti aun cuando no vea el camino claro. Ayúdame a obedecer tu voz y a descansar en tus promesas."
+  },
+  {
+    "personaje": "Ester",
+    "tema": "Valentía",
+    "historia": "Ester arriesgó su vida al presentarse ante el rey para interceder por su pueblo. Comprendió que Dios la había puesto en ese lugar con un propósito mayor que su propia seguridad.",
+    "palabra": [
+      {
+        "texto": "¿Y quién sabe si para esta hora has llegado al reino?",
+        "referencia": "Ester 4:14"
+      },
+      {
+        "texto": "Entraré a ver al rey, aunque no sea conforme a la ley; y si perezco, que perezca",
+        "referencia": "Ester 4:16"
+      }
+    ],
+    "oracion": "Señor, dame el valor de Ester para actuar en el momento correcto. Que no huya del propósito que tienes para mi vida y que confíe en que tú estás conmigo."
+  },
+  {
+    "personaje": "Daniel",
+    "tema": "Fidelidad",
+    "historia": "Daniel decidió ser fiel a Dios aun en una tierra extranjera y bajo amenaza de muerte. Ni la presión ni el peligro lograron apartarlo de su compromiso con el Señor.",
+    "palabra": [
+      {
+        "texto": "Daniel propuso en su corazón no contaminarse",
+        "referencia": "Daniel 1:8"
+      },
+      {
+        "texto": "Mi Dios envió su ángel, el cual cerró la boca de los leones",
+        "referencia": "Daniel 6:22"
+      }
+    ],
+    "oracion": "Señor, ayúdame a mantenerme firme en mi fe aun cuando el entorno sea contrario. Que mi fidelidad a ti sea mayor que cualquier temor."
+  },
+  {
+    "personaje": "Rut",
+    "tema": "Lealtad",
+    "historia": "Rut decidió permanecer fiel a Noemí y al Dios de Israel, aun cuando eso implicaba renunciar a su pasado y comenzar de nuevo. Su lealtad fue recompensada por Dios.",
+    "palabra": [
+      {
+        "texto": "Tu pueblo será mi pueblo, y tu Dios mi Dios",
+        "referencia": "Rut 1:16"
+      },
+      {
+        "texto": "Jehová recompense tu obra, y tu remuneración sea cumplida",
+        "referencia": "Rut 2:12"
+      }
+    ],
+    "oracion": "Señor, enséñame a ser leal en mis relaciones y firme en mi compromiso contigo. Que confíe en que tú bendices la fidelidad del corazón."
+  },
+  {
+    "personaje": "Pablo",
+    "tema": "Perseverancia",
+    "historia": "Pablo enfrentó persecuciones, cárceles y sufrimientos por causa del evangelio, pero nunca abandonó su llamado. Su vida fue un testimonio de perseverancia y entrega total a Dios.",
+    "palabra": [
+      {
+        "texto": "Todo lo puedo en Cristo que me fortalece",
+        "referencia": "Filipenses 4:13"
+      },
+      {
+        "texto": "He peleado la buena batalla, he acabado la carrera, he guardado la fe",
+        "referencia": "2 Timoteo 4:7"
+      }
+    ],
+    "oracion": "Señor, dame la fortaleza para perseverar aun cuando el camino sea difícil. Que mi vida refleje un compromiso constante contigo hasta el final."
   }
-}
+]
+
+
 
 
 
