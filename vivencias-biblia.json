@@ -78,12 +78,80 @@
       }
     ],
     "oracion": "Señor, dame la fortaleza para perseverar aun cuando el camino sea difícil. Que mi vida refleje un compromiso constante contigo hasta el final."
+  },
+{
+    "personaje": "Marta",
+    "tema": "Servicio",
+    "historia": "Marta amaba servir al Señor y se esforzaba por atender cada detalle. Sin embargo, Jesús le enseñó que, aunque el servicio es valioso, nunca debe desplazar la prioridad de estar a sus pies y escuchar su voz.",
+    "palabra": [
+      {
+        "texto": "Marta, Marta, afanada y turbada estás con muchas cosas",
+        "referencia": "Lucas 10:41"
+      },
+      {
+        "texto": "Pero una cosa es necesaria; y María ha escogido la buena parte",
+        "referencia": "Lucas 10:42"
+      }
+    ],
+    "oracion": "Señor, ayúdame a servirte con amor sin perder de vista lo más importante: pasar tiempo contigo. Ordena mis prioridades y enséñame a descansar en tu presencia."
+  },
+  {
+    "personaje": "María",
+    "tema": "Devoción",
+    "historia": "María decidió sentarse a los pies de Jesús para escuchar su palabra. Su ejemplo nos recuerda que la intimidad con Dios es la base de toda vida espiritual sólida.",
+    "palabra": [
+      {
+        "texto": "María se sentó a los pies de Jesús y oía su palabra",
+        "referencia": "Lucas 10:39"
+      }
+    ],
+    "oracion": "Señor, enséñame a buscar tu presencia por encima de todo. Que mi corazón siempre anhele escuchar tu voz y aprender de ti."
+  },
+  {
+    "personaje": "Pedro",
+    "tema": "Restauración",
+    "historia": "Pedro negó a Jesús en un momento de temor, pero fue restaurado por su amor y gracia. Dios no lo desechó por su falla, sino que lo levantó para cumplir un propósito mayor.",
+    "palabra": [
+      {
+        "texto": "El Señor, vuelto, miró a Pedro",
+        "referencia": "Lucas 22:61"
+      },
+      {
+        "texto": "Apacienta mis ovejas",
+        "referencia": "Juan 21:17"
+      }
+    ],
+    "oracion": "Señor, gracias porque tu gracia me restaura cuando fallo. Levántame, fortaléceme y ayúdame a seguirte con un corazón humilde."
+  },
+  {
+    "personaje": "Noé",
+    "tema": "Obediencia",
+    "historia": "Noé obedeció a Dios aun cuando nadie más lo hacía. Su fidelidad salvó a su familia y marcó un nuevo comienzo para la humanidad.",
+    "palabra": [
+      {
+        "texto": "Y hizo Noé conforme a todo lo que Dios le mandó",
+        "referencia": "Génesis 6:22"
+      }
+    ],
+    "oracion": "Señor, dame un corazón obediente como el de Noé. Que mi fe no dependa de la opinión de los demás, sino de tu palabra."
+  },
+  {
+    "personaje": "Josué",
+    "tema": "Determinación",
+    "historia": "Josué decidió permanecer fiel a Dios sin importar lo que otros eligieran. Su determinación inspiró a todo un pueblo a servir al Señor.",
+    "palabra": [
+      {
+        "texto": "Yo y mi casa serviremos a Jehová",
+        "referencia": "Josué 24:15"
+      },
+      {
+        "texto": "Esfuérzate y sé valiente",
+        "referencia": "Josué 1:9"
+      }
+    ],
+    "oracion": "Señor, dame la determinación de Josué para seguirte con firmeza. Que mi vida y mi casa te honren cada día."
   }
 ]
-
-
-
-
 
 
 
