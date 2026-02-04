@@ -2,7 +2,7 @@
   {
     "personaje": "Abraham",
     "tema": "Fe",
-    "historia": "Abraham obedeció el llamado de Dios sin saber a dónde iba. Dejó su tierra, su seguridad y confió plenamente en la promesa divina. Su fe no dependió de lo visible, sino de la fidelidad de Dios.",
+    "historia": "Abraham fue llamado por Dios a dejar su tierra, su familia y su seguridad, sin saber a dónde iba. Decidió obedecer confiando únicamente en la promesa del Señor. Su vida demuestra que la fe verdadera no depende de lo visible, sino de la confianza total en la fidelidad de Dios.",
     "palabra": [
       {
         "texto": "Y creyó a Jehová, y le fue contado por justicia",
@@ -13,317 +13,361 @@
         "referencia": "Hebreos 11:8"
       }
     ],
-    "oracion": "Señor, dame una fe como la de Abraham, capaz de confiar en ti aun cuando no vea el camino claro. Ayúdame a obedecer tu voz y a descansar en tus promesas."
+    "oracion": "Señor, dame una fe como la de Abraham, capaz de obedecer aun cuando no entienda el camino. Ayúdame a confiar en tus promesas y a caminar seguro de que tú siempre cumples tu palabra."
   },
   {
-    "personaje": "Ester",
-    "tema": "Valentía",
-    "historia": "Ester arriesgó su vida al presentarse ante el rey para interceder por su pueblo. Comprendió que Dios la había puesto en ese lugar con un propósito mayor que su propia seguridad.",
+    "personaje": "Isaac",
+    "tema": "Confianza",
+    "historia": "Isaac aprendió a confiar en Dios en medio de conflictos y oposición. Aun cuando enfrentó disputas y momentos de escasez, decidió permanecer donde Dios le había indicado. Su vida refleja una fe tranquila que descansa en la provisión del Señor.",
     "palabra": [
       {
-        "texto": "¿Y quién sabe si para esta hora has llegado al reino?",
-        "referencia": "Ester 4:14"
-      },
-      {
-        "texto": "Entraré a ver al rey, aunque no sea conforme a la ley; y si perezco, que perezca",
-        "referencia": "Ester 4:16"
+        "texto": "Y sembró Isaac en aquella tierra, y cosechó aquel año ciento por uno; y le bendijo Jehová",
+        "referencia": "Génesis 26:12"
       }
     ],
-    "oracion": "Señor, dame el valor de Ester para actuar en el momento correcto. Que no huya del propósito que tienes para mi vida y que confíe en que tú estás conmigo."
+    "oracion": "Señor, enséñame a confiar en ti aun cuando las circunstancias no sean fáciles. Ayúdame a descansar en tu provisión y a permanecer firme donde tú me has puesto."
   },
   {
-    "personaje": "Daniel",
+    "personaje": "Jacob",
+    "tema": "Transformación",
+    "historia": "Jacob comenzó su vida marcado por el engaño y la autosuficiencia, pero tuvo un encuentro profundo con Dios que transformó su identidad. A través de procesos difíciles, el Señor cambió su corazón y le dio un nuevo nombre y propósito.",
+    "palabra": [
+      {
+        "texto": "No se dirá más tu nombre Jacob, sino Israel",
+        "referencia": "Génesis 32:28"
+      }
+    ],
+    "oracion": "Señor, transforma mi carácter y mi corazón. Llévame a dejar atrás lo que no te agrada y a vivir conforme al propósito que tienes para mi vida."
+  },
+  {
+    "personaje": "José",
     "tema": "Fidelidad",
-    "historia": "Daniel decidió ser fiel a Dios aun en una tierra extranjera y bajo amenaza de muerte. Ni la presión ni el peligro lograron apartarlo de su compromiso con el Señor.",
+    "historia": "José fue traicionado por sus hermanos, vendido como esclavo y encarcelado injustamente. Aun así, decidió mantenerse fiel a Dios en todo momento. Su historia muestra que la fidelidad en lo secreto es recompensada por Dios en su tiempo perfecto.",
     "palabra": [
       {
-        "texto": "Daniel propuso en su corazón no contaminarse",
-        "referencia": "Daniel 1:8"
+        "texto": "¿Cómo, pues, haría yo este grande mal, y pecaría contra Dios?",
+        "referencia": "Génesis 39:9"
       },
       {
-        "texto": "Mi Dios envió su ángel, el cual cerró la boca de los leones",
-        "referencia": "Daniel 6:22"
+        "texto": "Dios lo encaminó a bien",
+        "referencia": "Génesis 50:20"
       }
     ],
-    "oracion": "Señor, ayúdame a mantenerme firme en mi fe aun cuando el entorno sea contrario. Que mi fidelidad a ti sea mayor que cualquier temor."
+    "oracion": "Señor, ayúdame a mantenerme fiel aun cuando nadie esté mirando. Que mi confianza esté en ti y no en las circunstancias, sabiendo que tú usas todo para bien."
+  },
+  {
+    "personaje": "Moisés",
+    "tema": "Obediencia",
+    "historia": "Moisés se sentía incapaz y lleno de temores, pero decidió obedecer el llamado de Dios. A través de él, el Señor liberó a su pueblo y mostró su poder. Su vida enseña que Dios capacita a quienes obedecen su voz.",
+    "palabra": [
+      {
+        "texto": "Ahora pues, ve, y yo estaré con tu boca",
+        "referencia": "Éxodo 4:12"
+      }
+    ],
+    "oracion": "Señor, ayúdame a obedecerte aun cuando me sienta insuficiente. Confío en que tu presencia me capacita para cumplir tu propósito."
+  },
+  {
+    "personaje": "Josué",
+    "tema": "Valentía",
+    "historia": "Josué asumió el liderazgo del pueblo de Israel después de Moisés, enfrentando grandes desafíos. Dios le recordó que no debía temer, porque Él estaría con él. Su valentía nació de confiar plenamente en la presencia del Señor.",
+    "palabra": [
+      {
+        "texto": "Esfuérzate y sé valiente",
+        "referencia": "Josué 1:9"
+      }
+    ],
+    "oracion": "Señor, dame valentía para enfrentar los retos que tengo delante. Que mi confianza esté puesta en tu presencia y no en mis fuerzas."
+  },
+  {
+    "personaje": "Débora",
+    "tema": "Liderazgo",
+    "historia": "Débora fue jueza y profetisa en Israel, levantada por Dios en un tiempo de crisis. Su liderazgo, sabiduría y fe guiaron al pueblo a la victoria. Ella demuestra que Dios usa a quienes están dispuestos a servirle con valentía.",
+    "palabra": [
+      {
+        "texto": "Cuando gobiernan los príncipes en Israel, cuando el pueblo se ofrece voluntariamente, bendecid a Jehová",
+        "referencia": "Jueces 5:2"
+      }
+    ],
+    "oracion": "Señor, ayúdame a liderar con sabiduría y obediencia. Que mi vida sea instrumento de ánimo y dirección para otros."
+  },
+  {
+    "personaje": "Gedeón",
+    "tema": "Fe",
+    "historia": "Gedeón se consideraba débil, pero Dios lo llamó valiente. A través de él, el Señor mostró que la victoria no depende del número ni de la fuerza humana, sino de confiar plenamente en su poder.",
+    "palabra": [
+      {
+        "texto": "Jehová está contigo, varón esforzado y valiente",
+        "referencia": "Jueces 6:12"
+      }
+    ],
+    "oracion": "Señor, ayúdame a creer en lo que tú dices de mí. Fortalece mi fe y úsame para tu gloria."
   },
   {
     "personaje": "Rut",
     "tema": "Lealtad",
-    "historia": "Rut decidió permanecer fiel a Noemí y al Dios de Israel, aun cuando eso implicaba renunciar a su pasado y comenzar de nuevo. Su lealtad fue recompensada por Dios.",
+    "historia": "Rut decidió permanecer fiel a Noemí y al Dios de Israel, aun cuando eso implicaba dejar su tierra y comenzar de nuevo. Su lealtad y fe fueron recompensadas por Dios de manera abundante.",
     "palabra": [
       {
         "texto": "Tu pueblo será mi pueblo, y tu Dios mi Dios",
         "referencia": "Rut 1:16"
-      },
-      {
-        "texto": "Jehová recompense tu obra, y tu remuneración sea cumplida",
-        "referencia": "Rut 2:12"
       }
     ],
-    "oracion": "Señor, enséñame a ser leal en mis relaciones y firme en mi compromiso contigo. Que confíe en que tú bendices la fidelidad del corazón."
+    "oracion": "Señor, enséñame a ser leal y fiel en todo momento. Que confíe en que tú honras un corazón comprometido contigo."
   },
   {
-    "personaje": "Pablo",
-    "tema": "Perseverancia",
-    "historia": "Pablo enfrentó persecuciones, cárceles y sufrimientos por causa del evangelio, pero nunca abandonó su llamado. Su vida fue un testimonio de perseverancia y entrega total a Dios.",
+    "personaje": "Samuel",
+    "tema": "Disponibilidad",
+    "historia": "Desde niño, Samuel aprendió a escuchar la voz de Dios y a responder con obediencia. En tiempos donde la palabra de Dios escaseaba, él se mantuvo atento y dispuesto.",
     "palabra": [
       {
-        "texto": "Todo lo puedo en Cristo que me fortalece",
-        "referencia": "Filipenses 4:13"
-      },
-      {
-        "texto": "He peleado la buena batalla, he acabado la carrera, he guardado la fe",
-        "referencia": "2 Timoteo 4:7"
+        "texto": "Habla, porque tu siervo oye",
+        "referencia": "1 Samuel 3:10"
       }
     ],
-    "oracion": "Señor, dame la fortaleza para perseverar aun cuando el camino sea difícil. Que mi vida refleje un compromiso constante contigo hasta el final."
+    "oracion": "Señor, afina mi oído espiritual y dame un corazón sensible a tu voz. Aquí estoy para escucharte y obedecerte."
   },
-{
+  {
+    "personaje": "David",
+    "tema": "Valentía",
+    "historia": "Siendo un joven pastor, David enfrentó a Goliat cuando todo el ejército temblaba de miedo. Su valentía nació de una confianza absoluta en el nombre del Señor y no en su fuerza.",
+    "palabra": [
+      {
+        "texto": "Yo vengo a ti en el nombre de Jehová de los ejércitos",
+        "referencia": "1 Samuel 17:45"
+      }
+    ],
+    "oracion": "Señor, dame la valentía de David para enfrentar mis gigantes. Que mi confianza esté puesta en ti y no en mis recursos."
+  },
+  {
+    "personaje": "Salomón",
+    "tema": "Sabiduría",
+    "historia": "Salomón pidió sabiduría a Dios para gobernar al pueblo, y el Señor se la concedió abundantemente. Su vida muestra la importancia de buscar primero la sabiduría que viene de Dios.",
+    "palabra": [
+      {
+        "texto": "Da, pues, a tu siervo corazón entendido",
+        "referencia": "1 Reyes 3:9"
+      }
+    ],
+    "oracion": "Señor, dame sabiduría para tomar decisiones que te honren. Que mi corazón esté alineado con tu voluntad."
+  },
+  {
+    "personaje": "Elías",
+    "tema": "Fidelidad",
+    "historia": "Elías permaneció fiel a Dios en medio de un pueblo que se había apartado del Señor. Aun sintiéndose solo, confió en que Dios seguía obrando con poder.",
+    "palabra": [
+      {
+        "texto": "Vive Jehová, en cuya presencia estoy",
+        "referencia": "1 Reyes 17:1"
+      }
+    ],
+    "oracion": "Señor, ayúdame a serte fiel aun cuando me sienta solo. Que mi confianza esté siempre en ti."
+  },
+  {
+    "personaje": "Eliseo",
+    "tema": "Perseverancia",
+    "historia": "Eliseo decidió no apartarse de Elías hasta recibir la doble porción del Espíritu. Su perseverancia y compromiso con el llamado de Dios marcaron su ministerio.",
+    "palabra": [
+      {
+        "texto": "Vive Jehová, que no te dejaré",
+        "referencia": "2 Reyes 2:2"
+      }
+    ],
+    "oracion": "Señor, dame un corazón perseverante que no se rinda. Ayúdame a seguirte con fidelidad hasta el final."
+  },
+  {
+    "personaje": "Isaías",
+    "tema": "Disponibilidad",
+    "historia": "Isaías tuvo una visión de la santidad de Dios y respondió con un corazón dispuesto a servir. Su vida muestra que un encuentro con Dios produce obediencia y entrega.",
+    "palabra": [
+      {
+        "texto": "Heme aquí, envíame a mí",
+        "referencia": "Isaías 6:8"
+      }
+    ],
+    "oracion": "Señor, aquí estoy. Limpia mi corazón y usa mi vida para cumplir tu propósito."
+  },
+  {
+    "personaje": "Jeremías",
+    "tema": "Fidelidad",
+    "historia": "Jeremías fue llamado por Dios desde joven para llevar un mensaje difícil a un pueblo que no quería escuchar. A pesar del rechazo, la burla y la persecución, permaneció fiel al llamado del Señor. Su vida nos enseña que la fidelidad a Dios no depende de la aceptación de los demás.",
+    "palabra": [
+      {
+        "texto": "Antes que te formase en el vientre te conocí",
+        "referencia": "Jeremías 1:5"
+      }
+    ],
+    "oracion": "Señor, ayúdame a ser fiel a tu llamado aun cuando no sea fácil. Dame fortaleza para obedecer tu voz sin importar la opinión de otros."
+  },
+  {
+    "personaje": "Ezequiel",
+    "tema": "Obediencia",
+    "historia": "Ezequiel fue llamado a obedecer a Dios en medio del exilio, realizando actos difíciles de comprender. Aun cuando no entendía todo, decidió obedecer completamente. Su vida muestra que la obediencia honra a Dios incluso en medio de la confusión.",
+    "palabra": [
+      {
+        "texto": "Y entró en mí el Espíritu, y me afirmó",
+        "referencia": "Ezequiel 2:2"
+      }
+    ],
+    "oracion": "Señor, dame un corazón obediente aun cuando no entienda tu plan. Confío en que tu Espíritu me guiará."
+  },
+  {
+    "personaje": "Daniel",
+    "tema": "Integridad",
+    "historia": "Daniel decidió mantenerse fiel a Dios aun viviendo en una cultura que no compartía su fe. Su integridad fue puesta a prueba muchas veces, pero nunca negoció su relación con el Señor. Dios honró su fidelidad de manera sobrenatural.",
+    "palabra": [
+      {
+        "texto": "Daniel propuso en su corazón no contaminarse",
+        "referencia": "Daniel 1:8"
+      }
+    ],
+    "oracion": "Señor, ayúdame a vivir con integridad en todo momento. Que mi fe no dependa del entorno, sino de mi compromiso contigo."
+  },
+  {
+    "personaje": "Ester",
+    "tema": "Valentía",
+    "historia": "Ester comprendió que Dios la había colocado en una posición clave para salvar a su pueblo. Aunque el riesgo era grande, decidió actuar con valentía y confiar en Dios. Su historia nos recuerda que el propósito es más grande que el temor.",
+    "palabra": [
+      {
+        "texto": "¿Y quién sabe si para esta hora has llegado al reino?",
+        "referencia": "Ester 4:14"
+      }
+    ],
+    "oracion": "Señor, dame el valor para actuar cuando tú me llamas. Ayúdame a confiar en que me has puesto donde estoy con un propósito."
+  },
+  {
+    "personaje": "Job",
+    "tema": "Paciencia",
+    "historia": "Job perdió todo lo que tenía, pero nunca perdió su confianza en Dios. En medio del dolor y la incomprensión, decidió permanecer firme. Su vida nos enseña que la fe verdadera se mantiene aun en medio del sufrimiento.",
+    "palabra": [
+      {
+        "texto": "Jehová dio, y Jehová quitó; sea el nombre de Jehová bendito",
+        "referencia": "Job 1:21"
+      }
+    ],
+    "oracion": "Señor, dame paciencia y fe cuando atraviese momentos difíciles. Ayúdame a confiar en ti aun cuando no entienda lo que sucede."
+  },
+  {
+    "personaje": "Nehemías",
+    "tema": "Liderazgo",
+    "historia": "Nehemías fue movido por compasión al ver la condición de Jerusalén y decidió actuar. Con oración, visión y perseverancia, lideró la reconstrucción de los muros. Su liderazgo estuvo siempre guiado por la dependencia de Dios.",
+    "palabra": [
+      {
+        "texto": "El Dios de los cielos, él nos prosperará",
+        "referencia": "Nehemías 2:20"
+      }
+    ],
+    "oracion": "Señor, dame visión y liderazgo guiados por tu sabiduría. Ayúdame a depender de ti en cada decisión."
+  },
+  {
+    "personaje": "Esdras",
+    "tema": "Compromiso",
+    "historia": "Esdras se dedicó a estudiar, vivir y enseñar la ley de Dios. Su compromiso con la Palabra transformó al pueblo. Nos enseña que la verdadera renovación comienza en el corazón.",
+    "palabra": [
+      {
+        "texto": "Esdras había preparado su corazón",
+        "referencia": "Esdras 7:10"
+      }
+    ],
+    "oracion": "Señor, prepara mi corazón para amar y vivir tu Palabra. Que mi vida sea un reflejo de tu verdad."
+  },
+  {
+    "personaje": "Jonás",
+    "tema": "Arrepentimiento",
+    "historia": "Jonás intentó huir del llamado de Dios, pero aprendió que no se puede escapar de su voluntad. A través del arrepentimiento, experimentó la misericordia del Señor.",
+    "palabra": [
+      {
+        "texto": "La salvación es de Jehová",
+        "referencia": "Jonás 2:9"
+      }
+    ],
+    "oracion": "Señor, corrige mi camino cuando me aparte de tu voluntad. Ayúdame a responder con obediencia y humildad."
+  },
+  {
+    "personaje": "Zacarías",
+    "tema": "Esperanza",
+    "historia": "Zacarías fue usado por Dios para anunciar mensajes de restauración y esperanza a un pueblo desanimado. Recordó que el poder de Dios no depende de la fuerza humana.",
+    "palabra": [
+      {
+        "texto": "No con ejército, ni con fuerza, sino con mi Espíritu",
+        "referencia": "Zacarías 4:6"
+      }
+    ],
+    "oracion": "Señor, renueva mi esperanza y recuérdame que tu Espíritu es suficiente."
+  },
+  {
+    "personaje": "Juan el Bautista",
+    "tema": "Humildad",
+    "historia": "Juan el Bautista preparó el camino para Jesús reconociendo que su misión era señalar al Mesías. Vivió con humildad, entendiendo que su papel era exaltar a Cristo y no a sí mismo.",
+    "palabra": [
+      {
+        "texto": "Es necesario que él crezca, pero que yo mengüe",
+        "referencia": "Juan 3:30"
+      }
+    ],
+    "oracion": "Señor, ayúdame a vivir con humildad y a darte siempre la gloria."
+  },
+  {
+    "personaje": "María (madre de Jesús)",
+    "tema": "Obediencia",
+    "historia": "María aceptó el llamado de Dios con humildad y fe, aun sin comprender todo lo que implicaba. Su obediencia permitió que el plan de salvación avanzara.",
+    "palabra": [
+      {
+        "texto": "He aquí la sierva del Señor",
+        "referencia": "Lucas 1:38"
+      }
+    ],
+    "oracion": "Señor, enséñame a rendir mi vida a tu voluntad con fe y obediencia."
+  },
+  {
     "personaje": "Marta",
     "tema": "Servicio",
-    "historia": "Marta amaba servir al Señor y se esforzaba por atender cada detalle. Sin embargo, Jesús le enseñó que, aunque el servicio es valioso, nunca debe desplazar la prioridad de estar a sus pies y escuchar su voz.",
+    "historia": "Marta servía a Jesús con dedicación, pero en medio de su afán aprendió que la presencia del Señor es prioritaria. Su historia nos enseña que el servicio verdadero nace de una relación cercana con Dios.",
     "palabra": [
       {
         "texto": "Marta, Marta, afanada y turbada estás con muchas cosas",
         "referencia": "Lucas 10:41"
-      },
-      {
-        "texto": "Pero una cosa es necesaria; y María ha escogido la buena parte",
-        "referencia": "Lucas 10:42"
       }
     ],
-    "oracion": "Señor, ayúdame a servirte con amor sin perder de vista lo más importante: pasar tiempo contigo. Ordena mis prioridades y enséñame a descansar en tu presencia."
+    "oracion": "Señor, ayúdame a servirte con un corazón correcto. Que nunca pierda de vista la importancia de estar contigo."
   },
   {
-    "personaje": "María",
+    "personaje": "María (hermana de Marta)",
     "tema": "Devoción",
-    "historia": "María decidió sentarse a los pies de Jesús para escuchar su palabra. Su ejemplo nos recuerda que la intimidad con Dios es la base de toda vida espiritual sólida.",
+    "historia": "María eligió sentarse a los pies de Jesús para escuchar su palabra. Su decisión refleja un corazón que valora la intimidad con Dios por encima de cualquier otra cosa.",
     "palabra": [
       {
         "texto": "María se sentó a los pies de Jesús y oía su palabra",
         "referencia": "Lucas 10:39"
       }
     ],
-    "oracion": "Señor, enséñame a buscar tu presencia por encima de todo. Que mi corazón siempre anhele escuchar tu voz y aprender de ti."
+    "oracion": "Señor, enséñame a buscar tu presencia cada día. Que mi corazón siempre anhele escucharte."
   },
   {
     "personaje": "Pedro",
     "tema": "Restauración",
-    "historia": "Pedro negó a Jesús en un momento de temor, pero fue restaurado por su amor y gracia. Dios no lo desechó por su falla, sino que lo levantó para cumplir un propósito mayor.",
+    "historia": "Pedro negó a Jesús en un momento de temor, pero fue restaurado por el amor y la gracia del Señor. Dios no lo desechó por su falla, sino que lo levantó para cumplir un propósito mayor.",
     "palabra": [
-      {
-        "texto": "El Señor, vuelto, miró a Pedro",
-        "referencia": "Lucas 22:61"
-      },
       {
         "texto": "Apacienta mis ovejas",
         "referencia": "Juan 21:17"
       }
     ],
-    "oracion": "Señor, gracias porque tu gracia me restaura cuando fallo. Levántame, fortaléceme y ayúdame a seguirte con un corazón humilde."
+    "oracion": "Señor, gracias por tu gracia que restaura. Levántame cuando falle y ayúdame a seguirte con un corazón humilde."
   },
   {
-    "personaje": "Noé",
-    "tema": "Obediencia",
-    "historia": "Noé obedeció a Dios aun cuando nadie más lo hacía. Su fidelidad salvó a su familia y marcó un nuevo comienzo para la humanidad.",
-    "palabra": [
-      {
-        "texto": "Y hizo Noé conforme a todo lo que Dios le mandó",
-        "referencia": "Génesis 6:22"
-      }
-    ],
-    "oracion": "Señor, dame un corazón obediente como el de Noé. Que mi fe no dependa de la opinión de los demás, sino de tu palabra."
-  },
-  {
-    "personaje": "Josué",
-    "tema": "Determinación",
-    "historia": "Josué decidió permanecer fiel a Dios sin importar lo que otros eligieran. Su determinación inspiró a todo un pueblo a servir al Señor.",
-    "palabra": [
-      {
-        "texto": "Yo y mi casa serviremos a Jehová",
-        "referencia": "Josué 24:15"
-      },
-      {
-        "texto": "Esfuérzate y sé valiente",
-        "referencia": "Josué 1:9"
-      }
-    ],
-    "oracion": "Señor, dame la determinación de Josué para seguirte con firmeza. Que mi vida y mi casa te honren cada día."
-  },
-  {
-    "personaje": "Isaac",
-    "tema": "Confianza",
-    "historia": "Isaac aprendió a confiar en Dios aun cuando su vida estuvo marcada por decisiones tomadas por otros. Su carácter reflejó una fe tranquila y una dependencia constante del Señor.",
-    "palabra": [
-      { "texto": "Y sembró Isaac en aquella tierra, y cosechó aquel año ciento por uno", "referencia": "Génesis 26:12" }
-    ],
-    "oracion": "Señor, enséñame a confiar en ti aun cuando no tenga control sobre todo. Que mi fe descanse en tu provisión."
-  },
-  {
-    "personaje": "Jacob",
-    "tema": "Transformación",
-    "historia": "Jacob pasó de ser un engañador a un hombre transformado por el encuentro con Dios. El Señor cambió su identidad y le dio un nuevo propósito.",
-    "palabra": [
-      { "texto": "No se dirá más tu nombre Jacob, sino Israel", "referencia": "Génesis 32:28" }
-    ],
-    "oracion": "Señor, transforma mi corazón y mi carácter. Que mi vida refleje la obra que tú haces en mí."
-  },
-  {
-    "personaje": "Samuel",
-    "tema": "Disponibilidad",
-    "historia": "Desde niño, Samuel aprendió a escuchar la voz de Dios y a responder con obediencia. Su vida fue un ejemplo de sensibilidad espiritual.",
-    "palabra": [
-      { "texto": "Habla, porque tu siervo oye", "referencia": "1 Samuel 3:10" }
-    ],
-    "oracion": "Señor, enséñame a escuchar tu voz y a responder con un corazón dispuesto."
-  },
-  {
-    "personaje": "Sansón",
-    "tema": "Dependencia",
-    "historia": "Sansón fue dotado de gran fuerza, pero aprendió que sin obediencia y dependencia de Dios, aun los dones más grandes pueden perderse.",
-    "palabra": [
-      { "texto": "El Espíritu de Jehová vino sobre Sansón", "referencia": "Jueces 14:6" }
-    ],
-    "oracion": "Señor, ayúdame a depender de ti y no solo de los dones que me has dado."
-  },
-  {
-    "personaje": "Gedeón",
-    "tema": "Fe",
-    "historia": "Gedeón se sentía pequeño e incapaz, pero Dios lo llamó valiente y lo usó para liberar a Israel.",
-    "palabra": [
-      { "texto": "Jehová está contigo, varón esforzado y valiente", "referencia": "Jueces 6:12" }
-    ],
-    "oracion": "Señor, ayúdame a creer en lo que tú dices de mí y no en mis temores."
-  },
-  {
-    "personaje": "Elías",
-    "tema": "Fidelidad",
-    "historia": "Elías permaneció fiel a Dios aun cuando estaba solo frente a muchos. Su vida mostró que Dios honra la fidelidad.",
-    "palabra": [
-      { "texto": "Vive Jehová, en cuya presencia estoy", "referencia": "1 Reyes 17:1" }
-    ],
-    "oracion": "Señor, ayúdame a mantenerme fiel aun cuando me sienta solo."
-  },
-  {
-    "personaje": "Eliseo",
+    "personaje": "Pablo",
     "tema": "Perseverancia",
-    "historia": "Eliseo no se apartó de Elías hasta recibir la doble porción. Su perseverancia fue recompensada.",
+    "historia": "Pablo pasó de perseguidor a apóstol, entregando su vida por el evangelio. A pesar de cárceles, persecuciones y sufrimientos, nunca abandonó su llamado. Su vida es ejemplo de perseverancia y fidelidad hasta el final.",
     "palabra": [
-      { "texto": "Vive Jehová, que no te dejaré", "referencia": "2 Reyes 2:2" }
+      {
+        "texto": "He peleado la buena batalla, he acabado la carrera, he guardado la fe",
+        "referencia": "2 Timoteo 4:7"
+      }
     ],
-    "oracion": "Señor, dame un corazón perseverante para seguirte sin rendirme."
-  },
-  {
-    "personaje": "Job",
-    "tema": "Paciencia",
-    "historia": "Job perdió todo, pero nunca perdió su fe. Su paciencia mostró una confianza profunda en Dios.",
-    "palabra": [
-      { "texto": "Jehová dio, y Jehová quitó; sea el nombre de Jehová bendito", "referencia": "Job 1:21" }
-    ],
-    "oracion": "Señor, dame paciencia y fe aun en medio del sufrimiento."
-  },
-  {
-    "personaje": "Nehemías",
-    "tema": "Liderazgo",
-    "historia": "Nehemías lideró la reconstrucción de los muros de Jerusalén con visión, oración y perseverancia.",
-    "palabra": [
-      { "texto": "El Dios de los cielos, él nos prosperará", "referencia": "Nehemías 2:20" }
-    ],
-    "oracion": "Señor, dame liderazgo guiado por oración y sabiduría."
-  },
-  {
-    "personaje": "Esdras",
-    "tema": "Compromiso",
-    "historia": "Esdras se dedicó a estudiar, practicar y enseñar la ley de Dios, siendo ejemplo para el pueblo.",
-    "palabra": [
-      { "texto": "Esdras había preparado su corazón", "referencia": "Esdras 7:10" }
-    ],
-    "oracion": "Señor, ayúdame a preparar mi corazón para vivir tu palabra."
-  },
-  {
-    "personaje": "Isaías",
-    "tema": "Disponibilidad",
-    "historia": "Isaías respondió al llamado de Dios con un corazón dispuesto a servir.",
-    "palabra": [
-      { "texto": "Heme aquí, envíame a mí", "referencia": "Isaías 6:8" }
-    ],
-    "oracion": "Señor, aquí estoy. Usa mi vida para tu gloria."
-  },
-  {
-    "personaje": "Jeremías",
-    "tema": "Fidelidad",
-    "historia": "Jeremías fue fiel al mensaje de Dios aun cuando fue rechazado.",
-    "palabra": [
-      { "texto": "Antes que te formase en el vientre te conocí", "referencia": "Jeremías 1:5" }
-    ],
-    "oracion": "Señor, ayúdame a ser fiel a tu llamado."
-  },
-  {
-    "personaje": "Ezequiel",
-    "tema": "Obediencia",
-    "historia": "Ezequiel obedeció a Dios aun en misiones difíciles y simbólicas.",
-    "palabra": [
-      { "texto": "Y entró en mí el Espíritu, y me afirmó", "referencia": "Ezequiel 2:2" }
-    ],
-    "oracion": "Señor, dame obediencia aun cuando no entienda todo."
-  },
-  {
-    "personaje": "Jonás",
-    "tema": "Arrepentimiento",
-    "historia": "Jonás aprendió que no se puede huir del propósito de Dios.",
-    "palabra": [
-      { "texto": "La salvación es de Jehová", "referencia": "Jonás 2:9" }
-    ],
-    "oracion": "Señor, corrige mi camino y llévame a obedecer tu voluntad."
-  },
-  {
-    "personaje": "Zacarías",
-    "tema": "Esperanza",
-    "historia": "Zacarías recibió promesas de restauración y esperanza para el pueblo.",
-    "palabra": [
-      { "texto": "No con ejército, ni con fuerza, sino con mi Espíritu", "referencia": "Zacarías 4:6" }
-    ],
-    "oracion": "Señor, renueva mi esperanza en ti."
-  },
-  {
-    "personaje": "Juan el Bautista",
-    "tema": "Humildad",
-    "historia": "Juan preparó el camino para Jesús, reconociendo que él debía menguar.",
-    "palabra": [
-      { "texto": "Es necesario que él crezca, pero que yo mengüe", "referencia": "Juan 3:30" }
-    ],
-    "oracion": "Señor, ayúdame a vivir con humildad."
-  },
-  {
-    "personaje": "María (madre de Jesús)",
-    "tema": "Obediencia",
-    "historia": "María aceptó el llamado de Dios con fe y humildad.",
-    "palabra": [
-      { "texto": "He aquí la sierva del Señor", "referencia": "Lucas 1:38" }
-    ],
-    "oracion": "Señor, que mi vida se rinda a tu voluntad."
-  },
-  {
-    "personaje": "Lázaro",
-    "tema": "Vida nueva",
-    "historia": "Lázaro fue testimonio del poder de Jesús sobre la muerte.",
-    "palabra": [
-      { "texto": "Yo soy la resurrección y la vida", "referencia": "Juan 11:25" }
-    ],
-    "oracion": "Señor, creo en tu poder que trae vida nueva."
-  },
-  {
-    "personaje": "Esteban",
-    "tema": "Fe",
-    "historia": "Esteban permaneció firme en su fe aun hasta la muerte.",
-    "palabra": [
-      { "texto": "Veo los cielos abiertos", "referencia": "Hechos 7:56" }
-    ],
-    "oracion": "Señor, dame una fe firme hasta el final."
+    "oracion": "Señor, dame la fortaleza para perseverar hasta el final. Que mi vida refleje un compromiso constante contigo."
   }
 ]
-
 
 
 
