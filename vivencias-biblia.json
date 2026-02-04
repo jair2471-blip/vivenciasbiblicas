@@ -366,17 +366,188 @@
       }
     ],
     "oracion": "Señor, dame la fortaleza para perseverar hasta el final. Que mi vida refleje un compromiso constante contigo."
+  },
+  {
+    "personaje": "Jesús",
+    "tema": "Amor",
+    "historia": "Jesús es la máxima expresión del amor de Dios por la humanidad. A través de su vida, enseñanzas, sacrificio y resurrección, mostró un amor incondicional que transforma corazones. Su amor no depende de méritos humanos, sino de la gracia divina.",
+    "palabra": [
+      {
+        "texto": "Porque de tal manera amó Dios al mundo, que ha dado a su Hijo unigénito",
+        "referencia": "Juan 3:16"
+      }
+    ],
+    "oracion": "Señor Jesús, gracias por amarme aun sin merecerlo. Ayúdame a vivir reflejando ese amor hacia los demás cada día."
+  },
+  {
+    "personaje": "Juan (apóstol)",
+    "tema": "Intimidad",
+    "historia": "Juan fue conocido como el discípulo amado, destacándose por su cercanía con Jesús. Su vida nos enseña que una relación íntima con Cristo transforma nuestra manera de vivir y amar.",
+    "palabra": [
+      {
+        "texto": "El que permanece en amor, permanece en Dios",
+        "referencia": "1 Juan 4:16"
+      }
+    ],
+    "oracion": "Señor, llévame a una relación más profunda contigo. Que mi vida permanezca siempre en tu amor."
+  },
+  {
+    "personaje": "Santiago (apóstol)",
+    "tema": "Perseverancia",
+    "historia": "Santiago enfrentó persecución por su fe y permaneció firme hasta el final. Su vida nos recuerda que seguir a Cristo requiere constancia y compromiso.",
+    "palabra": [
+      {
+        "texto": "Bienaventurado el varón que soporta la tentación",
+        "referencia": "Santiago 1:12"
+      }
+    ],
+    "oracion": "Señor, dame perseverancia para mantenerme firme en la fe. Ayúdame a no rendirme en medio de las pruebas."
+  },
+  {
+    "personaje": "Andrés",
+    "tema": "Servicio",
+    "historia": "Andrés fue un discípulo que se caracterizó por llevar personas a Jesús. Aunque no buscó protagonismo, su servicio tuvo un impacto eterno.",
+    "palabra": [
+      {
+        "texto": "Hemos hallado al Mesías",
+        "referencia": "Juan 1:41"
+      }
+    ],
+    "oracion": "Señor, úsame para llevar a otros a conocerte. Que mi vida sea un puente hacia ti."
+  },
+  {
+    "personaje": "Mateo",
+    "tema": "Transformación",
+    "historia": "Mateo dejó su vida como recaudador de impuestos para seguir a Jesús. Su encuentro con Cristo transformó completamente su manera de vivir.",
+    "palabra": [
+      {
+        "texto": "Sígueme",
+        "referencia": "Mateo 9:9"
+      }
+    ],
+    "oracion": "Señor, transforma mi vida como transformaste la de Mateo. Que deje atrás lo viejo y camine contigo."
+  },
+  {
+    "personaje": "Tomás",
+    "tema": "Fe",
+    "historia": "Tomás dudó, pero cuando tuvo un encuentro con Jesús resucitado, su fe fue afirmada. Su historia nos recuerda que Dios también obra en medio de nuestras dudas.",
+    "palabra": [
+      {
+        "texto": "Señor mío, y Dios mío",
+        "referencia": "Juan 20:28"
+      }
+    ],
+    "oracion": "Señor, fortalece mi fe aun cuando tenga dudas. Ayúdame a confiar plenamente en ti."
+  },
+  {
+    "personaje": "Felipe",
+    "tema": "Obediencia",
+    "historia": "Felipe respondió al llamado de Jesús y obedeció aun cuando no entendía todo. Dios lo usó para llevar el evangelio a nuevos lugares.",
+    "palabra": [
+      {
+        "texto": "Sígueme",
+        "referencia": "Juan 1:43"
+      }
+    ],
+    "oracion": "Señor, ayúdame a obedecer tu llamado sin reservas. Confío en que tú guías cada paso."
+  },
+  {
+    "personaje": "Bernabé",
+    "tema": "Ánimo",
+    "historia": "Bernabé fue conocido como el hijo de consolación. Su capacidad para animar y creer en otros fortaleció a la iglesia primitiva.",
+    "palabra": [
+      {
+        "texto": "Era varón bueno, y lleno del Espíritu Santo y de fe",
+        "referencia": "Hechos 11:24"
+      }
+    ],
+    "oracion": "Señor, úsame para animar y edificar a otros. Que mis palabras lleven esperanza."
+  },
+  {
+    "personaje": "Timoteo",
+    "tema": "Fidelidad",
+    "historia": "Timoteo sirvió fielmente junto a Pablo desde joven. Su vida demuestra que Dios usa a quienes se mantienen firmes y fieles a su llamado.",
+    "palabra": [
+      {
+        "texto": "Ninguno tenga en poco tu juventud",
+        "referencia": "1 Timoteo 4:12"
+      }
+    ],
+    "oracion": "Señor, ayúdame a servirte con fidelidad sin importar mi edad. Que mi vida sea ejemplo de fe."
+  },
+  {
+    "personaje": "Tito",
+    "tema": "Responsabilidad",
+    "historia": "Tito fue un líder confiable a quien Pablo encargó importantes responsabilidades en la iglesia. Su vida refleja compromiso y madurez espiritual.",
+    "palabra": [
+      {
+        "texto": "Muéstrate en todo como ejemplo de buenas obras",
+        "referencia": "Tito 2:7"
+      }
+    ],
+    "oracion": "Señor, ayúdame a vivir con responsabilidad y madurez. Que mi vida sea ejemplo para otros."
+  },
+  {
+    "personaje": "Ananías",
+    "tema": "Obediencia",
+    "historia": "Ananías obedeció a Dios aun cuando tuvo miedo de acercarse a Saulo. Su obediencia fue clave en el inicio del ministerio de Pablo.",
+    "palabra": [
+      {
+        "texto": "Ve, porque instrumento escogido me es este",
+        "referencia": "Hechos 9:15"
+      }
+    ],
+    "oracion": "Señor, ayúdame a obedecer aun cuando sienta temor. Confío en que tus planes son perfectos."
+  },
+  {
+    "personaje": "Lidia",
+    "tema": "Hospitalidad",
+    "historia": "Lidia abrió su corazón al mensaje del evangelio y su hogar para servir a la iglesia. Su hospitalidad fue clave para el crecimiento de la obra de Dios.",
+    "palabra": [
+      {
+        "texto": "El Señor abrió el corazón de ella",
+        "referencia": "Hechos 16:14"
+      }
+    ],
+    "oracion": "Señor, abre mi corazón y mi hogar para servirte. Que mi vida sea un espacio donde otros te encuentren."
+  },
+  {
+    "personaje": "Esteban",
+    "tema": "Valentía",
+    "historia": "Esteban dio testimonio de su fe con valentía aun frente a la muerte. Su vida refleja una fe firme y una confianza total en Dios.",
+    "palabra": [
+      {
+        "texto": "Veo los cielos abiertos",
+        "referencia": "Hechos 7:56"
+      }
+    ],
+    "oracion": "Señor, dame valentía para testificar de ti en todo momento. Que mi fe permanezca firme hasta el final."
+  },
+  {
+    "personaje": "Filemón",
+    "tema": "Perdón",
+    "historia": "Filemón fue llamado a vivir el perdón y la reconciliación a través del evangelio. Su historia nos recuerda que la fe transforma nuestras relaciones.",
+    "palabra": [
+      {
+        "texto": "Recíbele como a mí mismo",
+        "referencia": "Filemón 1:17"
+      }
+    ],
+    "oracion": "Señor, enséñame a perdonar como tú me has perdonado. Que mis relaciones reflejen tu gracia."
+  },
+  {
+    "personaje": "Lucas",
+    "tema": "Servicio",
+    "historia": "Lucas sirvió fielmente como médico y compañero de Pablo, documentando con cuidado la obra de Dios. Su vida muestra que servir con excelencia también glorifica a Dios.",
+    "palabra": [
+      {
+        "texto": "Lucas el médico amado",
+        "referencia": "Colosenses 4:14"
+      }
+    ],
+    "oracion": "Señor, ayúdame a servirte con excelencia y fidelidad. Que todo lo que haga glorifique tu nombre."
   }
 ]
-
-
-
-
-
-
-
-
-
 
 
 
