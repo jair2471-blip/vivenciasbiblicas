@@ -546,13 +546,22 @@
       }
     ],
     "oracion": "Señor, ayúdame a servirte con excelencia y fidelidad. Que todo lo que haga glorifique tu nombre."
-  }
-]
-
-
-
-
-
-
+  },
+{
+  "personaje": "María (hermana de Marta)",
+  "tema": "Devoción",
+  "historia": "María fue una mujer que eligió priorizar la presencia de Jesús por encima de toda distracción. Mientras otros se ocupaban en muchas cosas, ella se sentó a los pies del Maestro para escucharlo. Su adoración sincera y su entrega total muestran que lo más importante no es hacer mucho, sino estar con Jesús. María entendió que la comunión con Cristo es la mejor parte que nadie puede quitar.",
+  "palabra": [
+    {
+      "texto": "María, sentándose a los pies de Jesús, oía su palabra",
+      "referencia": "Lucas 10:39"
+    },
+    {
+      "texto": "María tomó una libra de perfume de nardo puro, de mucho precio, y ungió los pies de Jesús",
+      "referencia": "Juan 12:3"
+    }
+  ],
+  "oracion": "Señor Jesús, enséñame a escoger la mejor parte cada día. Quiero sentarme a tus pies, escuchar tu voz y adorarte con todo mi corazón. Que nada sea más importante que tu presencia en mi vida."
+}
 
 
