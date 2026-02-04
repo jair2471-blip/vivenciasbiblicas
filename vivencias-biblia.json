@@ -562,8 +562,185 @@
     }
   ],
   "oracion": "Señor Jesús, enséñame a escoger la mejor parte cada día. Quiero sentarme a tus pies, escuchar tu voz y adorarte con todo mi corazón. Que nada sea más importante que tu presencia en mi vida."
-}
+},
+{
+    "personaje": "María Magdalena",
+    "tema": "Redención",
+    "historia": "María Magdalena fue liberada por Jesús de una vida marcada por el dolor y la opresión. Su encuentro con Cristo la transformó por completo y la convirtió en una seguidora fiel. Fue una de las primeras testigos de la resurrección, mostrando que Dios restaura y da un nuevo propósito a quienes se acercan a Él.",
+    "palabra": [
+      {
+        "texto": "Jesús le dijo: María. Volviéndose ella, le dijo: Raboni",
+        "referencia": "Juan 20:16"
+      }
+    ],
+    "oracion": "Señor, gracias porque tu gracia me restaura y me da una nueva identidad. Quiero seguirte con un corazón agradecido y fiel."
+  },
+  {
+    "personaje": "José de Arimatea",
+    "tema": "Valentía",
+    "historia": "José de Arimatea fue un discípulo secreto que, en el momento más difícil, decidió identificarse públicamente con Jesús. Con valentía pidió el cuerpo del Señor y le dio sepultura digna. Su vida nos recuerda que llega un momento donde la fe debe hacerse visible.",
+    "palabra": [
+      {
+        "texto": "Este fue a Pilato, y pidió el cuerpo de Jesús",
+        "referencia": "Juan 19:38"
+      }
+    ],
+    "oracion": "Señor, dame valentía para honrarte aun cuando cueste. Que mi fe no sea escondida, sino evidente."
+  },
+  {
+    "personaje": "Nicodemo",
+    "tema": "Búsqueda",
+    "historia": "Nicodemo buscó a Jesús con preguntas sinceras y un corazón inquieto. Aunque al principio se acercó con cautela, su fe fue creciendo hasta manifestarse públicamente. Su historia muestra que Dios guía con paciencia a quienes lo buscan de verdad.",
+    "palabra": [
+      {
+        "texto": "El que no naciere de nuevo, no puede ver el reino de Dios",
+        "referencia": "Juan 3:3"
+      }
+    ],
+    "oracion": "Señor, aumenta mi deseo de conocerte más. Guíame en mi búsqueda y transforma mi corazón."
+  },
+  {
+    "personaje": "Apolos",
+    "tema": "Enseñanza",
+    "historia": "Apolos fue un hombre elocuente y poderoso en las Escrituras. Aunque tenía conocimiento, fue humilde para aprender más y crecer en la verdad. Dios lo usó grandemente para edificar a la iglesia.",
+    "palabra": [
+      {
+        "texto": "Era varón elocuente, poderoso en las Escrituras",
+        "referencia": "Hechos 18:24"
+      }
+    ],
+    "oracion": "Señor, dame un corazón humilde para aprender y enseñar con fidelidad tu palabra."
+  },
+  {
+    "personaje": "Priscila",
+    "tema": "Discipulado",
+    "historia": "Priscila, junto con su esposo Aquila, sirvió fielmente instruyendo y discipulando a otros en la fe. Su vida demuestra el impacto del servicio silencioso y constante.",
+    "palabra": [
+      {
+        "texto": "Le tomaron aparte y le expusieron más exactamente el camino de Dios",
+        "referencia": "Hechos 18:26"
+      }
+    ],
+    "oracion": "Señor, úsame para ayudar a otros a crecer en la fe. Que mi vida sea instrumento de edificación."
+  },
+  {
+    "personaje": "Aquila",
+    "tema": "Colaboración",
+    "historia": "Aquila trabajó junto a Pablo y Priscila en la obra del evangelio. Su vida refleja la importancia de servir en unidad y apoyar el llamado de otros.",
+    "palabra": [
+      {
+        "texto": "Colaboradores míos en Cristo Jesús",
+        "referencia": "Romanos 16:3"
+      }
+    ],
+    "oracion": "Señor, ayúdame a trabajar en unidad con otros. Que juntos podamos glorificar tu nombre."
+  },
+  {
+    "personaje": "Silas",
+    "tema": "Gozo",
+    "historia": "Silas acompañó a Pablo en medio de persecuciones y dificultades. Aun en la cárcel, decidió alabar a Dios. Su vida nos enseña que el gozo en el Señor no depende de las circunstancias.",
+    "palabra": [
+      {
+        "texto": "Cantaban himnos a Dios",
+        "referencia": "Hechos 16:25"
+      }
+    ],
+    "oracion": "Señor, enséñame a alabarte aun en medio de las pruebas. Que mi gozo esté siempre en ti."
+  },
+  {
+    "personaje": "Marcos",
+    "tema": "Restauración",
+    "historia": "Marcos falló en un inicio, pero Dios lo restauró y lo volvió útil para el ministerio. Su historia demuestra que los errores no definen el final cuando hay arrepentimiento.",
+    "palabra": [
+      {
+        "texto": "Toma a Marcos y tráele contigo, porque me es útil para el ministerio",
+        "referencia": "2 Timoteo 4:11"
+      }
+    ],
+    "oracion": "Señor, gracias porque me das nuevas oportunidades. Restaura mi vida y úsame para tu gloria."
+  },
+  {
+    "personaje": "Epafrodito",
+    "tema": "Sacrificio",
+    "historia": "Epafrodito sirvió con entrega total, arriesgando su propia vida por la obra de Cristo. Su ejemplo nos llama a servir con amor y sacrificio.",
+    "palabra": [
+      {
+        "texto": "Estuvo próximo a la muerte por la obra de Cristo",
+        "referencia": "Filipenses 2:30"
+      }
+    ],
+    "oracion": "Señor, dame un corazón dispuesto a servirte sin reservas. Que mi vida sea una ofrenda para ti."
+  },
+  {
+    "personaje": "Febe",
+    "tema": "Servicio",
+    "historia": "Febe fue una servidora fiel de la iglesia y colaboradora en el ministerio. Su vida refleja la importancia de apoyar y cuidar la obra de Dios.",
+    "palabra": [
+      {
+        "texto": "Os recomiendo además nuestra hermana Febe",
+        "referencia": "Romanos 16:1"
+      }
+    ],
+    "oracion": "Señor, úsame para servir con amor y fidelidad. Que mi vida bendiga a tu iglesia."
+  },
+  {
+    "personaje": "Abel",
+    "tema": "Fe",
+    "historia": "Abel ofreció a Dios un sacrificio agradable por medio de la fe. Su vida nos enseña que Dios mira el corazón con el que le servimos.",
+    "palabra": [
+      {
+        "texto": "Por la fe Abel ofreció a Dios más excelente sacrificio",
+        "referencia": "Hebreos 11:4"
+      }
+    ],
+    "oracion": "Señor, que todo lo que te ofrezca sea hecho con fe y un corazón sincero."
+  },
+  {
+    "personaje": "Enoc",
+    "tema": "Comunión",
+    "historia": "Enoc caminó con Dios de manera constante y agradable. Su vida nos recuerda que una relación cercana con el Señor transforma nuestra manera de vivir.",
+    "palabra": [
+      {
+        "texto": "Caminó, pues, Enoc con Dios",
+        "referencia": "Génesis 5:24"
+      }
+    ],
+    "oracion": "Señor, quiero caminar contigo cada día. Guía mis pasos y mi vida."
+  },
+  {
+    "personaje": "Noé",
+    "tema": "Obediencia",
+    "historia": "Noé obedeció a Dios aun cuando nadie más lo hacía. Su fidelidad trajo salvación para su familia y mostró el valor de obedecer a Dios sin reservas.",
+    "palabra": [
+      {
+        "texto": "Hizo Noé conforme a todo lo que Dios le mandó",
+        "referencia": "Génesis 6:22"
+      }
+    ],
+    "oracion": "Señor, dame un corazón obediente aun cuando vaya contra la corriente."
+  },
+  {
+    "personaje": "Rahab",
+    "tema": "Fe",
+    "historia": "Rahab confió en el Dios de Israel y actuó con valentía. Su fe le abrió la puerta a una nueva vida y a formar parte del plan redentor de Dios.",
+    "palabra": [
+      {
+        "texto": "Por la fe Rahab no pereció",
+        "referencia": "Hebreos 11:31"
+      }
+    ],
+    "oracion": "Señor, ayúdame a confiar plenamente en ti. Que mi fe me lleve a actuar con valentía."
+  },
+  {
+    "personaje": "Juan (Apocalipsis)",
+    "tema": "Esperanza",
+    "historia": "Juan recibió la revelación final de Jesucristo, mostrando que Dios tiene control absoluto sobre la historia. Su mensaje nos llena de esperanza en medio de la prueba.",
+    "palabra": [
+      {
+        "texto": "Yo soy el Alfa y la Omega",
+        "referencia": "Apocalipsis 1:8"
+      }
+    ],
+    "oracion": "Señor, ayúdame a vivir con esperanza, confiando en que tú tienes el control de todo."
+  }
 ]
-
-
-
